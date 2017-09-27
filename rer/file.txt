@@ -1,0 +1,1690 @@
+words : [u'Which', u'phones', u'were', u'released', u'this', u'year', u'?'] , tags: irrelevant
+words : [u'Show', u'me', u'HTC', u'phones', u'with', u'screen', u'size', u'more', u'than', u'5', u"''"] , tags: irrelevant
+words : [u'Is', u'Sony', u'Xperia', u'Mini', u'still', u'available', u'?'] , tags: feature_query
+words : [u'Could', u'you', u'suggest', u'some', u'Samsung', u'phones', u'between', u'the', u'range', u'10K', u'to', u'15K', u'?'] , tags: irrelevant
+words : [u'What', u'is', u'the', u'cheapest', u'phone', u'that', u'runs', u'Android', u'KitKat'] , tags: irrelevant
+words : [u'Are', u'there', u'any', u'Android', u'phones', u'for', u'less', u'than', u'10K', u'with', u'a', u'screen', u'size', u'of', u'4.5', u'inches', u'?'] , tags: irrelevant
+words : [u'What', u'are', u'the', u'Android', u'KitKat', u'phones', u'available', u'for', u'less', u'than', u'15K', u'?'] , tags: irrelevant
+words : [u'Show', u'me', u'newly', u'released', u'mobile', u'phones'] , tags: irrelevant
+words : [u'Does', u'Samsung', u'Galaxy', u'S4', u'Mini', u'have', u'Whatsapp', u'?'] , tags: feature_query
+words : [u'Which', u'HTC', u'Desire', u'phones', u'have', u'dual', u'SIM', u'support', u'?'] , tags: irrelevant
+words : [u'Which', u'Motorola', u'phones', u'were', u'released', u'after', u'Sept', u'2014', u'?'] , tags: irrelevant
+words : [u'Is', u'Temple', u'Run', u'2', u'supported', u'on', u'Micromax', u'Canvas', u'2', u'?'] , tags: feature_query
+words : [u'Is', u'Samsung', u'Galaxy', u'S5', u'available', u'in', u'Kerala', u'?'] , tags: feature_query
+words : [u'I', u'need', u'a', u'phone', u'of', u'size', u'5', u'inches'] , tags: irrelevant
+words : [u'I', u'need', u'a', u'phone', u'of', u'size', u'5', u'inches'] , tags: irrelevant
+words : [u'Which', u'Froyo', u'phones', u'less', u'than', u'Rs', u'5000', u'have', u'Facebook', u'Messenger', u'?'] , tags: price_query
+words : [u'Does', u'the', u'Samsung', u'Galaxy', u'S4', u'released', u'last', u'year', u'run', u'Jelly', u'Bean', u'?'] , tags: feature_query
+words : [u'Show', u'me', u'all', u'Samsung', u'Galaxy', u'phones'] , tags: irrelevant
+words : [u'Is', u'there', u'a', u'good', u'Android', u'phone', u'for', u'less', u'than', u'7K', u'?'] , tags: irrelevant
+words : [u'Show', u'me', u'the', u'latest', u'Sony', u'Xperia'] , tags: feature_query
+words : [u'What', u'are', u'the', u'phones', u'releasing', u'next', u'week', u'?'] , tags: irrelevant
+words : [u'Has', u'the', u'new', u'Galaxy', u'phone', u'been', u'released', u'in', u'India', u'?'] , tags: irrelevant
+words : [u'Which', u'Lumia', u'phones', u'cost', u'less', u'than', u'20,000', u'?'] , tags: irrelevant
+words : [u'I', u'need', u'a', u'phone', u'which', u'will', u'work', u'in', u'the', u'USA'] , tags: irrelevant
+words : [u'Show', u'me', u'LG', u'phones', u'which', u'are', u'smaller', u'than', u'5.5', u"''"] , tags: irrelevant
+words : [u'Moto', u'E', u'costs', u'Rs', u'6360'] , tags: feature_query
+words : [u'Which', u'Lumia', u'phones', u'were', u'released', u'in', u'the', u'last', u'one', u'month', u'?'] , tags: irrelevant
+words : [u'Temple', u'Run', u'lags', u'in', u'most', u'of', u'the', u'Android', u'phones', u'.'] , tags: irrelevant
+words : [u'Which', u'is', u'the', u'best', u'Android', u'smartphone', u'available', u'in', u'the', u'market', u'?'] , tags: irrelevant
+words : [u'I', u'bought', u'a', u'Dell', u'monitor', u'for', u'Rs', u'15000'] , tags: feature_query
+words : [u'Android', u'5.0', u'was', u'released', u'recently'] , tags: irrelevant
+words : [u'I', u'bought', u'my', u'new', u'phone', u'while', u'I', u'was', u'at', u'Bangalore'] , tags: irrelevant
+words : [u'Some', u'Android', u'smartphones', u'have', u'a', u'front', u'camera'] , tags: irrelevant
+words : [u'Temple', u'run', u'Oz', u'is', u'supported', u'on', u'Android', u'5.0', u'but', u'we', u'need', u'to', u'buy', u'it', u'for', u'Rs', u'124'] , tags: irrelevant
+words : [u'SNote', u'is', u'present', u'by', u'default', u'in', u'Samgung', u'Note3'] , tags: feature_query
+words : [u'My', u'new', u'smartphone', u'has', u'iOS', u'8'] , tags: irrelevant
+words : [u'My', u'Samsung', u'Galaxy', u'Ace', u'2', u'has', u'Android', u'Jelly', u'Bean'] , tags: irrelevant
+words : [u'Apple', u'phones', u'cost', u'more', u'than', u'Rs', u'20000'] , tags: irrelevant
+words : [u'Whatsapp', u'is', u'supported', u'both', u'on', u'Android', u'and', u'iOS'] , tags: irrelevant
+words : [u'I', u'am', u'planning', u'to', u'sell', u'my', u'phone', u'after', u'I', u'come', u'back', u'from', u'Delhi'] , tags: irrelevant
+words : [u'I', u'bought', u'Swipe', u'Keyboard', u'for', u'Rs', u'60'] , tags: feature_query
+words : [u'I', u'downloaded', u'whatsapp', u'on', u'my', u'Samsung', u'Galaxy', u'Ace', u'yesterday'] , tags: feature_query
+words : [u'Subway', u'Surf', u'was', u'updated', u'last', u'week'] , tags: feature_query
+words : [u'I', u'installed', u'skype', u'on', u'my', u'new', u'smartphone'] , tags: irrelevant
+words : [u'Some', u'apps', u'are', u'not', u'supported', u'on', u'iOS'] , tags: disagreement
+words : [u'My', u'sister', u'installed', u'Leo', u"'s", u'fortune', u'on', u'her', u'smartphone', u'today'] , tags: irrelevant
+words : [u'Samsung', u'phones', u'do', u'not', u'support', u'iOS', u'.'] , tags: disagreement
+words : [u'Rs', u'60000', u'is', u'too', u'costly', u'for', u'a', u'phone', u'with', u'screen', u'size', u'4', u"''"] , tags: irrelevant
+words : [u'I', u'will', u'sell', u'my', u'phone', u'for', u'Rs', u'11000'] , tags: irrelevant
+words : [u'Today', u',', u'I', u'uninstalled', u'True', u'caller', u'from', u'my', u'Samsung', u'Galaxy', u'Ace'] , tags: feature_query
+words : [u'Apple', u"'s", u'4.7-inch', u'iPhone', u'6', u'is', u'selling', u'three', u'times', u'faster', u'than', u'the', u'5.5-inch', u'iPhone', u'6', u'Plus', u'in', u'the', u'US,'] , tags: feature_query
+words : [u'Xiaomi', u'Technology', u'Co', u'and', u'Lenovo', u'Group', u'Ltd', u'reel', u'in', u'buyers', u'with', u'full-function', u'touch-screen', u'smartphones', u'that', u'are', u'cheaper'] , tags: irrelevant
+words : [u'Microsoft', u'this', u'week', u'dropped', u'the', u'Nokia', u'name', u'on', u'its', u'latest', u'Lumia', u'535', u'smartphone'] , tags: irrelevant
+words : [u'Today', u'we', u'have', u'added', u'Android', u'5.0', u'AOSP', u'device', u'configuration', u'source', u'code', u'for', u'Xperia', u'Z3'] , tags: irrelevant
+words : [u'Android', u'5.0', u'Lollipop', u'Wi-Fi', u'Bug', u'Affecting', u'Some', u'Users'] , tags: irrelevant
+words : [u'All', u'Windows', u'Phone', u'8', u'Lumia', u'Handsets', u'Confirmed', u'for', u'Windows', u'10', u'Update'] , tags: irrelevant
+words : [u'Angry', u'Birds', u'Cricket', u'game', u'?'] , tags: feature_query
+words : [u'Samsung', u'Chases', u'Curved', u'Smartphone', u'Wave', u'to', u'Beat', u'Flat-Screen', u'Crowd'] , tags: feature_query
+words : [u'How', u'to', u'check', u'Apple', u'Iphone', u'warranty'] , tags: feature_query
+words : [u'Is', u'Google', u'Glass', u'Already', u'Losing', u'Its', u'Mojo', u'?'] , tags: feature_query
+words : [u'Samsung', u'Gear', u'VR', u'Headset', u'to', u'Launch', u'in', u'December', u'Starting', u'$', u'199'] , tags: irrelevant
+words : [u'Sony', u'SmartWatch', u'3', u'Android', u'Wear', u'Smartwatch', u'Goes', u'on', u'Sale'] , tags: irrelevant
+words : [u'Uber', u'Said', u'to', u'Announce', u'Music', u'Partnership', u'With', u'Spotify'] , tags: feature_query
+words : [u'BlackBerry', u'Signs', u'Up', u'Samsung', u',', u'Others', u',', u'in', u'New', u'Mobile', u'Services', u'Push'] , tags: feature_query
+words : [u'Google', u'Nexus', u'6', u'India', u'Launch', u'Looks', u'Imminent'] , tags: feature_query
+words : [u'Micromax', u'Bolt', u'A065', u'With', u'4-Inch', u'Display', u',', u'Android', u'4.4.2', u'KitKat', u'Goes', u'Official'] , tags: irrelevant
+words : [u'Apple', u'Blocks', u'Malware', u'Targeting', u'Its', u'Devices', u'in', u'China'] , tags: feature_query
+words : [u'Xiaomi', u'Continues', u'to', u'Dominate', u'China', u"'s", u'Smartphone', u'Market'] , tags: feature_query
+words : [u'Amazon', u'Executive', u'on', u'Why', u'the', u'Fire', u'Phone', u'Failed', u'to', u'Take', u'Off'] , tags: feature_query
+words : [u'Nokia', u'Will', u'Not', u'Make', u'Mobile', u'Phones', u'in', u'India', u'Anymore'] , tags: feature_query
+words : [u'Can', u'I', u'get', u'an', u'iPhone', u'for', u'Rs', u'20000', u'?'] , tags: price_query
+words : [u'List', u'the', u'Samsung', u'smartphones', u'that', u'have', u'atleast', u'a', u'4', u'inch', u'screen'] , tags: irrelevant
+words : [u'Have', u'you', u'read', u'the', u'fine', u'print', u'?'] , tags: feature_query
+words : [u'Is', u'the', u'Nexus', u'8', u'releasing', u'in', u'India', u'?'] , tags: feature_query
+words : [u'When', u'is', u'Android', u'Kitkat', u'coming', u'to', u'Nexus', u'5', u'?'] , tags: irrelevant
+words : [u'The', u'best', u'price', u'of', u'Apple', u'iPhone', u'6', u'in', u'India', u'is', u'Rs', u'.', u'53500'] , tags: feature_query
+words : [u'I', u'would', u'like', u'to', u'buy', u'a', u'Nokia', u'phone'] , tags: irrelevant
+words : [u'I', u'have', u'had', u'my', u'phone', u'for', u'5', u'years', u'.'] , tags: irrelevant
+words : [u'Android', u'gets', u'apps', u'from', u'Google', u'Play'] , tags: irrelevant
+words : [u'Is', u'the', u'Youtube', u'app', u'free', u'for', u'iOS', u'?'] , tags: irrelevant
+words : [u'Does', u'the', u'Moto', u'X', u'come', u'in', u'built', u'with', u'Lollipop', u'?'] , tags: feature_query
+words : [u'Micromax', u'Canvas', u'Unite', u'2', u'is', u'very', u'sleek'] , tags: feature_query
+words : [u'Can', u'it', u'be', u'delivered', u'by', u'tomorrow', u'?'] , tags: feature_query
+words : [u'Android', u'5.0', u'Lollipop', u'came', u'out', u'a', u'month', u'ago'] , tags: irrelevant
+words : [u'You', u'should', u'buy', u'a', u'Lumia'] , tags: feature_query
+words : [u'Windows', u'Phone', u'8.1', u'is', u'jam-packed', u'with', u'all', u'sorts', u'of', u'cool', u'new', u'features', u'and', u'improvements'] , tags: irrelevant
+words : [u'The', u'Nokia', u'808', u'PureView', u'is', u'officially', u'the', u'last', u'Symbian', u'smartphone'] , tags: irrelevant
+words : [u'Xiomi', u'is', u'one', u'of', u'China', u"'s", u'biggest', u'electronics', u'companies', u'that', u'designs', u',', u'develops', u',', u'and', u'sells', u'smartphones', u'.'] , tags: irrelevant
+words : [u'You', u'should', u'totally', u'install', u'WhatsApp'] , tags: feature_query
+words : [u'Symbian', u'Belle', u'has', u'support', u'for', u'48', u'languages'] , tags: irrelevant
+words : [u'Bada', u'was', u'an', u'operating', u'system', u'developed', u'by', u'Samsung', u'Electronics', u'.'] , tags: irrelevant
+words : [u'Samsung', u'Galaxy', u'Note', u'3', u'is', u'overpriced'] , tags: feature_query
+words : [u'I', u'got', u'a', u'new', u'update', u'for', u'WhatsApp', u'today', u'morning'] , tags: feature_query
+words : [u'LG', u'Fireweb', u'phone', u'runs', u'firefox', u'OS', u'in', u'it'] , tags: irrelevant
+words : [u'Google', u"'s", u'nexus', u'9', u'comes', u'with', u'smart', u'lock', u'technology'] , tags: feature_query
+words : [u'Huawei', u'Ascend', u'Y300', u'runs', u'firefox', u'OS'] , tags: irrelevant
+words : [u'Jolla', u'is', u'featured', u'with', u'Jolla', u'Sailfish', u'operating', u'system'] , tags: feature_query
+words : [u'Does', u'Nokia', u'S60', u'phones', u'get', u'WhatsApp', u'updates', u'?'] , tags: irrelevant
+words : [u'clash', u'of', u'clans', u'is', u'a', u'hit', u'game', u'from', u'Super', u'Cell'] , tags: feature_query
+words : [u'Reckless', u'Racing', u'3', u'is', u'released', u'in', u'2014', u'and', u'it', u'costs', u'around', u'Rs', u'170'] , tags: feature_query
+words : [u'apple', u'unveiled', u'the', u'long-awaited', u'iPhone', u'6', u'which', u'runs', u'ios', u'8', u'at', u'a', u'Cupertino', u'event', u'on', u'9', u'September'] , tags: irrelevant
+words : [u'Spotify', u'is', u'an', u'amazing', u'android', u'App'] , tags: feature_query
+words : [u'WhatsApp', u'is', u'not', u'free', u'after', u'1', u'year'] , tags: feature_query
+words : [u'I', u'have', u'Samsung', u'S4', u'but', u'I', u'ca', u"n't", u'play', u'most', u'games', u'I', u'like', u'ie', u'FarmVille2', u'etc'] , tags: feature_query
+words : [u'Motorola', u'Canada', u"'s", u'head', u'office', u'is', u'at', u'Warden', u'Avenue'] , tags: feature_query
+words : [u'Fuhu', u',', u'the', u'company', u'that', u'created', u'the', u'nabi', u'tablet', u'for', u'kids', u',', u'unveiled', u'the', u'20', u'and', u'24', u'inch', u'nabi', u'Big', u'Tab'] , tags: irrelevant
+words : [u'Samsung', u'reduced', u'Samsung', u'galaxy', u'S2', u"'s", u'price', u'by', u'Rs', u'12000', u'to', u'survive', u'in', u'the', u'market'] , tags: feature_query
+words : [u'Google', u"'s", u'new', u'App', u',', u'inbox', u'released', u'last', u'month', u'runs', u'smoothly', u'on', u'my', u'nexus4'] , tags: feature_query
+words : [u'Phones', u'with', u'size', u'more', u'than', u'5', u"''", u'gives', u'a', u'good', u'experience', u'while', u'watching', u'videos'] , tags: irrelevant
+words : [u'is', u'Nexus', u'9', u'the', u'ultimate', u'iPad', u'killer', u'?'] , tags: feature_query
+words : [u'Does', u'your', u'phone', u'run', u'far', u'cry', u'3', u'?'] , tags: irrelevant
+words : [u'Most', u'of', u'the', u'blackberry', u'phones', u'run', u'blackberry', u'OS'] , tags: irrelevant
+words : [u'Can', u'I', u'play', u'Temple', u'Run', u'on', u'an', u'Android', u'phone', u'with', u'a', u'7', u"''", u'screen', u'size', u'well', u'?'] , tags: irrelevant
+words : [u'Is', u'this', u'phone', u'available', u'in', u'Dubai', u'?'] , tags: irrelevant
+words : [u'I', u'need', u'to', u'buy', u'an', u'iOS', u'phone', u'before', u'Dec', u'for', u'Christmas', u'.'] , tags: irrelevant
+words : [u'Do', u'you', u'have', u'HTC', u'Desire', u'X', u'?'] , tags: feature_query
+words : [u'My', u'budget', u'is', u'15K', u'.'] , tags: feature_query
+words : [u'Do', u'you', u'have', u'Android', u'One', u'?'] , tags: irrelevant
+words : [u'Does', u'Samsung', u'Galaxy', u'smartphone', u'release', u'before', u'July', u'14', u'?'] , tags: irrelevant
+words : [u'Does', u'Microsoft', u'sell', u'smartphones', u'other', u'than', u'the', u'ones', u'having', u'Windows', u'?'] , tags: irrelevant
+words : [u'Can', u'I', u'download', u'Tanpura', u'Droid', u'on', u'desire', u'phone', u'?'] , tags: irrelevant
+words : [u'Will', u'this', u'phone', u'be', u'available', u'in', u'april', u'2015', u'?'] , tags: irrelevant
+words : [u'What', u'is', u'the', u'screen', u'size', u'for', u'Samsung', u'Galaxy', u'Note', u'?'] , tags: feature_query
+words : [u'What', u'are', u'the', u'phones', u'under', u'10k', u'?'] , tags: irrelevant
+words : [u'Can', u'I', u'get', u'this', u'phone', u'in', u'Kolkata', u'?'] , tags: irrelevant
+words : [u'Will', u'whatsapp', u'cost', u'me', u'more', u'than', u'100', u'a', u'year', u'?'] , tags: feature_query
+words : [u'Does', u'Samsung', u'grand', u'have', u'a', u'screen', u'size', u'of', u'more', u'than', u'5', u'inches', u'?'] , tags: irrelevant
+words : [u'Is', u'it', u'good', u'to', u'play', u'fruit', u'ninja', u'on', u'a', u'4', u'inch', u'screen', u'?'] , tags: irrelevant
+words : [u'What', u'other', u'phone', u'has', u'features', u'like', u'grand', u'2', u'?'] , tags: irrelevant
+words : [u'Is', u'iphone', u'6', u'available', u'in', u'India', u'?'] , tags: feature_query
+words : [u'do', u'you', u'have', u'apple', u"'s", u'iphone', u'5', u'in', u'your', u'bangalore', u'store', u'?'] , tags: irrelevant
+words : [u'Where', u'are', u'your', u'branches', u'?'] , tags: feature_query
+words : [u'when', u'will', u'htc', u'one', u'be', u'available', u'?'] , tags: irrelevant
+words : [u'Does', u'htc', u'desire', u'X', u'come', u'with', u'preloaded', u'with', u'apps', u'such', u'as', u'red', u'bus', u'or', u'zomato', u'?'] , tags: irrelevant
+words : [u'Is', u'Nexus', u'5', u'a', u'5', u'inch', u'Android', u'phone', u'running', u'4.4.4', u'KitKat', u'?'] , tags: irrelevant
+words : [u'Will', u'Aviate', u'run', u'on', u'this', u'?'] , tags: feature_query
+words : [u'Which', u'Motorola', u'phones', u'are', u'available', u'?'] , tags: irrelevant
+words : [u'Do', u'the', u'Motorola', u'Moto', u'phones', u'in', u'India', u'have', u'built-in', u'Flashlight', u'?'] , tags: irrelevant
+words : [u'What', u'are', u'the', u'Samsung', u'Android', u'phones', u'available', u'under', u'15k', u'?'] , tags: irrelevant
+words : [u'Is', u'4.4.4', u'Kitkat', u'better', u'than', u'iOS', u'7', u'?'] , tags: comparison
+words : [u'Do', u'I', u'get', u'Sony', u'Xperia', u'devices', u'in', u'London', u'?'] , tags: feature_query
+words : [u'Is', u'Xiaomi', u'Redmi', u'1S', u'available', u'?'] , tags: feature_query
+words : [u'Do', u'I', u'get', u'Android', u'Lollipop', u'on', u'Samsung', u'Galaxy', u'devices', u'?'] , tags: irrelevant
+words : [u'Will', u'Lollipop', u'devices', u'be', u'available', u'after', u'15', u'November', u'?'] , tags: feature_query
+words : [u'Is', u'Sony', u'Xperia', u'Play', u'priced', u'more', u'that', u'20k', u'?'] , tags: feature_query
+words : [u'I', u'want', u'an', u'HTC', u'Desire', u'phone', u'.'] , tags: irrelevant
+words : [u'I', u'like', u'phones', u'.'] , tags: irrelevant
+words : [u'Has', u'Android', u'Lollipop', u'rolled', u'out', u'in', u'India', u'yet', u'?'] , tags: irrelevant
+words : [u'Samsung', u'Galaxy', u'phones', u'are', u'minimum', u'8k', u'.'] , tags: irrelevant
+words : [u'Yahoo', u'Aviate', u'is', u'a', u'good', u'app', u'.'] , tags: feature_query
+words : [u'I', u'want', u'Android', u'Lollipop'] , tags: irrelevant
+words : [u'Is', u'Motorola', u'Moto', u'X', u'below', u'25k', u'?'] , tags: feature_query
+words : [u'A', u'Samsung', u'Galaxy', u'Note', u'phone', u'is', u'good', u'.'] , tags: irrelevant
+words : [u'I', u'want', u'an', u'iOS', u'8', u'device', u'.'] , tags: irrelevant
+words : [u'The', u'selection', u'of', u'apps', u'on', u'the', u'online', u'market', u'is', u'rapidly', u'increasing', u'.'] , tags: feature_query
+words : [u'An', u'installation', u'of', u'Windows', u'8', u'usually', u'occupies', u'20', u'GB', u'.'] , tags: irrelevant
+words : [u'I', u'last', u'went', u'home', u'last', u'week'] , tags: feature_query
+words : [u'The', u'latest', u'stable', u'version', u'of', u'Ubuntu', u'is', u'14.10'] , tags: irrelevant
+words : [u'Hearthstone', u'will', u'be', u'released', u'for', u'android', u'soon', u'.'] , tags: feature_query
+words : [u'The', u'Samsung', u'Galaxy', u'S5', u'is', u'Samsun', u"'s", u'latest', u'offering'] , tags: feature_query
+words : [u'The', u'Moto', u'X', u'was', u'the', u'first', u'phone', u'with', u'Lollipop'] , tags: irrelevant
+words : [u'I', u'bought', u'a', u'MI3', u'yesterday'] , tags: feature_query
+words : [u'The', u'new', u'Motorola', u'X', u'was', u'released', u'this', u'year'] , tags: feature_query
+words : [u'The', u'Motorola', u'Defy', u'runs', u'Android', u'2.3'] , tags: irrelevant
+words : [u'The', u'Nexus', u'6', u'released', u'this', u'year', u'and', u'costs', u'650USD'] , tags: feature_query
+words : [u'Plex', u'is', u'a', u'bargain', u'at', u'USD4.99'] , tags: feature_query
+words : [u'The', u'iPhone', u'6', u'runs', u'iOS', u'8'] , tags: irrelevant
+words : [u'The', u'iPhone', u'6', u'runs', u'iOS', u'8'] , tags: irrelevant
+words : [u'iOS', u'was', u'developed', u'in', u'the', u'USA'] , tags: irrelevant
+words : [u'Sharp', u'Aquos', u'has', u'a', u'5.5', u'inch', u'minimal', u'bezel', u'display', u'and', u'has', u'a', u'custom', u'camera', u'app'] , tags: irrelevant
+words : [u'The', u'best', u'price', u'of', u'Xiaomi', u'Redmi', u'1S', u'in', u'India', u'is', u'Rs', u'.', u'5999'] , tags: feature_query
+words : [u'Which', u'is', u'the', u'best', u'gaming', u'app', u'on', u'IOS8', u'?'] , tags: feature_query
+words : [u'What', u'were', u'the', u'phones', u'released', u'last', u'year', u'with', u'screen', u'size', u'less', u'than', u'5', u"''", u'?'] , tags: irrelevant
+words : [u'How', u'to', u'view', u'live', u'TV', u'on', u'Android', u'Kitkat', u'phone', u'?'] , tags: irrelevant
+words : [u'What', u'is', u'a', u'low', u'budget', u'Android', u'phone', u'with', u'a', u'display', u'size', u'of', u'minimum', u'4', u'inches', u'?'] , tags: irrelevant
+words : [u'Are', u'the', u's', u'pen', u'for', u'galaxy', u'note', u'2', u'sold', u'by', u'samsung', u'compatible', u'with', u'my', u's4', u'?'] , tags: irrelevant
+words : [u'what', u'is', u'the', u'price', u'of', u'apple', u'iphone', u'4', u'?'] , tags: irrelevant
+words : [u'what', u'is', u'the', u'best', u'phone', u'in', u'Galaxy', u'range', u'in', u'Samsung', u'?'] , tags: irrelevant
+words : [u'I', u'want', u'a', u'iPhone', u'or', u'Google', u'Nexus', u'with', u'a', u'screen', u'size', u'of', u'less', u'than', u'5', u'inches'] , tags: irrelevant
+words : [u'Which', u'phone', u'gives', u'good', u'gaming', u'battery', u',', u'preferably', u'good', u'memory', u'and', u'RAM', u'?'] , tags: irrelevant
+words : [u'I', u'want', u'to', u'buy', u'a', u'handset', u'between', u'Rs', u'20,000', u'to', u'45,000', u'in', u'Bangalore', u'next', u'week', u'.'] , tags: feature_query
+words : [u'Where', u'can', u'I', u'find', u'a', u'charger', u'for', u'my', u'iphone', u'6', u'in', u'Bangalore', u'?'] , tags: feature_query
+words : [u'What', u'Are', u'the', u'Best', u'Cell', u'Phone', u'Inventions', u'of', u'the', u'2000', u'to', u'2010', u'Decade', u'?'] , tags: feature_query
+words : [u'Which', u'android', u'apps', u'make', u'use', u'of', u'NFCs', u'?'] , tags: feature_query
+words : [u'Nokia', u'X', u'Vs', u'Moto', u'G', u',', u'which', u'is', u'a', u'better', u'mobile', u'to', u'buy', u'?'] , tags: comparison
+words : [u'What', u'is', u'the', u'price', u'of', u'apple', u'iphone', u'6', u'?'] , tags: irrelevant
+words : [u'Which', u'is', u'the', u'best', u'tablet', u'available', u'in', u'the', u'market', u'at', u'reasonable', u'price', u'?'] , tags: irrelevant
+words : [u'I', u'want', u'a', u'phone', u'with', u'>', u'20MP', u'camera', u'.'] , tags: irrelevant
+words : [u'Will', u'nexus', u'5', u'still', u'be', u'available', u'6', u'months', u'from', u'now', u'?'] , tags: feature_query
+words : [u'What', u'are', u'some', u'famous', u'IOS', u'and', u'Android', u'apps', u'which', u'make', u'use', u'of', u'GPS', u'?'] , tags: irrelevant
+words : [u'I', u'need', u'a', u'smartphone', u'under', u'10000'] , tags: irrelevant
+words : [u'Is', u'Facebook', u'available', u'for', u'Apple', u'iOS', u'?'] , tags: irrelevant
+words : [u'I', u'need', u'to', u'buy', u'Nokia', u'Lumia'] , tags: feature_query
+words : [u'Facebook', u'is', u'great', u'!'] , tags: feature_query
+words : [u'Which', u'smartphones', u'are', u'available', u'for', u'>', u'5', u"''", u'?'] , tags: irrelevant
+words : [u'I', u'bought', u'this', u'mobile', u'in', u'San', u'Francisco', u'last', u'week'] , tags: irrelevant
+words : [u'How', u'much', u'the', u'latest', u'version', u'of', u'an', u'iPhone', u'would', u'cost', u'in', u'India', u'?'] , tags: feature_query
+words : [u'This', u'is', u'a', u'test', u'sentence', u'where', u'everything', u'will', u'be', u'other'] , tags: feature_query
+words : [u'I', u'use', u'an', u'old', u'Nokia', u'phone'] , tags: irrelevant
+words : [u'Hi', u'there', u'!'] , tags: feature_query
+words : [u'Hello', u'how', u'are', u'you', u'?'] , tags: feature_query
+words : [u'hello'] , tags: feature_query
+words : [u'hi'] , tags: feature_query
+words : [u'Hi'] , tags: feature_query
+words : [u'Welcome', u'back', u'!'] , tags: feature_query
+words : [u'Do', u'you', u'have', u'this', u'product', u'?'] , tags: feature_query
+words : [u'Take', u'care', u'!'] , tags: feature_query
+words : [u'Great', u',', u'thanks'] , tags: feature_query
+words : [u'Great', u'!'] , tags: feature_query
+words : [u'Good', u'job', u'!'] , tags: feature_query
+words : [u'My', u'phone', u'has', u"n't", u'got', u'the', u'latest', u'Android', u'update', u'as', u'yet', u'.'] , tags: irrelevant
+words : [u'Moto', u'G2', u'running', u'KitKat', u'are', u'selling', u'like', u'hotcakes', u'in', u'New', u'York', u'.'] , tags: feature_query
+words : [u'Facebook', u'bought', u'WhatsApp', u'for', u'15', u'Million', u'.'] , tags: feature_query
+words : [u'Indian', u'100', u'Rupee', u'notes', u'are', u'73', u'mm', u'.'] , tags: feature_query
+words : [u'Sophisticated', u'Electronics', u'like', u'Refrigerators', u'started', u'becoming', u'a', u'household', u'commodity', u'in', u'the', u'1980s', u'.'] , tags: feature_query
+words : [u'Nokia', u'Lumia', u'730', u'running', u'Windows', u'phone', u'has', u'a', u'display', u'size', u'of', u'4.7', u"''", u'.'] , tags: irrelevant
+words : [u'Most', u'laptops', u'come', u'shipped', u'in', u'with', u'Windows', u'.'] , tags: irrelevant
+words : [u'Nexus', u'5', u'first', u'started', u'coming', u'in', u'with', u'Jellybean', u'and', u'has', u'1020dp', u'.'] , tags: feature_query
+words : [u'Google', u'is', u'manfacturing', u'smartwatches', u'running', u'the', u'latest', u'Android', u'version'] , tags: irrelevant
+words : [u'Aircrafts', u'were', u'first', u'invented', u'by', u'the', u'Wright', u'brothers', u'on', u'5th', u'August', u'1901', u'.'] , tags: feature_query
+words : [u'Google', u'bought', u'over', u'Motorola', u'and', u'customised', u'the', u'Android', u'OS', u'.'] , tags: irrelevant
+words : [u'I', u'want', u'to', u'buy', u'a', u'micromax', u'phone', u'in', u'Bangalore', u'.'] , tags: irrelevant
+words : [u'I', u'need', u'a', u'phone', u'with', u'Truecaller', u'that', u'has', u'a', u'5', u'inch', u'screen', u'size'] , tags: irrelevant
+words : [u'I', u'want', u'an', u'Android', u'phone', u'with', u'Temple', u'Run'] , tags: irrelevant
+words : [u'I', u'am', u'looking', u'for', u'a', u'Nokia', u'smartphone', u'with', u'5mp', u'camera'] , tags: irrelevant
+words : [u'Do', u'you', u'have', u'windows', u'phones', u'that', u'have', u'WhatsApp', u'?'] , tags: irrelevant
+words : [u'Can', u'I', u'have', u'the', u'best', u'prices', u'smartphones', u'running', u'Facebook', u'?'] , tags: irrelevant
+words : [u'I', u'want', u'the', u'most', u'expensive', u'phone', u'by', u'Motorola', u'with', u'8', u'mp', u'camera'] , tags: irrelevant
+words : [u'I', u'want', u'the', u'most', u'expensive', u'phone', u'by', u'Motorola', u'with', u'8', u'mp', u'camera'] , tags: irrelevant
+words : [u'I', u'want', u'the', u'most', u'expensive', u'phone', u'by', u'Motorola', u'with', u'8', u'mp', u'camera'] , tags: irrelevant
+words : [u'Which', u'is', u'the', u'latest', u'HTC', u'phone', u'that', u'was', u'released', u'after', u'Jan', u'2014', u'?'] , tags: irrelevant
+words : [u'I', u'need', u'an', u'Android', u'phone', u'under', u'10k'] , tags: irrelevant
+words : [u'Do', u'Samsung', u'phones', u'have', u'a', u'good', u'battery', u'back', u'up', u'?'] , tags: irrelevant
+words : [u'I', u'want', u'a', u'phone', u'with', u'ice', u'cream', u'sandwich'] , tags: irrelevant
+words : [u'This', u'Nokia', u'phone', u'does', u'not', u'have', u'a', u'good', u'interface', u'.'] , tags: disagreement
+words : [u'I', u'want', u'a', u'4.5', u'inch', u'phone', u'by', u'Micromax'] , tags: irrelevant
+words : [u'I', u'am', u'looking', u'for', u'a', u'phone', u'under', u'3k', u'in', u'Mumbai', u'that', u'can', u'run', u'WhatsApp'] , tags: irrelevant
+words : [u'I', u'want', u'a', u'Samsung', u'Galaxy', u'phone', u'for', u'my', u'sister'] , tags: irrelevant
+words : [u'This', u'HTC', u'Desire', u'SV', u'does', u'not', u'run', u'latest', u'Android', u'version'] , tags: disagreement
+words : [u'I', u'want', u'to', u'buy', u'a', u'blackberry', u'torch', u'this', u'summer', u'in', u'Chennai'] , tags: irrelevant
+words : [u'Can', u'you', u'tell', u'me', u'where', u'I', u'can', u'look', u'for', u'a', u'micromax', u'phone', u'running', u'lollipop', u'?'] , tags: irrelevant
+words : [u'I', u'need', u'a', u'phone', u'with', u'a', u'24', u'hour', u'battery', u'back', u'up'] , tags: irrelevant
+words : [u'I', u'want', u'a', u'nexus', u'phone', u'under', u'Rs', u'20000'] , tags: irrelevant
+words : [u'I', u'want', u'oneplusone', u'6', u"''", u'in', u'size', u'before', u'new', u'year'] , tags: irrelevant
+words : [u'I', u'want', u'9', u'inch', u'tablet'] , tags: irrelevant
+words : [u'Android', u'is', u'currently', u'best', u'OS', u'.', u'Nexus', u'six', u'runs', u'on', u'android', u'5.0'] , tags: irrelevant
+words : [u'5', u'inch', u'windows', u'phone', u'launching', u'in', u'India'] , tags: irrelevant
+words : [u'Samsung', u'is', u'expected', u'to', u'launch', u'S6'] , tags: feature_query
+words : [u'Many', u'budget', u'phones', u'are', u'expected', u'to', u'launch', u'during', u'diwali', u'holidays'] , tags: irrelevant
+words : [u'Nexus6', u'is', u'a', u'6', u'inch', u'phone'] , tags: irrelevant
+words : [u'My', u'MOTO', u'G', u'runs', u'on', u'android', u'4.4.4'] , tags: feature_query
+words : [u'iphones', u'are', u'the', u'most', u'beautifully', u'designed', u'phone'] , tags: irrelevant
+words : [u'US', u'was', u'the', u'first', u'country', u'to', u'had', u'3.5', u'inch', u'iphones'] , tags: irrelevant
+words : [u'December', u'will', u'see', u'the', u'launch', u'of', u'xiaomi', u'mi4', u'running', u'miui6'] , tags: irrelevant
+words : [u'2dots', u'is', u'only', u'available', u'on', u'ios', u'in', u'US'] , tags: feature_query
+words : [u'S', u'series', u'is', u'most', u'successful', u'family', u'by', u'Samsung'] , tags: feature_query
+words : [u'Lollipop', u'is', u'only', u'available', u'in', u'US', u'for', u'all', u'5', u'inch', u'plus', u'phones'] , tags: irrelevant
+words : [u'Apple', u'make', u'iphones', u'specifically', u'for', u'US'] , tags: feature_query
+words : [u'HTC', u'one', u'M8', u'is', u'beautiful', u'android', u'phone'] , tags: irrelevant
+words : [u'All', u'5.5', u'inch', u'phone', u'costs', u'more', u'then', u'Rs', u'20000'] , tags: irrelevant
+words : [u'Cut', u'the', u'rope2', u'is', u'only', u'available', u'for', u'ios8'] , tags: feature_query
+words : [u'What', u'are', u'the', u'specifications', u'of', u'Moto', u'G', u'?'] , tags: feature_query
+words : [u'When', u'will', u'Nexus', u'6', u'release', u'?'] , tags: feature_query
+words : [u'Does', u'Nexus', u'6', u'have', u'a', u'6', u'inch', u'screen', u'?'] , tags: irrelevant
+words : [u'Is', u'any', u'smartphone', u'with', u'Kitkat', u'4.4', u'is', u'releasing', u'in', u'December', u'?'] , tags: irrelevant
+words : [u'Which', u'OS', u'is', u'Samsung', u'Galaxy', u'running', u'on', u'?'] , tags: irrelevant
+words : [u'Which', u'Samsung', u'Galaxy', u'phone', u'runs', u'on', u'KitKat', u'4.4', u'?'] , tags: irrelevant
+words : [u'I', u'do', u'not', u'like', u'the', u'screen', u'size', u'of', u'Samsung', u'Galaxy', u'Grand'] , tags: feature_query
+words : [u'HTC', u'Nexus', u'1', u'was', u'an', u'awesome', u'smartphone'] , tags: irrelevant
+words : [u'Samsung', u'Galaxy', u'S', u'5', u'offers', u'various', u'different', u'features', u'.'] , tags: feature_query
+words : [u'Whatsapp', u'is', u'pathetic'] , tags: feature_query
+words : [u'I', u'bought', u'Karbonn', u'Sparkle', u'V', u'in', u'December', u'for', u'Rs', u'6500'] , tags: feature_query
+words : [u'IPhone', u'6', u'launched', u'in', u'US'] , tags: feature_query
+words : [u'Nexus', u'6', u'is', u'supposed', u'to', u'release', u'in', u'India', u'in', u'November'] , tags: feature_query
+words : [u'Oneplus', u'one', u'was', u'not', u'launched', u'in', u'India'] , tags: feature_query
+words : [u'Smartphones', u'running', u'on', u'KitKat', u'are', u'available', u'for', u'Rs', u'3000'] , tags: feature_query
+words : [u'Rs', u'45000', u'for', u'a', u'smartphone', u'is', u'not', u'worth', u'it'] , tags: disagreement
+words : [u'IPhone', u'6', u'was', u'launched', u'in', u'September'] , tags: feature_query
+words : [u'Samsung', u'galaxy', u'series', u'come', u'with', u'a', u'similar', u'looking', u'user', u'interface', u'but', u'varies', u'in', u'build', u'quality'] , tags: feature_query
+words : [u'A', u'6', u'inch', u'phone', u'is', u'called', u'a', u'phablet'] , tags: irrelevant
+words : [u'Galaxy', u'series', u'come', u'with', u'a', u'vast', u'variety', u'of', u'affordable', u'and', u'stylish', u'smartphones'] , tags: irrelevant
+words : [u'I', u'bought', u'Galaxy', u'Grand', u'last', u'December', u'as', u'I', u'loved', u'the', u'4.8', u'inch', u'it', u'provides'] , tags: irrelevant
+words : [u'Samsung', u'is', u'taking', u'over', u'the', u'market', u'whereas', u'Apple', u"'s", u'market', u'is', u'drastically', u'decreasing'] , tags: feature_query
+words : [u'Nexus', u'series', u'smartphones', u'are', u'known', u'to', u'be', u'packed', u'with', u'awesome', u'features', u'and', u'specifications', u'which', u'are', u'priced', u'under', u'Rs', u'30000'] , tags: irrelevant
+words : [u'Kitkat', u'4.4.4', u'is', u'clean', u'and', u'simple'] , tags: feature_query
+words : [u'A', u'4', u'inch', u'phone', u'running', u'on', u'Jellybean', u'is', u'not', u'worth', u'a', u'buy'] , tags: disagreement
+words : [u'I', u'have', u'a', u'Samsung', u'Galaxy', u'S5', u'which', u'is', u'a', u'high', u'end', u'smartphone', u'.'] , tags: irrelevant
+words : [u'All', u'models', u'of', u'Samsung', u'Galaxy', u'are', u'priced', u'above', u'Rs', u'25000', u'.'] , tags: feature_query
+words : [u'There', u'is', u'a', u'stiff', u'competition', u'between', u'Google', u'Nexus', u'and', u'Apple', u'iOS', u'.'] , tags: irrelevant
+words : [u'I', u'own', u'a', u'S5', u'which', u'cost', u'me', u'Rs', u'40000', u'.'] , tags: feature_query
+words : [u'The', u'Timely', u'application', u'is', u'a', u'good', u'alarm', u'to', u'wake', u'you', u'up', u'.'] , tags: feature_query
+words : [u'The', u'Apple', u'iPhone', u'6', u'costs', u'nearly', u'Rs', u'63000', u'in', u'India', u'.'] , tags: feature_query
+words : [u'Whatsapp', u',', u'WeChat', u',', u'Instagram', u',', u'Telegram', u'and', u'Viber', u'are', u'the', u'most', u'common', u'mobile', u'applications', u'used', u'by', u'the', u'youth', u'.'] , tags: irrelevant
+words : [u'The', u'new', u'Moto', u'G2', u'is', u'priced', u'at', u'Rs', u'13000', u'in', u'India', u'.'] , tags: feature_query
+words : [u'My', u'Samsung', u'Galaxy', u'S5', u'which', u'has', u'over', u'5', u"''", u'screen', u'size', u'supports', u'Android', u'4.4.2', u'and', u'above', u'.'] , tags: irrelevant
+words : [u'My', u'sister', u'brought', u'her', u'iPhone', u'5s', u'from', u'Dubai', u'last', u'summer', u'.'] , tags: feature_query
+words : [u'OnePlus', u'One', u'costs', u'nearly', u'Rs', u'21000', u'in', u'India', u'.'] , tags: feature_query
+words : [u'Asphalt', u'8', u'runs', u'smoothly', u'on', u'a', u'phone', u'with', u'screen', u'size', u'greater', u'than', u'5', u"''", u'.'] , tags: irrelevant
+words : [u'HTC', u'desire', u'816', u'is', u'brilliant', u'new', u'phone', u'.'] , tags: irrelevant
+words : [u'Android', u'5.0', u'was', u'released', u'on', u'5th', u'November', u'2014', u'for', u'Nexus', u'.'] , tags: irrelevant
+words : [u'People', u'can', u'not', u'seem', u'to', u'live', u'without', u'a', u'smartphone', u'these', u'days', u'.'] , tags: disagreement
+words : [u'September', u'17th', u'2014', u',', u'Apple', u'iOS', u'8', u'was', u'released', u'in', u'India', u'for', u'all', u'iPhones'] , tags: irrelevant
+words : [u'iPhone', u'6', u'is', u'4.7', u'inch', u'in', u'size', u'.'] , tags: irrelevant
+words : [u'Samsung', u'Galaxy', u'S5', u'was', u'released', u'on', u'April', u'11', u'2014', u'.'] , tags: feature_query
+words : [u'Most', u'high', u'end', u'smartphones', u'are', u'priced', u'over', u'Rs', u'30000', u'.'] , tags: irrelevant
+words : [u'Motorola', u"'s", u'Moto', u'X', u'was', u'released', u'in', u'the', u'year', u'2014', u'.'] , tags: feature_query
+words : [u'Flappy', u'Bird', u'runs', u'on', u'iOS', u'6', u'and', u'above', u'for', u'iphone', u'5'] , tags: irrelevant
+words : [u'the', u'updates', u'for', u'Google', u'Nexus', u'4', u'has', u'still', u'not', u'been', u'rolled', u'out'] , tags: feature_query
+words : [u'Is', u'Moto', u'E', u'more', u'than', u'10K', u'?'] , tags: feature_query
+words : [u'Which', u'HTC', u'phones', u'available', u'in', u'India', u'have', u'Clash', u'of', u'Clans', u'?'] , tags: irrelevant
+words : [u'Which', u'Karbonn', u'phones', u'run', u'Jelly', u'Bean', u'?'] , tags: irrelevant
+words : [u'Do', u'all', u'Samsung', u'phones', u'support', u'the', u'Universal', u'Remote', u'application', u'?'] , tags: irrelevant
+words : [u'Sony', u'Xperia', u'Mini', u'runs', u'Android', u'Gingerbread'] , tags: irrelevant
+words : [u'Is', u'Hike', u'Messenger', u'supported', u'on', u'S4', u'mini', u',', u'running', u'Jelly', u'Bean', u'?'] , tags: feature_query
+words : [u'The', u'Lollipop', u'update', u'has', u'been', u'released', u'for', u'some', u'phones', u'in', u'India', u'.'] , tags: irrelevant
+words : [u'HTC', u'Desire', u'VC', u'is', u'one', u'of', u'the', u'few', u'phones', u'that', u'does', u'not', u'have', u'a', u'File', u'Manager', u'Application', u'.'] , tags: disagreement
+words : [u'What', u'are', u'the', u'features', u'of', u'Xperia', u'Z', u'Ultra', u'?'] , tags: feature_query
+words : [u'Which', u'phones', u'still', u'run', u'Gingerbread', u'?'] , tags: irrelevant
+words : [u'What', u'is', u'the', u'price', u'of', u'Moto', u'G', u'in', u'Singapore', u'?'] , tags: feature_query
+words : [u'Which', u'iPhone', u'phone', u'is', u'around', u'4.5', u"''", u'in', u'size', u'?'] , tags: irrelevant
+words : [u'Will', u'Nexus', u'5', u'get', u'the', u'Lollipop', u'update', u'soon', u'?'] , tags: feature_query
+words : [u'Show', u'me', u'the', u'phones', u'released', u'this', u'month', u'.'] , tags: irrelevant
+words : [u'Is', u'the', u'screen', u'size', u'of', u'Nexus', u'4', u'more', u'than', u'4.5', u'inches', u'?'] , tags: irrelevant
+words : [u'What', u'are', u'the', u'features', u'of', u'Ice', u'Cream', u'Sandwich', u'?'] , tags: feature_query
+words : [u'Show', u'me', u'the', u'latest', u'Lumia', u'phones', u'.'] , tags: irrelevant
+words : [u'What', u'is', u'the', u'release', u'date', u'of', u'Nexus', u'6', u'in', u'India', u'?'] , tags: feature_query
+words : [u'What', u'is', u'the', u'latest', u'blackberry', u'os', u'version', u'?'] , tags: irrelevant
+words : [u'Show', u'me', u'phones', u'released', u'in', u'Nov', u'2014', u'.'] , tags: irrelevant
+words : [u'Show', u'me', u'phones', u'released', u'in', u'Nov', u'2014', u'.'] , tags: irrelevant
+words : [u'Should', u'i', u'buy', u'an', u'android', u'or', u'ios', u'smartphone', u'?'] , tags: irrelevant
+words : [u'Should', u'i', u'buy', u'an', u'android', u'or', u'ios', u'smartphone', u'?'] , tags: irrelevant
+words : [u'Best', u'Samsung', u'galaxy', u'smartphone', u'sub', u'20k', u'category'] , tags: irrelevant
+words : [u'Who', u'has', u'a', u'better', u'camera', u',', u'Apple', u'iPhone', u'6', u'or', u'Samsung', u'Galaxy', u'S5', u'?'] , tags: comparison
+words : [u'ios', u'or', u'windows', u'or', u'android'] , tags: feature_query
+words : [u'Mi', u'or', u'oneplus', u'?'] , tags: feature_query
+words : [u'Smartphones', u'with', u'ram', u'of', u'2gb', u'and', u'camera', u'of', u'13mp', u'and', u'below', u'25000'] , tags: feature_query
+words : [u'an', u'android', u'device', u'below', u'15000'] , tags: feature_query
+words : [u'a', u'smartphone', u'for', u'my', u'father'] , tags: irrelevant
+words : [u'ios8', u'runs', u'on', u'iphone'] , tags: feature_query
+words : [u'Nexus6', u'is', u'monstrous'] , tags: feature_query
+words : [u'5.5', u'inch', u'oneplusone', u'will', u'launch', u'in', u'december'] , tags: irrelevant
+words : [u'S5', u'is', u'5.1', u'inches', u'in', u'size'] , tags: irrelevant
+words : [u'ios', u'version', u'8', u'is', u'designed', u'for', u'US'] , tags: feature_query
+words : [u'Galaxy', u'S5', u'is', u'a', u'beast'] , tags: feature_query
+words : [u'which', u'model', u'of', u'samsung', u'will', u'give', u'me', u'the', u'latest', u'android', u'update', u'?'] , tags: irrelevant
+words : [u'I', u'need', u'a', u'smartphone', u'for', u'my', u'grandmother'] , tags: irrelevant
+words : [u'Can', u'i', u'get', u'moto', u'x2', u'somewhere', u'else', u'?'] , tags: feature_query
+words : [u'can', u'i', u'exchange', u'my', u'existing', u'android', u'smartphone', u'for', u'any', u'other', u'smartphone'] , tags: irrelevant
+words : [u'Is', u'moto', u'g', u'better', u'or', u'xiomi', u'mi3'] , tags: comparison
+words : [u'should', u'i', u'buy', u'mi3', u'or', u'should', u'i', u'buy', u'huawei', u'honour'] , tags: irrelevant
+words : [u'should', u'i', u'go', u'for', u'a', u'better', u'ram', u'or', u'a', u'better', u'internal', u'storage', u'on', u'my', u'phone'] , tags: comparison
+words : [u'For', u'a', u'big', u'screen', u'smartphone', u',', u'should', u'i', u'buy', u'nexus6', u'or', u'iphone', u'6plus'] , tags: irrelevant
+words : [u'How', u'does', u'apple', u'iphone', u'6', u'camera', u'compares', u'to', u'samsung', u'galaxy', u's5'] , tags: irrelevant
+words : [u'Should', u'i', u'buy', u'moto', u'g2', u'or', u'moto', u'x1'] , tags: feature_query
+words : [u'suggest', u'me', u'a', u'smartphone', u'with', u'good', u'camera', u',', u'decent', u'ram', u',', u'and', u'high', u'internal', u'storage', u'under', u'20000'] , tags: irrelevant
+words : [u'Whose', u'flagship', u'smartphone', u'is', u'the', u'best', u',', u'sony', u'lg', u'samsung', u'or', u'apple'] , tags: irrelevant
+words : [u'Best', u'budget', u'smartphone', u',', u'micromax', u',', u'or', u'karbon', u',', u'or', u'lava'] , tags: irrelevant
+words : [u'how', u'does', u'google', u'nexus', u'6', u'fares', u'compared', u'to', u'apple', u'iphone', u'6', u'in', u'terms', u'of', u'camera'] , tags: irrelevant
+words : [u'Is', u'htc', u'one', u'better', u'that', u'galaxy', u's3'] , tags: comparison
+words : [u'best', u'motorola', u'smartphone', u'available', u'in', u'india'] , tags: irrelevant
+words : [u'Which', u'android', u'phone', u'would', u'receive', u'the', u'latest', u'update', u'of', u'android', u'OS'] , tags: irrelevant
+words : [u'Does', u'samsung', u'galaxy', u'note', u'3', u'has', u'a', u'better', u'speaker', u'than', u'apple', u'iphone', u'6plus'] , tags: comparison
+words : [u'Should', u'i', u'buy', u'a', u'smartphone', u'of', u'5', u"''", u'or', u'5.5', u"''"] , tags: irrelevant
+words : [u'Do', u'you', u'have', u'xiomi', u'mi3', u'available', u'with', u'you'] , tags: feature_query
+words : [u'Apple', u"'s", u'iPhone', u'was', u'introduced', u'to', u'the', u'market', u'on', u'June', u'29th', u',2007', u'.'] , tags: feature_query
+words : [u'My', u'daughter', u'wants', u'to', u'buy', u'Google', u"'s", u'Android', u'phone', u'having', u'4.4.2', u'version', u'and', u'which', u'is', u'less', u'than', u'6', u'inches', u'.'] , tags: irrelevant
+words : [u'Can', u'you', u'suggest', u'a', u'phone', u'was', u'has', u'been', u'released', u'after', u'2014', u'which', u'is', u'around', u'15K', u'?'] , tags: irrelevant
+words : [u'How', u'much', u'will', u'an', u'HTC', u'Desire', u'X', u'with', u'Android', u'and', u'around', u'7', u'inches', u'cost', u'?'] , tags: irrelevant
+words : [u'How', u'much', u'will', u'an', u'Android', u'smartphone', u'with', u'4.4.2', u'version', u'cost', u'?'] , tags: irrelevant
+words : [u'I', u'am', u'planning', u'to', u'buy', u'an', u'Apple', u'phone', u'with', u'screen', u'size', u'5', u'``', u'when', u'I', u'visit', u'Thailand', u'next', u'week', u'.'] , tags: irrelevant
+words : [u'Will', u'HTC', u'release', u'any', u'new', u'smartphones', u'before', u'26th', u'November', u',', u'2014', u'?'] , tags: irrelevant
+words : [u'Where', u'can', u'I', u'buy', u'an', u'Android', u'phone', u'of', u'6', u'``', u'at', u'a', u'lesser', u'price', u'than', u'the', u'cost', u'of', u'an', u'Apple', u'phone', u'?'] , tags: irrelevant
+words : [u'Does', u'Samsung', u'Galaxy', u'Tab', u'10', u'have', u'wifi', u'connectivity', u'?'] , tags: feature_query
+words : [u'I', u'want', u'to', u'buy', u'a', u'tablet', u'.', u'Can', u'you', u'suggest', u'a', u'good', u'model', u'?'] , tags: irrelevant
+words : [u'Does', u'Apple', u"'s", u'iPhone', u'6', u'have', u'better', u'touch', u'capabilities', u'as', u'compared', u'to', u'iPhone', u'5', u'?'] , tags: comparison
+words : [u'You', u'can', u'purchase', u'a', u'Moto', u'G', u'phone', u'with', u'screen', u'size', u'6', u"''", u'in', u'Thailand', u'for', u'just', u'Rs', u'5000', u'.'] , tags: irrelevant
+words : [u'I', u'want', u'to', u'buy', u'a', u'phone', u'is', u'5', u"''", u'and', u'has', u'dual', u'sim', u'.'] , tags: irrelevant
+words : [u'Can', u'you', u'suggest', u'a', u'phone', u'which', u'is', u'quad', u'core', u'and', u'supports', u'Lollipop', u'?'] , tags: irrelevant
+words : [u'Is', u'there', u'a', u'HTC', u'Desire', u'of', u'screen', u'size', u'5', u"''", u'costing', u'less', u'than', u'17K', u'?'] , tags: irrelevant
+words : [u'Is', u'there', u'an', u'Android', u'Phone', u'whose', u'touch', u'sensitivity', u'is', u'better', u'than', u'Apple', u'?'] , tags: comparison
+words : [u'Was', u'there', u'an', u'updated', u'version', u'of', u'Flappy', u'Birds', u'released', u'this', u'week', u'for', u'Android', u'phones', u'?'] , tags: irrelevant
+words : [u'Which', u'smartphone', u'released', u'by', u'Motorola', u'has', u'good', u'battery', u'life', u'?'] , tags: irrelevant
+words : [u'I', u'bought', u'an', u'iPhone', u'recently', u',', u'in', u'Mumbai', u'.', u'However', u'the', u'iOS', u'is', u'not', u'as', u'good', u'as', u'people', u'say', u'it', u'is', u'.'] , tags: disagreement
+words : [u'Do', u'iPhones', u'support', u'dual', u'sim', u'?'] , tags: feature_query
+words : [u'Are', u'HTC', u'service', u'centers', u'present', u'in', u'Switzerland', u'?'] , tags: feature_query
+words : [u'Are', u'there', u'any', u'new', u'phones', u'being', u'released', u'by', u'Samsung', u'this', u'month', u'?'] , tags: irrelevant
+words : [u'Can', u'you', u'suggest', u'an', u'android', u'phone', u'with', u'Lollipop', u'?'] , tags: irrelevant
+words : [u'iOS', u'6', u'or', u'Android', u'L', u'?'] , tags: irrelevant
+words : [u'Motorola', u'G', u'is', u'getting', u'the', u'first', u'update', u'for', u'Android', u'L'] , tags: irrelevant
+words : [u'The', u'Moto', u'Razr', u'smartphone', u'runs', u'Android', u'ICS'] , tags: irrelevant
+words : [u'The', u'iPhone', u'was', u'released', u'in', u'the', u'USA'] , tags: feature_query
+words : [u'Windows', u'8.1', u'was', u'recently', u'released', u'in', u'India'] , tags: irrelevant
+words : [u'Microsoft', u'main', u'office', u'is', u'located', u'in', u'Seattle'] , tags: feature_query
+words : [u'Angry', u'Birds', u'purchases', u'in', u'iOS', u'come', u'with', u'a', u'price'] , tags: irrelevant
+words : [u'Nexus', u'6', u'costs', u'more', u'than', u'40k'] , tags: feature_query
+words : [u'I', u'bought', u'a', u'Nexus', u'last', u'month'] , tags: feature_query
+words : [u'Is', u'the', u'galaxy', u'S', u'2', u'phone', u'still', u'available', u'?'] , tags: irrelevant
+words : [u'Samsung', u'android', u'phones', u'created', u'waves', u'in', u'the', u'market'] , tags: irrelevant
+words : [u'The', u'iPhone', u'with', u'iOS', u'5', u'is', u'cheaper', u'in', u'Dubai'] , tags: irrelevant
+words : [u'I', u'need', u'a', u'Jelly', u'Bean', u'phone', u'by', u'December'] , tags: irrelevant
+words : [u'Bangalore', u'is', u'in', u'India'] , tags: feature_query
+words : [u'A', u'new', u'Micromax', u'Canvas', u'with', u'Android', u'Jelly', u'Bean', u'under', u'10k', u'is', u'releasing', u'in', u'December'] , tags: irrelevant
+words : [u'Doodle', u'Jump', u'runs', u'on', u'Android'] , tags: irrelevant
+words : [u'The', u'Nexus', u'6', u'with', u'the', u'Android', u'5.0', u'OS', u'released', u'in', u'Dubai'] , tags: irrelevant
+words : [u'The', u'XOLO', u'kit', u'kat', u'phone', u'is', u'priced', u'under', u'10000'] , tags: irrelevant
+words : [u'Google', u'has', u'been', u'operating', u'from', u'California', u'since', u'2004'] , tags: feature_query
+words : [u'I', u'dislike', u'Android', u'2.3'] , tags: irrelevant
+words : [u'The', u'Google', u'Nexus', u'6', u'was', u'first', u'unveiled', u'in', u'October', u'2014'] , tags: feature_query
+words : [u'Candy', u'Crush', u'Saga', u'was', u'the', u'most', u'downloaded', u'app', u'for', u'IOS', u'in', u'2013'] , tags: feature_query
+words : [u'The', u'most', u'expensive', u'IOS', u'app', u'is', u'called', u'VIP', u'Black', u'and', u'is', u'priced', u'at', u'1000', u'dollars'] , tags: feature_query
+words : [u'Temple', u'Run', u'3', u'is', u'set', u'to', u'release', u'in', u'January', u'2015'] , tags: feature_query
+words : [u'The', u'Google', u'Nexus', u'6', u'is', u'the', u'latest', u'addition', u'to', u'the', u'Nexus', u'Family'] , tags: feature_query
+words : [u'The', u'IBM', u'Simon', u'is', u'considered', u'the', u'first', u'smartphone', u'ever', u'and', u'was', u'released', u'in', u'1992'] , tags: irrelevant
+words : [u'The', u'smallest', u'smartphone', u'in', u'the', u'market', u'is', u'2.45', u"''", u'in', u'size'] , tags: irrelevant
+words : [u'Android', u'has', u'twice', u'the', u'market', u'share', u'of', u'IOS'] , tags: irrelevant
+words : [u'The', u'United', u'Arab', u'Emirates', u'has', u'the', u'highest', u'percentage', u'of', u'population', u'owning', u'a', u'smartphone'] , tags: irrelevant
+words : [u'Does', u'Apple', u'manufacture', u'phones', u'larger', u'than', u'6', u"''", u'?'] , tags: irrelevant
+words : [u'What', u'are', u'some', u'of', u'the', u'best', u'IOS', u'apps', u'priced', u'less', u'than', u'Rs', u'100', u'?'] , tags: price_query
+words : [u'The', u'Android', u'Lollipop', u'5.0', u'was', u'released', u'in', u'November', u'2014'] , tags: irrelevant
+words : [u'Samsung', u'is', u'the', u'largest', u'manufacturer', u'of', u'smartphones', u'in', u'the', u'world'] , tags: irrelevant
+words : [u'Samsung', u'is', u'the', u'largest', u'manufacturer', u'of', u'smartphones', u'in', u'the', u'world'] , tags: irrelevant
+words : [u'What', u'Google', u'Nexus', u'phones', u'can', u'I', u'buy', u'for', u'less', u'than', u'20K'] , tags: irrelevant
+words : [u'I', u'wish', u'to', u'buy', u'a', u'new', u'smartphone', u'by', u'January'] , tags: irrelevant
+words : [u'The', u'Nexus', u'5', u'received', u'the', u'Android', u'Lollipop', u'update', u'mid', u'November', u'2014'] , tags: irrelevant
+words : [u'The', u'Samsung', u'Galaxy', u'Note', u'4', u'was', u'released', u'in', u'October', u'2014'] , tags: feature_query
+words : [u'What', u'is', u'the', u'point', u'of', u'smartphones', u'less', u'than', u'4', u"''", u'in', u'size', u'?'] , tags: irrelevant
+words : [u'My', u'Google', u'Nexus', u'5', u'just', u'received', u'an', u'Android', u'Lollipop', u'update'] , tags: irrelevant
+words : [u'Is', u'the', u'next', u'iPhone', u'releasing', u'in', u'2015', u'?'] , tags: feature_query
+words : [u'A', u'screen', u'size', u'larger', u'than', u'6', u"''", u'is', u'ideal', u'for', u'game', u'apps', u'like', u'Temple', u'Run'] , tags: irrelevant
+words : [u'The', u'most', u'expensive', u'smartphone', u'is', u'manufactured', u'by', u'Savelli', u'and', u'is', u'worth', u'250K', u'dollars'] , tags: irrelevant
+words : [u'The', u'first', u'version', u'of', u'WhatsApp', u'released', u'in', u'2009'] , tags: feature_query
+words : [u'The', u'Google', u'Nexus', u'5', u'is', u'by', u'far', u'the', u'most', u'successful', u'model', u'in', u'the', u'Nexus', u'family'] , tags: feature_query
+words : [u'Flash', u'light', u'is', u'a', u'built', u'in', u'app', u'in', u'HTC', u'Desire', u'816G'] , tags: feature_query
+words : [u'Samsung', u'Galaxy', u'phones', u'are', u'available', u'from', u'Rs', u'.', u'4000', u'.'] , tags: irrelevant
+words : [u'I', u'need', u'a', u'phone', u'within', u'$', u'500', u'with', u'Android', u'Kitkat', u',', u'5.5', u'``', u'HD', u'display', u'.'] , tags: irrelevant
+words : [u'I', u'bought', u'a', u'new', u'smartphone', u'from', u'amazon', u'yesterday', u'.'] , tags: irrelevant
+words : [u'Does', u'philips', u'produces', u'smartphones', u'?'] , tags: irrelevant
+words : [u'Samsung', u'becomes', u'the', u'world', u"'s", u'largest', u'smartphone', u'maker', u'as', u'Apple', u"'s", u'market', u'share', u'hits', u'three-year', u'low'] , tags: irrelevant
+words : [u'GPS', u'Map', u'needs', u'Android', u'3.0', u'and', u'above', u'.'] , tags: irrelevant
+words : [u'Karbonn', u'Titanium', u'S4', u'has', u'quad', u'core', u'processor', u'clocked', u'at', u'1.2', u'GHz', u'supported', u'by', u'1', u'GB', u'of', u'RAM'] , tags: feature_query
+words : [u'Can', u'Moto', u'G', u'be', u'updated', u'to', u'android', u'5.0', u'lollipop', u'?'] , tags: feature_query
+words : [u'Is', u'apple', u'iphone', u'of', u'size', u'5.5', u"''", u'available', u'in', u'India', u'?'] , tags: irrelevant
+words : [u'Will', u'android', u'5.0', u'release', u'by', u'December', u'2014', u'in', u'Chennai', u'?'] , tags: feature_query
+words : [u'I', u'bought', u'an', u'iOS', u'phone', u'on', u'21-02-2014'] , tags: irrelevant
+words : [u'Is', u'skype', u'the', u'best', u'for', u'video', u'calling', u'?'] , tags: feature_query
+words : [u'Samsung', u'is', u'selling', u'good', u'smartphones', u'than', u'Nokia'] , tags: irrelevant
+words : [u'Is', u'apple', u"'s", u'iPhone', u'is', u'cheaper', u'in', u'US', u'?'] , tags: irrelevant
+words : [u'Which', u'is', u'the', u'best', u'among', u'xperia', u'series', u'?'] , tags: feature_query
+words : [u'My', u'father', u'got', u'an', u'old', u'android', u'jelly', u'bean', u'phone', u'today'] , tags: irrelevant
+words : [u'Is', u'fruit', u'ninja', u'supported', u'on', u'phones', u'with', u'4.5', u"''", u'display', u'?'] , tags: irrelevant
+words : [u'Which', u'is', u'the', u'best', u'smartphone', u'which', u'got', u'released', u'in', u'India', u'this', u'year', u'?'] , tags: irrelevant
+words : [u'Which', u'is', u'the', u'best', u'phone', u'below', u'10K', u'having', u'all', u'the', u'features', u'?'] , tags: irrelevant
+words : [u'Is', u'Moto', u'G', u'2', u'worth', u'paying', u'13k', u'?'] , tags: feature_query
+words : [u'Suggest', u'a', u'phone', u'in', u'10k', u'which', u'supports', u'temple', u'run'] , tags: irrelevant
+words : [u'Moto', u'G', u'2', u'has', u'Ginger', u'Bread', u'or', u'Jelly', u'Bean', u'?'] , tags: feature_query
+words : [u'I', u'need', u'a', u'5', u"''", u'phone', u'with', u'Jelly', u'Bean', u'in', u'13000'] , tags: irrelevant
+words : [u'What', u'is', u'the', u'best', u'price', u'I', u'can', u'get', u'for', u'a', u'5', u"''", u'phone', u'this', u'month', u'?'] , tags: irrelevant
+words : [u'I', u'need', u'phone', u'in', u'range', u'10000', u'-', u'13000'] , tags: irrelevant
+words : [u'Can', u'I', u'get', u'Moto', u'G', u'delivered', u'within', u'this', u'week'] , tags: feature_query
+words : [u'What', u'is', u'the', u'size', u'and', u'android', u'version', u'of', u'the', u'new', u'Nexus', u'6'] , tags: feature_query
+words : [u'Does', u'Nokia', u'Asha', u'support', u'whatsapp'] , tags: feature_query
+words : [u'what', u'is', u'the', u'size', u'of', u'Moto', u'X'] , tags: feature_query
+words : [u'When', u'can', u'i', u'expect', u'an', u'android', u'L', u'update', u'on', u'my', u'Nexus', u'5'] , tags: feature_query
+words : [u'Is', u'there', u'any', u'discount', u'on', u'the', u'latest', u'jelly', u'bean', u'phone', u'today', u'in', u'bangalore', u'?'] , tags: irrelevant
+words : [u'Can', u'you', u'suggest', u'a', u'good', u'tablet'] , tags: irrelevant
+words : [u'Which', u'is', u'the', u'best', u'5', u"''", u'smartphone', u'in', u'India', u'today', u'?'] , tags: irrelevant
+words : [u'What', u'is', u'the', u'current', u'price', u'of', u'iphone', u'5'] , tags: feature_query
+words : [u'Which', u'is', u'bigger', u'Moto', u'X', u'or', u'Sony', u'Xperia', u'Z'] , tags: feature_query
+words : [u'When', u'will', u'Android', u'One', u'launch', u'in', u'india', u'?'] , tags: irrelevant
+words : [u'I', u'want', u'a', u'6', u"''", u'jelly', u'bean', u'phone'] , tags: irrelevant
+words : [u'Does', u'temple', u'run', u'work', u'on', u'ginger', u'bread'] , tags: feature_query
+words : [u'Do', u'dual', u'sim', u'phones', u'consume', u'more', u'battery', u'?'] , tags: irrelevant
+words : [u'What', u'are', u'the', u'best', u'specifications', u'I', u'can', u'get', u'in', u'a', u'tablet', u'for', u'Rs', u'20000'] , tags: irrelevant
+words : [u'Bangalore', u'is', u'one', u'of', u'the', u'largest', u'cities', u'and', u'is', u'the', u'fourth-largest', u'metropolitan', u'area', u'in', u'India', u'.'] , tags: feature_query
+words : [u'A', u'demographically', u'diverse', u'city', u',', u'Bengaluru', u'is', u'the', u'second-fastest', u'growing', u'major', u'metropolis', u'in', u'India', u'.'] , tags: feature_query
+words : [u'Nexus', u'6', u'runs', u'android', u'lollipop'] , tags: feature_query
+words : [u'the', u'google', u'nexus', u'6', u'runs', u'the', u'android', u'lollipop'] , tags: feature_query
+words : [u'where', u'are', u'you', u'going', u'tomorrow'] , tags: feature_query
+words : [u'flappy', u'birds', u'does', u'not', u'run', u'on', u'the', u'$', u'349', u'nexus', u'6'] , tags: disagreement
+words : [u'the', u'latest', u'version', u'on', u'the', u'google', u'nexus', u'line', u'is', u'the', u'android', u'lollipop'] , tags: feature_query
+words : [u'i', u'love', u'google'] , tags: feature_query
+words : [u'the', u'android', u'lollipop', u'was', u'recently', u'released', u'in', u'the', u'US'] , tags: feature_query
+words : [u'i', u'do', u'not', u'like', u'the', u'samsung', u'galaxy', u'note'] , tags: acknowledgement
+words : [u'HTC', u'one', u'is', u'the', u'best', u'smartphone', u'on', u'the', u'market', u'right', u'now'] , tags: irrelevant
+words : [u'the', u'nexus', u'6', u'costs', u'around', u'$', u'349'] , tags: irrelevant
+words : [u'Which', u'version', u'of', u'the', u'android', u'does', u'the', u'Nexus', u'6', u'run', u'on', u'?'] , tags: feature_query
+words : [u'iOS', u'8', u'was', u'first', u'released', u'in', u'San', u'Fransisco'] , tags: irrelevant
+words : [u'candy', u'crush', u'saga', u'runs', u'on', u'android', u'with', u'a', u'price', u'of', u'$', u'4'] , tags: irrelevant
+words : [u'I', u'love', u'angry', u'Birds'] , tags: feature_query
+words : [u'I', u'play', u'subway', u'surfers', u'on', u'my', u'android', u'smartphone'] , tags: irrelevant
+words : [u'nvidia', u"'s", u'new', u'14', u'inch', u'tablet', u'runs', u'on', u'android', u'and', u'costs', u'$', u'299'] , tags: irrelevant
+words : [u'I', u'hate', u'4', u'inch', u'smartphones'] , tags: irrelevant
+words : [u'What', u'are', u'some', u'of', u'the', u'phones', u'running', u'android', u'lollipop', u'?'] , tags: irrelevant
+words : [u'Google', u'is', u'selling', u'glass', u'at', u'a', u'price', u'of', u'$', u'1500'] , tags: irrelevant
+words : [u'I', u'love', u'the', u'new', u'android', u'lollipop'] , tags: feature_query
+words : [u'I', u'have', u'always', u'loved', u'the', u'4', u'inch', u'long', u'Samsung', u'Galaxy', u'Grand'] , tags: irrelevant
+words : [u'Can', u'you', u'suggest', u'some', u'good', u'phones', u'with', u'Samsung', u'galaxy', u'grand', u'?'] , tags: irrelevant
+words : [u'the', u'Google', u'nexus', u'6', u'costs', u'$', u'349'] , tags: irrelevant
+words : [u'does', u'the', u'android', u'lollipop', u'have', u'IR', u'blaster', u'support', u'?'] , tags: feature_query
+words : [u'which', u'phones', u'have', u'3gb', u'ram', u'?'] , tags: irrelevant
+words : [u'I', u'want', u'a', u'phone', u'costing', u'less', u'than', u'$', u'300', u'and', u'having', u'16gb', u'storage'] , tags: irrelevant
+words : [u'Do', u'you', u'have', u'a', u'phone', u'that', u'has', u'8MP', u'camera', u'?'] , tags: irrelevant
+words : [u'I', u'like', u'phones', u'with', u'good', u'camera', u'resolution'] , tags: irrelevant
+words : [u'I', u'want', u'to', u'buy', u'a', u'motorola', u'smartphone', u'with', u'lollipop', u'is', u'in', u'it'] , tags: irrelevant
+words : [u'buy', u'android', u'phone', u'to', u'get', u'loads', u'of', u'apps'] , tags: irrelevant
+words : [u'android', u'is', u'is', u'a', u'well', u'documented', u'software'] , tags: feature_query
+words : [u'I', u'need', u'a', u'phone', u'that', u'runs', u'facebook'] , tags: irrelevant
+words : [u'I', u'bought', u'moto', u'g', u'in', u'june'] , tags: feature_query
+words : [u'I', u'need', u'a', u'phone', u'of', u'10000', u'from', u'samsung', u'and', u'i', u'want', u'it', u'to', u'be', u'galaxy'] , tags: irrelevant
+words : [u'I', u'plan', u'to', u'buy', u'nexus', u'7', u'as', u'it', u'has', u'android', u'lollipop'] , tags: feature_query
+words : [u'Suggest', u'a', u'phone', u'that', u'runs', u'subway', u'surfers', u'and', u'has', u'5mp', u'camera'] , tags: irrelevant
+words : [u'Galaxy', u'has', u'ice', u'cream', u'sandwich'] , tags: feature_query
+words : [u'Dont', u'buy', u'a', u'phone', u'with', u'less', u'than', u'2gb', u'ram'] , tags: irrelevant
+words : [u'A', u'phone', u'with', u'internal', u'memory', u'card', u'is', u'slower', u'than', u'the', u'one', u'without'] , tags: irrelevant
+words : [u'Is', u'micromax', u'canvas', u'with', u'lollipop', u'available', u'in', u'india', u'?'] , tags: irrelevant
+words : [u'I', u'want', u'a', u'phone', u'with', u'dual', u'sim', u'feature'] , tags: irrelevant
+words : [u'Android', u'lollipop', u'is', u'yet', u'to', u'release', u'in', u'Kenya'] , tags: irrelevant
+words : [u'lumia', u'runs', u'on', u'windows', u'8.1'] , tags: feature_query
+words : [u'Subway', u'surfers', u'is', u'compatible', u'with', u'a', u'dual', u'sim', u'smartphone'] , tags: irrelevant
+words : [u'Subway', u'surfers', u'is', u'a', u'small', u'size', u'game', u'compatible', u'with', u'android', u'lollipop'] , tags: feature_query
+words : [u'lollipop', u'is', u'the', u'latest', u'android', u'version'] , tags: feature_query
+words : [u'tell', u'a', u'motoroal', u'moto', u'phone', u'name', u'priced', u'under', u'10k'] , tags: irrelevant
+words : [u'motorola', u'nexus', u'is', u'available', u'on', u'flipkart', u'with', u'lollipop'] , tags: irrelevant
+words : [u'I', u'like', u'Nokia', u"'s", u'battery', u'performance'] , tags: feature_query
+words : [u'Which', u'colors', u'you', u'have', u'?'] , tags: feature_query
+words : [u'Does', u'it', u'have', u'FM', u'radio', u'?'] , tags: feature_query
+words : [u'Can', u'you', u'please', u'tel', u'me', u'the', u'cost', u'of', u'Nokia', u'Lumia', u'820', u'?'] , tags: feature_query
+words : [u'Does', u'Apple', u'Iphone', u'supports', u'RUIM', u'cards', u'?'] , tags: feature_query
+words : [u'Show', u'me', u'any', u'good', u'multi-band', u'phone'] , tags: irrelevant
+words : [u'Is', u'this', u'phone', u'supports', u'3G', u'Network', u'?'] , tags: irrelevant
+words : [u'I', u'dont', u'want', u'to', u'buy', u'any', u'small', u'size', u'cellphone', u'.'] , tags: feature_query
+words : [u'Please', u'show', u'me', u'phones', u'with', u'a', u'display', u'of', u'3.5', u'inch', u'screen'] , tags: irrelevant
+words : [u'Does', u'Lava', u'Iris', u'supports', u'CDMA', u'and', u'GSM', u'networks', u'?'] , tags: feature_query
+words : [u'Micromax', u'Canvas', u'Nitro', u'A311', u'has', u'offer', u'price', u'Rs', u'3000', u'only'] , tags: feature_query
+words : [u'Nokia', u'Lumia', u'520', u'is', u'the', u'best', u'phone', u'I', u'have', u'ever', u'seen', u'with', u'front', u'camera', u'of', u'8MP'] , tags: irrelevant
+words : [u'Show', u'me', u'good', u'phones', u'with', u'battery', u'backup', u'of', u'24', u'hours', u'even', u'after', u'playing', u'songs'] , tags: irrelevant
+words : [u'Can', u'you', u'suggest', u'any', u'good', u'mobile', u'with', u'weight', u'less', u'than', u'124g', u'.'] , tags: irrelevant
+words : [u'Does', u'Samsung', u'Note', u'3', u'supports', u'2.3GHz', u'quad-core', u'SoC'] , tags: feature_query
+words : [u'Does', u'Nokia', u'6300', u'has', u'Touch', u'scrren', u'?'] , tags: feature_query
+words : [u'Show', u'me', u'any', u'Samsung', u'phone', u'with', u'Good', u'S', u'Pen', u'stylus', u'functionality', u'below', u'10K'] , tags: irrelevant
+words : [u'I', u'would', u'like', u'to', u'buy', u'the', u'slimmest', u'phone'] , tags: irrelevant
+words : [u'She', u'wants', u'a', u'phone', u'with', u'qwerty', u'keyboard', u'without', u'touch', u'screen'] , tags: irrelevant
+words : [u'Can', u'I', u'get', u'coloured', u'panels', u'for', u'Lava', u'Iris', u'X1', u'?'] , tags: feature_query
+words : [u'Can', u'I', u'get', u'a', u'cellphone', u'with', u'Mirror', u'?'] , tags: feature_query
+words : [u'Can', u'you', u'send', u'Asus', u'Zenphone', u'5', u'to', u'this', u'address', u'within', u'28th', u'November', u'?'] , tags: feature_query
+words : [u'Do', u'you', u'have', u'a', u'mobile', u'with', u'Front', u'camera', u'with', u'Flash', u'in', u'Lava', u'?'] , tags: irrelevant
+words : [u'I', u'can', u'use', u'Whatsapp', u'on', u'Windows', u'8.1', u'anywhere', u'in', u'India'] , tags: irrelevant
+words : [u'The', u'hoodies', u'cost', u'Rs', u'600', u'in', u'Bangalore'] , tags: feature_query
+words : [u'Whatsapp', u'is', u'better', u'on', u'Android', u'L', u'with', u'screen', u'size', u'more', u'that', u'6', u"''"] , tags: comparison
+words : [u'The', u'Facebook', u'4', u"''", u'looks', u'better', u'on', u'Android', u'Kitkat'] , tags: comparison
+words : [u'I', u'am', u'selling', u'my', u'Samsung', u'phone', u'for', u'Rs', u'10000'] , tags: irrelevant
+words : [u'My', u'Lumia', u'1020', u'runs', u'Windows', u'8.1', u'on', u'7', u"''"] , tags: irrelevant
+words : [u'Google', u'has', u'released', u'Gmail'] , tags: feature_query
+words : [u'9gag', u'is', u'best', u'designed', u'for', u'Android', u'L', u'in', u'USA'] , tags: irrelevant
+words : [u'Nokia', u'Lumia', u'1020', u'runs', u'Windows', u'8.1'] , tags: irrelevant
+words : [u'Facebook', u'is', u'a', u'USA', u'based', u'company'] , tags: feature_query
+words : [u'Apple', u'is', u'released', u'iPhone', u'5S', u'in', u'India', u'recently'] , tags: feature_query
+words : [u'Which', u'Android', u'phone', u'I', u'can', u'get', u'under', u'15K', u'?'] , tags: irrelevant
+words : [u'Moto', u'E', u'is', u'the', u'best', u'phone', u'under', u'9k'] , tags: irrelevant
+words : [u'Shazam', u'app', u'is', u'best', u'suited', u'for', u'Apple', u'products'] , tags: feature_query
+words : [u'Flipkart', u'offer', u'Lumia', u'for', u'20k'] , tags: feature_query
+words : [u'Flipkart', u'is', u'an', u'Indian', u'company'] , tags: feature_query
+words : [u'Samsung', u'S2', u'ca', u"n't", u'run', u'Kitkat'] , tags: feature_query
+words : [u'Android', u'L', u'is', u'default', u'in', u'the', u'new', u'Micromax', u'phones'] , tags: irrelevant
+words : [u'I', u'bought', u'a', u'new', u'phone', u'last', u'month'] , tags: irrelevant
+words : [u'I', u'installed', u'Angry', u'Birds', u'yesterday'] , tags: feature_query
+words : [u'Samsung', u'Galaxy', u'Grand', u'2', u'has', u'the', u'best', u'interface', u'for', u'Whatsapp'] , tags: feature_query
+words : [u'Whatsapp', u'stores', u'Bangalore', u'as', u'default', u'in', u'Windows'] , tags: irrelevant
+words : [u'I', u'am', u'planning', u'to', u'buy', u'the', u'new', u'iPhone', u'model', u'during', u'Dec', u'holidays'] , tags: feature_query
+words : [u'I', u'need', u'a', u'smartphone'] , tags: irrelevant
+words : [u'The', u'market', u'is', u'heaving', u'with', u'Chinese', u'smartphone', u'makers', u'out', u'to', u'grab', u'share', u'from', u'Apple', u'Inc', u'and', u'Samsung', u'Electronics', u'Co', u'Ltd', u'with', u'low-priced', u'handsets', u'.'] , tags: irrelevant
+words : [u'MediaTek', u'pioneered', u'bundling', u'low-cost', u'chips', u'with', u'recommendations', u'on', u'hardware', u'such', u'as', u'lenses', u'and', u'speakers', u'.'] , tags: feature_query
+words : [u'NOKIA', u'LAUNCHES', u'N1'] , tags: feature_query
+words : [u'Samsung', u'has', u'a', u'factory', u'in', u'India', u'.'] , tags: feature_query
+words : [u'Moto', u'X', u'is', u'available', u'in', u'India', u'.'] , tags: feature_query
+words : [u'I', u'have', u'a', u'laptop', u'.'] , tags: feature_query
+words : [u'the', u'new', u'nexus', u'runs', u'on', u'Android', u'Lolipop', u'.'] , tags: irrelevant
+words : [u'Nexus', u'6', u'realeased', u'in', u'1st', u'week', u'of', u'November', u'.'] , tags: feature_query
+words : [u'The', u'6', u'inch', u'nexus', u'6', u'costs', u'40,000', u'.'] , tags: irrelevant
+words : [u'Samsung', u'manufactures', u'smartphones', u'.'] , tags: irrelevant
+words : [u'The', u'Google', u'Nexus', u'6', u'is', u'6', u'inches', u'.'] , tags: irrelevant
+words : [u'The', u'Nexus', u'series', u'is', u'really', u'good', u'.'] , tags: feature_query
+words : [u'the', u'5', u'inch', u'Samsung', u'galaxy', u'grand', u'released', u'in', u'2013', u'.'] , tags: irrelevant
+words : [u'Facebook', u'owned', u'WhatsApp', u'used', u'to', u'cost', u'Rs', u'.', u'50', u'.'] , tags: feature_query
+words : [u'The', u'samsung', u'galaxy', u'alpha', u'released', u'this', u'month', u'among', u'many', u'other', u'phones', u'.'] , tags: irrelevant
+words : [u'The', u'iphone', u'6', u'has', u'a', u'6', u'inch', u'screen', u'.'] , tags: irrelevant
+words : [u'The', u'latest', u'release', u'of', u'Android', u'is', u'Lollipop', u'.'] , tags: irrelevant
+words : [u'The', u'nexus', u'5', u'is', u'a', u'good', u'phone', u'.'] , tags: irrelevant
+words : [u'Doodle', u'Jump', u'is', u'a', u'popular', u'app', u'on', u'Android', u'phones', u'.'] , tags: irrelevant
+words : [u'The', u'Moto', u'X', u'is', u'a', u'good', u'phone', u'.'] , tags: irrelevant
+words : [u'Samsung', u'galaxy', u'grand', u'runs', u'on', u'Android', u'.'] , tags: irrelevant
+words : [u'The', u'iphone', u'6', u'costs', u'over', u'Rs', u'50,000', u'.'] , tags: feature_query
+words : [u'Motorola', u'was', u'aquired', u'by', u'Lenovo', u'.'] , tags: feature_query
+words : [u'Nokia', u'has', u'a', u'factory', u'in', u'Chennai', u'.'] , tags: feature_query
+words : [u'When', u'is', u'the', u'release', u'date', u'of', u'Google', u'Nexus', u'6', u'and', u'how', u'much', u'is', u'its', u'price', u'?'] , tags: feature_query
+words : [u'The', u'iPhone', u'6', u'released', u'in', u'August', u'is', u'bigger', u'than', u'iPhone', u'5', u'.'] , tags: feature_query
+words : [u'Which', u'is', u'the', u'most', u'popular', u'gaming', u'app', u'in', u'Chandigarh', u'?'] , tags: feature_query
+words : [u'Which', u'is', u'the', u'latest', u'OS', u'version', u'of', u'Google', u'Nexus', u'?'] , tags: irrelevant
+words : [u'What', u'is', u'the', u'price', u'of', u'Google', u'Nexus', u'6', u'?'] , tags: feature_query
+words : [u'What', u'was', u'the', u'release', u'date', u'of', u'Tinder', u'?'] , tags: feature_query
+words : [u'which', u'is', u'the', u'latest', u'version', u'of', u'Apple', u'iOS', u'?'] , tags: irrelevant
+words : [u'The', u'latest', u'OS', u'update', u'of', u'Android', u'is', u'lollipop', u'.'] , tags: irrelevant
+words : [u'I', u'need', u'an', u'android', u'phone', u'which', u'is', u'6', u'inches', u'in', u'size', u'.'] , tags: irrelevant
+words : [u'I', u'recently', u'downloaded', u'pushbullet', u'on', u'my', u'Google', u'Nexus', u'5', u'.'] , tags: feature_query
+words : [u'The', u'CamScanner', u'app', u'is', u'worth', u'Rs', u'120', u'.'] , tags: feature_query
+words : [u'iOS', u'8', u'is', u'the', u'latest', u'update', u'.'] , tags: irrelevant
+words : [u'More', u'memory', u'space', u'in', u'Nexus', u'leads', u'to', u'more', u'storage', u'of', u'apps', u'.'] , tags: feature_query
+words : [u'Android', u'is', u'better', u'than', u'iOS', u'.'] , tags: comparison
+words : [u'I', u'downloaded', u'google', u'maps', u'on', u'my', u'android', u'phone', u'when', u'i', u'was', u'heading', u'to', u'Bangalore', u'.'] , tags: irrelevant
+words : [u'Nexus', u'5', u'which', u'is', u'5.4', u'inches', u'big', u'is', u'worth', u'Rs', u'.', u'28000', u'.'] , tags: irrelevant
+words : [u'Nexus', u'5', u'and', u'Nexus', u'4', u'are', u'of', u'the', u'same', u'size', u'.'] , tags: feature_query
+words : [u'Which', u'is', u'the', u'cheapest', u'phone', u'released', u'Motorola', u'till', u'date', u'?'] , tags: irrelevant
+words : [u'Besides', u'making', u'phone', u'calls', u',', u'nearly', u'all', u'smartphones', u'can', u'provide', u'directions', u'through', u'GPS', u'and', u'many', u'more', u'benificial', u'things', u'.'] , tags: irrelevant
+words : [u'Windows', u'Phone', u'8', u'is', u'the', u'latest', u'version', u'.'] , tags: irrelevant
+words : [u'iPhone', u'6', u'was', u'released', u'on', u'9', u'September', u'which', u'is', u'worth', u'Rs', u'.', u'53000', u'.'] , tags: feature_query
+words : [u'can', u'i', u'get', u'a', u'phone', u'below', u'Rs', u'4000', u'?'] , tags: price_query
+words : [u'is', u'there', u'an', u'apple', u'phone', u'less', u'than', u'20K', u'?'] , tags: irrelevant
+words : [u'i', u'think', u'iOS', u'8', u'is', u'not', u'so', u'good'] , tags: disagreement
+words : [u'when', u'will', u'iphone', u'6', u'be', u'available', u'for', u'less', u'than', u'50K', u'?'] , tags: feature_query
+words : [u'i', u'm', u'a', u'joker'] , tags: feature_query
+words : [u'Rajnikanth', u'is', u'superstar', u'of', u'India'] , tags: feature_query
+words : [u'Moto-G', u'is', u'the', u'best', u'smartphone', u'available', u'in', u'market'] , tags: irrelevant
+words : [u'wodland', u'shoe', u'costs', u'3000'] , tags: feature_query
+words : [u'i', u'm', u'the', u'one', u'who', u'knocks'] , tags: feature_query
+words : [u'30000000000000', u'crore', u'rupees', u'are', u'there', u'in', u'swiss', u'bank'] , tags: irrelevant
+words : [u'u', u'will', u'get', u'50', u'rs', u'discount', u'for', u'nokia'] , tags: irrelevant
+words : [u'i', u'want', u'buy', u'iphne', u'5s'] , tags: feature_query
+words : [u'my', u'height', u'is', u'5.11'] , tags: feature_query
+words : [u'dell', u'is', u'better', u'than', u'lenovo'] , tags: comparison
+words : [u'windows', u'8', u'launched', u'on', u'28th', u'aug'] , tags: feature_query
+words : [u'my', u'bt', u'app', u'is', u'reasonably', u'working'] , tags: feature_query
+words : [u'size', u'of', u'my', u'krishibhagya', u'app', u'is', u'18mb', u'in', u'android'] , tags: feature_query
+words : [u'data', u'i', u'have', u'sent', u'is', u'45mb'] , tags: feature_query
+words : [u'in', u'2000', u'windows', u'xp', u'was', u'launced', u'by', u'microsoft'] , tags: irrelevant
+words : [u'i', u'have', u'samsung', u'smartphone'] , tags: irrelevant
+words : [u'i', u'joined', u'tcs', u'and', u'used', u'android', u'os', u'from', u'google'] , tags: feature_query
+words : [u'my', u'dob', u'is', u'06/10/93'] , tags: feature_query
+words : [u'hey', u'r', u'u', u'alright'] , tags: feature_query
+words : [u'u', u'r', u'responsible', u'for', u'that'] , tags: feature_query
+words : [u'I', u'have', u'an', u'HTC', u'One'] , tags: feature_query
+words : [u'The', u'latest', u'version', u'of', u'Android', u'is', u'called', u'Lollipop'] , tags: irrelevant
+words : [u'I', u'use', u'Android'] , tags: irrelevant
+words : [u'Nexus', u'6', u'is', u'too', u'large'] , tags: feature_query
+words : [u'Google', u"'s", u'new', u'phone', u'is', u'called', u'Nexus', u'6'] , tags: irrelevant
+words : [u'Google', u"'s", u'new', u'phone', u'is', u'called', u'Nexus', u'6'] , tags: irrelevant
+words : [u'HTC', u'One', u'M8', u'has', u'dual', u'back', u'cameras'] , tags: feature_query
+words : [u'LG', u'g3', u'is', u'expensive'] , tags: feature_query
+words : [u'Angry', u'Birds', u'is', u'a', u'good', u'game'] , tags: feature_query
+words : [u'I', u'will', u'buy', u'MacBook', u'Air', u'in', u'December'] , tags: feature_query
+words : [u'This', u'phone', u'is', u'good'] , tags: irrelevant
+words : [u'The', u'new', u'gmail', u'has', u'material', u'design'] , tags: feature_query
+words : [u'Is', u'iOS', u'better', u'for', u'me', u'or', u'android', u'?'] , tags: comparison
+words : [u'is', u'this', u'phone', u'cheaper', u'in', u'the', u'US', u'?'] , tags: irrelevant
+words : [u'will', u'the', u'price', u'of', u'this', u'phone', u'reduce', u'by', u'next', u'month', u'?'] , tags: irrelevant
+words : [u'how', u'is', u'kitkat', u'better', u'than', u'jellybean', u'?'] , tags: comparison
+words : [u'can', u'I', u'download', u'this', u'app', u'on', u'iPhone', u'?'] , tags: feature_query
+words : [u'how', u'much', u'memory', u'does', u'this', u'app', u'consume', u'?'] , tags: feature_query
+words : [u'which', u'company', u'makes', u'the', u'best', u'smartphones', u'?'] , tags: irrelevant
+words : [u'which', u'company', u'makes', u'the', u'best', u'smartphones', u'?'] , tags: irrelevant
+words : [u'what', u'was', u'the', u'price', u'of', u'this', u'phone', u'a', u'week', u'ago', u'?'] , tags: irrelevant
+words : [u'Is', u'Motorola', u'a', u'reliable', u'company', u'to', u'buy', u'cheap', u'phones', u'?'] , tags: irrelevant
+words : [u'Moto', u'G', u'is', u'a', u'feature', u'rich', u'phone'] , tags: irrelevant
+words : [u'The', u'developer', u'preview', u'is', u'already', u'available', u'for', u'the', u'Nexus', u'5', u'and', u'the', u'new', u'Nexus', u'7', u'for', u'Lollipop', u'version', u'.'] , tags: feature_query
+words : [u'The', u'Samsung', u'Galaxy', u'S4', u'and', u'HTC', u'One', u'Google', u'Play', u'Editions', u'got', u'the', u'Android', u'4.4.3', u'update', u'within', u'a', u'day', u'of', u'it', u'hitting', u'Nexus', u'handsets'] , tags: irrelevant
+words : [u'The', u'Samsung', u'Galaxy', u'S5', u'is', u'the', u'best', u'smartphone', u'money', u'can', u'buy', u'.'] , tags: irrelevant
+words : [u'Duolingo', u'is', u'the', u'best', u'language', u'learning', u'app', u'.'] , tags: feature_query
+words : [u'Built', u'by', u'Motorola', u',', u'the', u'Nexus', u'6', u'is', u'on', u'paper', u'one', u'of', u'the', u'finest', u'Google', u'flagships', u'ever', u'made', u'.'] , tags: feature_query
+words : [u'Google', u"'s", u'latest', u'Android', u'5.0', u'Lollipop', u'OS', u'has', u'a', u'reworked', u'Material', u'design'] , tags: irrelevant
+words : [u'Netflix', u'embraces', u'Android', u'Wear', u',', u'but', u'it', u'does', u"n't", u'go', u'far', u'enough', u'.'] , tags: irrelevant
+words : [u'If', u'Tizen', u'is', u'handled', u'properly', u',', u'Samsung', u'could', u'see', u'themselves', u'move', u'away', u'from', u'having', u'to', u'rely', u'on', u'Android', u'for', u'their', u'smartphones'] , tags: irrelevant
+words : [u'Apple', u'iPhone', u'6', u'Plus', u'is', u'huge'] , tags: feature_query
+words : [u'Google', u'Android', u'development', u'happens', u'in', u'MVC', u',', u'California', u'headquarters', u'.'] , tags: irrelevant
+words : [u'Samsung', u'is', u'a', u'Korean', u'company'] , tags: feature_query
+words : [u'AngryBirds', u'have', u'better', u'graphic', u'version', u'in', u'Android', u'4.4'] , tags: comparison
+words : [u'Good', u'phones', u'for', u'a', u'price', u'of', u'15000', u'or', u'more'] , tags: irrelevant
+words : [u'Smartphones', u'like', u'Firefox', u"'s", u'IntexCloudFX', u'comes', u'with', u'a', u'cheaper', u'price', u'.'] , tags: irrelevant
+words : [u'Quora', u'is', u'the', u'best', u'Q', u'&', u'A', u'app', u'ever', u'developed', u'.'] , tags: feature_query
+words : [u'Samsung', u'Galaxy', u'Ace', u'is', u'an', u'obsolete', u'Samsung', u'phone', u'now', u'.'] , tags: irrelevant
+words : [u'Highest', u'number', u'of', u'iPhones', u'are', u'sold', u'at', u'Bangalore', u'in', u'India'] , tags: feature_query
+words : [u'Android', u'GingerBread', u'version', u'is', u'still', u'supported', u'.'] , tags: irrelevant
+words : [u'Camera', u'clarity', u'is', u'the', u'best', u'in', u'iPhones', u'.'] , tags: feature_query
+words : [u'What', u'version', u'of', u'Android', u'are', u'you', u'running', u'on', u'your', u'smartphone', u'?'] , tags: irrelevant
+words : [u'Does', u'WhatsApp', u'hang', u'in', u'the', u'Samsung', u'Galaxy', u'S3', u'?'] , tags: feature_query
+words : [u'Is', u'Android', u'L', u'out', u'for', u'Moto', u'G', u'?'] , tags: irrelevant
+words : [u'Does', u'the', u'samsung', u'galaxy', u'grand', u'run', u'Jellybean', u'?'] , tags: irrelevant
+words : [u'Is', u'the', u'HTC', u'Desire', u'more', u'than', u'5', u"''", u'in', u'size', u'?'] , tags: irrelevant
+words : [u'Google', u'Nexus', u'4', u'is', u'now', u'old', u'because', u'Google', u'Nexus', u'6', u'has', u'released'] , tags: feature_query
+words : [u'Motorola', u'Moto', u'X', u'has', u'a', u'new', u'release', u'as', u'of', u'November'] , tags: feature_query
+words : [u'Samsung', u'Galaxy', u'Grand', u'is', u'more', u'than', u'6', u"''", u'in', u'size'] , tags: irrelevant
+words : [u'I', u'recently', u'bought', u'a', u'Moto', u'G'] , tags: feature_query
+words : [u'I', u'will', u'buy', u'the', u'new', u'Google', u'Nexus', u'6'] , tags: feature_query
+words : [u'The', u'Google', u'Nexus', u'5', u'is', u'cheaper', u'in', u'England'] , tags: feature_query
+words : [u'The', u'Sony', u'Xperia', u'SL', u'did', u'not', u'receive', u'any', u'Android', u'updates', u'beyond', u'Jellybean'] , tags: disagreement
+words : [u'Why', u'is', u'the', u'Samsung', u'UI', u'so', u'bad', u'?'] , tags: feature_query
+words : [u'Why', u'is', u'my', u'Samsung', u'S3', u'hanging', u'?'] , tags: feature_query
+words : [u'What', u'is', u'the', u'best', u'phone', u'for', u'Rs', u'15000', u'?'] , tags: price_query
+words : [u'Is', u'the', u'Apple', u'iPhone', u'6', u'better', u'than', u'the', u'Google', u'Nexus', u'5', u'?'] , tags: comparison
+words : [u'Nokia', u'got', u'bought', u'by', u'Microsoft'] , tags: feature_query
+words : [u'WhatsApp', u'hangs', u'on', u'my', u'Samsung', u'Galaxy', u'S3', u'when', u'I', u'do', u"n't", u'clear', u'messages'] , tags: feature_query
+words : [u'Android', u'L', u'has', u'not', u'released', u'in', u'Azerbaijan'] , tags: disagreement
+words : [u'Android', u'L', u'is', u'better', u'than', u'Jellybean'] , tags: comparison
+words : [u'Motorola', u'is', u'back', u'in', u'the', u'game', u'thanks', u'to', u'Moto', u'series'] , tags: feature_query
+words : [u'Apple', u'iPhone', u'6', u'and', u'iPhone', u'6', u'Plus', u'will', u'start', u'selling', u'in', u'India', u'from', u'Friday', u',', u'October', u'17', u'with', u'the', u'cheapest', u'of', u'the', u'smartphones', u'priced', u'at', u'Rs', u'53,500', u'.'] , tags: irrelevant
+words : [u'There', u'are', u'Nexus', u'4', u'phones', u'available', u'for', u'Rs', u'15K'] , tags: irrelevant
+words : [u'Apple', u'phones', u'have', u'superior', u'user', u'interface'] , tags: irrelevant
+words : [u'The', u'5.2', u'inch', u'Moto', u'X', u'is', u'very', u'popular', u'among', u'corporates', u'in', u'Bangalore', u'.'] , tags: irrelevant
+words : [u'The', u'Blackberry', u'Passport', u'is', u'the', u'best', u'smartphone', u'recommendation', u'for', u'Blackberry', u'loyalists', u'wanting', u'a', u'QWERTY', u'keypad', u'.'] , tags: irrelevant
+words : [u'Vizzywig', u'is', u'the', u'most', u'expensive', u'app', u'priced', u'at', u'$', u'999.99'] , tags: irrelevant
+words : [u'Angry', u'Birds', u'is', u'the', u'2nd', u'most', u'downloaded', u'app', u'.'] , tags: feature_query
+words : [u'Facebook', u'looks', u'better', u'on', u'Apple', u"'s", u'iPhone', u'6', u'Plus', u'because', u'it', u'has', u'a', u'bigger', u'screen', u'of', u'the', u'size', u'5.5', u'inches', u'.'] , tags: comparison
+words : [u'Google', u'launched', u'Android', u'4.4', u'KitKat', u'last', u'September', u'and', u'then', u'showed', u'off', u'Android', u'L', u'at', u'its', u'I/O', u'2014', u'developer', u'conference', u'before', u'officially', u'announcing', u'its', u'final', u'name', u'and', u'version', u'number', u'today', u'.'] , tags: irrelevant
+words : [u'Google', u'globally', u'announced', u'the', u'Nexus', u'5', u'on', u'November', u'1', u'with', u'the', u'16GB', u'model', u'priced', u'at', u'Rs', u'28,999', u'.'] , tags: feature_query
+words : [u'Apple', u'is', u'likely', u'to', u'release', u'the', u'next', u'iPhone', u'in', u'2015', u'.'] , tags: feature_query
+words : [u'Apple', u'iPhone', u'6', u'costs', u'Rs', u'81,900', u'.'] , tags: feature_query
+words : [u'Early', u'November', u'of', u'2014', u'saw', u'the', u'release', u'of', u'Android', u'Lollipop', u',', u'the', u'latest', u'in', u'store', u'for', u'mobile', u'phones', u'using', u'Android', u'OS', u'.'] , tags: irrelevant
+words : [u'Google', u'Maps', u'for', u'India', u'is', u'better', u'on', u'phones', u'with', u'screen', u'size', u'larger', u'than', u'4', u'inches', u'.'] , tags: comparison
+words : [u'Nexus', u'5', u'has', u'a', u'screen', u'size', u'4.95', u'inches', u'and', u'comes', u'with', u'Android', u'Kitkat', u'.'] , tags: irrelevant
+words : [u'Nexus', u'5', u'has', u'a', u'screen', u'size', u'of', u'4.95', u'inches', u'.'] , tags: irrelevant
+words : [u'The', u'latest', u'Grand', u'Theft', u'Auto', u'app', u'is', u'priced', u'at', u'a', u'whopping', u'Rs', u'300', u'.'] , tags: feature_query
+words : [u'Samsung', u'Galaxy', u'phones', u'are', u'available', u'only', u'in', u'two', u'colours', u',', u'black', u'and', u'white', u'.'] , tags: irrelevant
+words : [u'The', u'iPhone', u'6', u'which', u'uses', u'iOS', u'7', u'is', u'priced', u'at', u'539', u'pounds', u'in', u'the', u'UK', u'.'] , tags: irrelevant
+words : [u'Android', u'Lollipop', u'is', u'set', u'to', u'release', u'in', u'November', u'2014', u'.'] , tags: irrelevant
+words : [u'I', u'want', u'to', u'buy', u'the', u'new', u'iphone', u'model', u'this', u'month'] , tags: feature_query
+words : [u'Among', u'the', u'soft', u'drinks', u'I', u'like', u'coca-cola', u'the', u'most'] , tags: feature_query
+words : [u'Samsung', u'Galaxy', u'Grand', u'2', u'is', u'5.2', u'inch', u'in', u'size'] , tags: irrelevant
+words : [u'I', u'bought', u'Samsung', u'Galaxy', u'Grand', u'2', u'of', u'size', u'5.2', u'inch', u'yesterday'] , tags: irrelevant
+words : [u'I', u'bought', u'iphone', u'for', u'my', u'mother', u'last', u'month'] , tags: feature_query
+words : [u'I', u'need', u'samsung', u'phone'] , tags: irrelevant
+words : [u'can', u'i', u'get', u'android', u'smartphone', u'under', u'5K', u'?'] , tags: irrelevant
+words : [u'HTC', u'is', u'better', u'or', u'Galaxy', u'?'] , tags: comparison
+words : [u'Samsung', u'galaxy', u'with', u'more', u'than', u'5', u'inch', u'is', u'available', u'in', u'bangalore'] , tags: irrelevant
+words : [u'Can', u'you', u'suggest', u'some', u'good', u'phones', u'with', u'more', u'than', u'5', u'inch', u'in', u'bihar', u'?'] , tags: irrelevant
+words : [u'Apple', u'launches', u'the', u'new', u'ipad', u'air', u'2'] , tags: feature_query
+words : [u'playing', u'angry', u'birds', u'will', u'be', u'good', u'in', u'Android', u'5.0'] , tags: irrelevant
+words : [u'I', u'bought', u'iOS', u'8', u'phone'] , tags: irrelevant
+words : [u'i', u'need', u'a', u'good', u'phone'] , tags: irrelevant
+words : [u'I', u'need', u'a', u'phone', u'with', u'good', u'battery', u'life'] , tags: irrelevant
+words : [u'I', u'bought', u'a', u'new', u'phone'] , tags: irrelevant
+words : [u'I', u'want', u'to', u'buy', u'a', u'6', u'inch', u'phone', u'for', u'my', u'father'] , tags: irrelevant
+words : [u'size', u'of', u'htc', u'desire', u'new', u'product', u'is', u'5.5', u'inch'] , tags: irrelevant
+words : [u'Android', u'5.0', u'will', u'be', u'released', u'soon'] , tags: irrelevant
+words : [u'Android', u'releases', u'iphone', u'6'] , tags: irrelevant
+words : [u'Does', u'your', u'Google', u'Nexus', u'5', u'charge', u'well', u'with', u'a', u'power', u'bank', u'?'] , tags: feature_query
+words : [u'Do', u'you', u'like', u'the', u'Google', u'Nexus', u'6', u'better', u'than', u'the', u'Apple', u'iPhone', u'6', u'?'] , tags: comparison
+words : [u'Do', u'you', u'like', u'the', u'Google', u'Nexus', u'6', u'better', u'than', u'the', u'Apple', u'iPhone', u'6', u'?'] , tags: comparison
+words : [u'When', u'will', u'the', u'Android', u'4.4', u'based', u'Cyanogenmod', u'be', u'available', u'?'] , tags: irrelevant
+words : [u'Is', u'the', u'Google', u'Nexus', u'6', u'bigger', u'than', u'5', u"''", u'?'] , tags: irrelevant
+words : [u'Does', u'the', u'Google', u'Nexus', u'5', u'use', u'the', u'Snapdragon', u'processor', u'?'] , tags: feature_query
+words : [u'Will', u'the', u'Google', u'Nexus', u'5', u'get', u'the', u'Android', u'L', u'update', u'?'] , tags: irrelevant
+words : [u'Does', u'the', u'Motorola', u'Nexus', u'6', u'have', u'a', u'battery', u'capacity', u'of', u'over', u'2300', u'mAH', u'?'] , tags: feature_query
+words : [u'How', u'do', u'the', u'cameras', u'compare', u'in', u'the', u'Sony', u'Xperia', u'Z', u'and', u'Apple', u'iPhone', u'5', u'?'] , tags: feature_query
+words : [u'How', u'is', u'the', u'material', u'design', u'in', u'the', u'new', u'Android', u'5.0', u'?'] , tags: irrelevant
+words : [u'Is', u'the', u'Sony', u'Xperia', u'Z3', u'also', u'waterproof', u'?'] , tags: feature_query
+words : [u'ShareIt', u'is', u'a', u'file', u'sharing', u'application', u'that', u'works', u'without', u'bluetooth', u'.'] , tags: feature_query
+words : [u'Samsung', u'released', u'the', u'Galaxy', u'series', u'of', u'phones', u'that', u'run', u'on', u'Android', u'Kitkat', u'.'] , tags: irrelevant
+words : [u'Candycrush', u'shot', u'to', u'popularity', u'among', u'phone', u'users', u'.'] , tags: irrelevant
+words : [u'Google', u'Nexus', u'5', u'is', u'4.95-inches', u'.'] , tags: feature_query
+words : [u'The', u'Android', u'Lollipop', u'update', u'is', u'now', u'available', u'in', u'India', u'for', u'Nexus', u'.'] , tags: irrelevant
+words : [u'When', u'will', u'the', u'6-inch', u'Nexus', u'release', u'in', u'India', u'?'] , tags: feature_query
+words : [u'Is', u'the', u'Nexus', u'6', u'more', u'than', u'30k', u'?'] , tags: feature_query
+words : [u'Nexus', u'6', u'will', u'run', u'Android', u'Lollipop', u'.'] , tags: irrelevant
+words : [u'Will', u'Android', u'Lollipop', u'release', u'before', u'December', u'?'] , tags: irrelevant
+words : [u'Wordament', u'is', u'a', u'word', u'game', u'.'] , tags: feature_query
+words : [u'i', u'need', u'an', u'android', u'phone', u'that', u'runs', u'on', u'lollipop'] , tags: irrelevant
+words : [u'what', u'is', u'the', u'battery', u'life', u'of', u'samsung', u'galaxy', u's5', u'?'] , tags: irrelevant
+words : [u'when', u'was', u'iOS', u'8', u'released', u'in', u'bangalore', u'?'] , tags: irrelevant
+words : [u'Does', u'clash', u'of', u'clans', u'run', u'on', u'Android', u'phones', u'?'] , tags: irrelevant
+words : [u'What', u'are', u'the', u'best', u'android', u'phones', u'with', u'a', u'screen', u'size', u'greater', u'than', u'5', u"''", u'?'] , tags: irrelevant
+words : [u'Which', u'are', u'the', u'mobile', u'devices', u'with', u'android', u'4.2', u'run', u'FIFA', u'15', u'?'] , tags: irrelevant
+words : [u'Is', u'xiaomi', u'mi', u'4', u'available', u'in', u'India', u'?'] , tags: irrelevant
+words : [u'I', u'bought', u'a', u'mobile', u'with', u'android', u'4.3', u'for', u'Rs', u'10000', u'yesterday'] , tags: irrelevant
+words : [u'Which', u'are', u'the', u'best', u'Motorola', u'mobile', u'devices', u'under', u'RS', u'6000', u'that', u'run', u'stick', u'cricket', u'?'] , tags: price_query
+words : [u'I', u'need', u'a', u'phone', u'with', u'android', u'4.4', u'and', u'screen', u'size', u'greater', u'than', u'5', u'inches'] , tags: irrelevant
+words : [u'I', u'bought', u'Samsung', u'Galaxy', u'S', u'5', u'last', u'week'] , tags: feature_query
+words : [u'I', u'am', u'planning', u'to', u'buy', u'a', u'mobile', u'device', u'that', u'runs', u'QUIZ', u'UP', u'game', u'next', u'week'] , tags: irrelevant
+words : [u'Can', u'you', u'play', u'FIFA', u'15', u'on', u'windows', u'phones', u'in', u'Pakistan', u'?'] , tags: irrelevant
+words : [u'How', u'is', u'the', u'performance', u'of', u'Samsung', u'Galaxy', u'S', u'5', u'?'] , tags: feature_query
+words : [u'Does', u'clash', u'of', u'clans', u'run', u'on', u'iOS', u'8', u'?'] , tags: irrelevant
+words : [u'What', u'is', u'the', u'screen', u'size', u'of', u'Google', u'Nexus', u'5', u'?'] , tags: feature_query
+words : [u'Will', u'Angry', u'birds', u'run', u'on', u'phones', u'with', u'screen', u'size', u'4', u'inches', u'?'] , tags: irrelevant
+words : [u'When', u'will', u'Samsung', u'Galaxy', u'S', u'Advance', u'get', u'Android', u'4.4', u'update', u'?'] , tags: irrelevant
+words : [u'When', u'will', u'Samsung', u'Galaxy', u'S', u'Advance', u'get', u'Android', u'4.4', u'update', u'?'] , tags: irrelevant
+words : [u'Which', u'are', u'the', u'upcoming', u'phones', u'in', u'Samsung', u'Galaxy', u'series', u'?'] , tags: irrelevant
+words : [u'I', u'bought', u'an', u'Android', u'phone', u'last', u'month'] , tags: irrelevant
+words : [u'when', u'was', u'android', u'5.0', u'released', u'?'] , tags: feature_query
+words : [u'Which', u'is', u'the', u'best', u'phone', u'in', u'the', u'range', u'of', u'10K', u'-', u'15K', u'?'] , tags: irrelevant
+words : [u'Which', u'smartphones', u'have', u'Firefox', u'OS', u'?'] , tags: irrelevant
+words : [u'Can', u'sony', u'xperia', u'C3', u'be', u'upgraded', u'to', u'Android', u'Lollipop', u'?'] , tags: irrelevant
+words : [u'Apple', u'iPhone', u'6', u',', u'iPhone', u'6', u'Plus', u'coming', u'on', u'October', u'17', u',', u'pricing', u'starts', u'Rs', u'53,500'] , tags: feature_query
+words : [u'Is', u'HTC', u'desire', u'816g', u'better', u'than', u'htc', u'Desire', u'816', u'?'] , tags: comparison
+words : [u'Is', u'rounds', u'supported', u'on', u'Lava', u'Iris', u'X5', u'?'] , tags: feature_query
+words : [u'Intex', u'is', u'cheaper', u'than', u'Panasonic'] , tags: feature_query
+words : [u'Gionee', u'Elife', u'S5.1', u'has', u'a', u'thickness', u'of', u'5.15', u'mm'] , tags: feature_query
+words : [u'BlackBerry', u'OS', u'10.3.1', u'Going', u'Official', u'in', u'January', u'2015'] , tags: irrelevant
+words : [u'Is', u'Google', u'chrome', u'installed', u'on', u'Huawei', u'Ascend', u'P6', u'?'] , tags: feature_query
+words : [u'Modern', u'Combat', u'5', u':', u'Blackout', u'costs', u'Rs', u'390', u'which', u'is', u'not', u'supported', u'for', u'Android', u'Kitkat'] , tags: disagreement
+words : [u'I', u'bought', u'this', u'phone', u'with', u'Ubuntu', u'OS', u'from', u'Singapore', u'having', u'Code', u'Peeker'] , tags: irrelevant
+words : [u'Does', u'google', u'nexus', u'5', u'smartphone', u'have', u'Android', u'4.4.4', u'?'] , tags: irrelevant
+words : [u'I', u'need', u'xperia', u'T2', u'ultra', u'phone', u'tomorrow'] , tags: irrelevant
+words : [u'I', u'want', u'to', u'purchase', u'a', u'flip', u'cover', u'for', u'Micromax', u'canvas', u'Knight', u'a350'] , tags: feature_query
+words : [u'Most', u'of', u'the', u'Nokia', u'phones', u'have', u'Windows', u'OS'] , tags: irrelevant
+words : [u'Asus', u'Zenfone', u'has', u'android', u'v4.3', u'Jelly', u'Bean', u'Operating', u'system'] , tags: feature_query
+words : [u'I', u'want', u'to', u'buy', u'headphones', u'for', u'my', u'friend'] , tags: feature_query
+words : [u'I', u'bought', u'htc', u'816g', u'with', u'13.97', u'cm', u'HD', u'display', u',', u'even', u'if', u'it', u'does', u'not', u'fit', u'my', u'pocket'] , tags: disagreement
+words : [u'Galaxy', u'Grand', u'2', u'is', u'an', u'awesome', u'phone'] , tags: irrelevant
+words : [u'I', u'need', u'a', u'smartphone', u'which', u'has', u'swipe', u'keypad', u'and', u'word', u'prediction'] , tags: irrelevant
+words : [u'The', u'iPhone', u'6', u'and', u'iPhone', u'6', u'Plus', u'are', u'smartphones', u'running', u'iOS', u'developed', u'by', u'Apple'] , tags: irrelevant
+words : [u'The', u'best', u'price', u'of', u'Nokia', u'Lumia', u'730', u'in', u'India', u'is', u'around', u'15K'] , tags: feature_query
+words : [u'Will', u'the', u'Motorola', u'Moto', u'G', u'2', u'receive', u'the', u'Android', u'5.0', u'update', u'?'] , tags: irrelevant
+words : [u'Will', u'the', u'Motorola', u'Google', u'Nexus', u'6', u'releasing', u'in', u'January', u'2015', u'be', u'under', u'35k', u'?'] , tags: feature_query
+words : [u'HTC', u'8x', u'which', u'released', u'last', u'September', u'is', u'a', u'WIndows', u'smartphone'] , tags: irrelevant
+words : [u'Which', u'is', u'the', u'better', u'smartphone', u'under', u'15k', u',', u'Motorola', u'Moto', u'G', u'2', u'or', u'Samsung', u'Galaxy', u'Grand', u'2', u'?'] , tags: comparison
+words : [u'Is', u'the', u'bookmyshow', u'app', u'available', u'on', u'Windows', u'smartphones', u'?'] , tags: irrelevant
+words : [u'The', u'iphone', u'6', u'plus', u'has', u'a', u'full', u'HD', u'display', u'.'] , tags: feature_query
+words : [u'The', u'HTC', u'Desire', u'816', u'running', u'Android', u'Kitkat', u'costs', u'around', u'18k', u'.'] , tags: irrelevant
+words : [u'How', u'many', u'smartphones', u'under', u'10k', u'have', u'a', u'5', u'inch', u'screen', u'?'] , tags: irrelevant
+words : [u'The', u'Lenovo', u'S850', u'has', u'a', u'5', u'inch', u'screen', u'.'] , tags: irrelevant
+words : [u'The', u'Micromax', u'Canvas', u'Knight', u'A290', u'released', u'in', u'September', u'at', u'a', u'price', u'of', u'12K', u'.'] , tags: feature_query
+words : [u'Does', u'Apple', u'have', u'an', u'outlet', u'in', u'Kamanahalli', u',', u'Bangalore', u'?'] , tags: feature_query
+words : [u'The', u'Asus', u'Zenfone', u'series', u'was', u'launched', u'in', u'India', u'in', u'2014', u'.'] , tags: feature_query
+words : [u'The', u'Nokia', u'Lumia', u'520', u'is', u'an', u'affordable', u'entry', u'level', u'Windows', u'smartphone', u'.'] , tags: irrelevant
+words : [u'The', u'Huawei', u'honor', u'6', u'runs', u'Android', u'4.2.2'] , tags: irrelevant
+words : [u'Android', u'and', u'iOS', u'are', u'much', u'more', u'popular', u'than', u'the', u'Windows', u'platform', u'in', u'the', u'mobile', u'market', u'.'] , tags: irrelevant
+words : [u'Duet', u'is', u'an', u'addictive', u'game', u'which', u'is', u'available', u'for', u'both', u'Andoid', u'and', u'iOS', u'smartphones', u'.'] , tags: irrelevant
+words : [u'Google', u'has', u'started', u'rolling', u'out', u'the', u'Android', u'Lollipop', u'5.0', u'update', u'to', u'its', u'Nexus', u'range', u'of', u'smartphones', u'.'] , tags: irrelevant
+words : [u'The', u'Apple', u'iPhone', u'6', u'plus', u'is', u'grossly', u'overpriced', u'at', u'63K', u'.'] , tags: feature_query
+words : [u'The', u'Google', u'Nexus', u'5', u'received', u'the', u'Android', u'Lollipop', u'update', u'today', u'.'] , tags: irrelevant
+words : [u'Which', u'is', u'the', u'cheapest', u'Samsung', u'phone', u'available', u'?'] , tags: irrelevant
+words : [u'Which', u'is', u'the', u'best', u'phone', u'for', u'official', u'use', u'?'] , tags: irrelevant
+words : [u'Which', u'is', u'better', u'iPhone', u'or', u'Samsung', u'?'] , tags: comparison
+words : [u'What', u'are', u'the', u'different', u'apps', u'in', u'Android', u'suitable', u'for', u'students'] , tags: irrelevant
+words : [u'How', u'much', u'does', u'the', u'most', u'expensive', u'Motorola', u'phone', u'cost', u'?'] , tags: irrelevant
+words : [u'Which', u'is', u'the', u'most', u'popular', u'phone', u'in', u'the', u'market', u'currently', u'?'] , tags: irrelevant
+words : [u'I', u'bought', u'a', u'new', u'Android', u'phone', u'just', u'last', u'week'] , tags: irrelevant
+words : [u'I', u'am', u'waiting', u'for', u'a', u'Lollipop', u'release', u'on', u'my', u'android', u'device'] , tags: feature_query
+words : [u'When', u'is', u'the', u'next', u'sales', u'for', u'Redmi', u'1s', u'?'] , tags: feature_query
+words : [u'How', u'big', u'is', u'the', u'Samsung', u'Galaxy', u'Note', u'2', u'?'] , tags: feature_query
+words : [u'I', u'want', u'to', u'buy', u'a', u'phone', u'with', u'the', u'best', u'features', u'for', u'less', u'than', u'10000'] , tags: irrelevant
+words : [u'iPhone', u'is', u'cheaper', u'in', u'USA', u'compared', u'to', u'India'] , tags: feature_query
+words : [u'Where', u'will', u'I', u'get', u'a', u'Nokia', u'1100', u'?'] , tags: feature_query
+words : [u'Compare', u'Redmi', u'1s', u'and', u'Moto', u'g'] , tags: feature_query
+words : [u'Suggest', u'me', u'a', u'phone', u'with', u'12', u'mp', u'camera', u'and', u'32', u'gb', u'memory'] , tags: irrelevant
+words : [u'Redmi', u'1s', u'has', u'sold', u'over', u'70000', u'phones', u'till', u'December'] , tags: irrelevant
+words : [u'2048', u'is', u'one', u'of', u'the', u'best', u'game', u'apps', u'that', u'Android', u'has'] , tags: irrelevant
+words : [u'Smartphones', u'have', u'good', u'UI', u'and', u'audio', u'video', u'features'] , tags: feature_query
+words : [u'Some', u'of', u'the', u'phone', u'have', u'still', u'not', u'got', u'Lollipop', u'Android', u'version'] , tags: disagreement
+words : [u'Every', u'Samsung', u'phone', u'has', u'a', u'different', u'feature'] , tags: irrelevant
+words : [u'Is', u'temple', u'run', u'3', u'releasing', u'next', u'february', u'?'] , tags: feature_query
+words : [u'Google', u'has', u'released', u'nexus', u'6'] , tags: feature_query
+words : [u'does', u'samsung', u'provide', u'a', u'migration', u'app', u'for', u'it', u"'s", u'new', u'users', u'?'] , tags: irrelevant
+words : [u'which', u'is', u'the', u'best', u'smartphone', u'under', u'20k', u'?'] , tags: irrelevant
+words : [u'is', u'ipad', u'mini', u'a', u'part', u'of', u'ipad', u'series', u'?'] , tags: feature_query
+words : [u'is', u'bbm', u'app', u'available', u'on', u'samsung', u'grand', u'?'] , tags: irrelevant
+words : [u'Is', u'nexus', u'6', u'available', u'in', u'india', u',', u'if', u'yes', u',', u'is', u'it', u'under', u'40k', u'?'] , tags: feature_query
+words : [u'will', u'google', u'nexus', u'6', u'be', u'shipped', u'by', u'this', u'december', u'to', u'India', u'?'] , tags: feature_query
+words : [u'do', u'you', u'think', u'mircromax', u'will', u'launch', u'it', u"'s", u'x2', u'smartphone', u'?'] , tags: irrelevant
+words : [u'do', u'you', u'think', u'xiomi', u'will', u'compete', u'with', u'micromax', u'?'] , tags: irrelevant
+words : [u'why', u'there', u'is', u'no', u'windows', u'9', u'?'] , tags: feature_query
+words : [u'which', u'is', u'the', u'best', u'android', u'product', u'of', u'6', u'inches', u'?'] , tags: irrelevant
+words : [u'Samsung', u'products', u'are', u'cheap'] , tags: feature_query
+words : [u'best', u'android', u'tablet', u'of', u'8', u'inches', u'?'] , tags: irrelevant
+words : [u'is', u'google', u'nexus', u'6', u'released', u'with', u'lollipop', u'?'] , tags: feature_query
+words : [u'do', u'I', u'have', u'to', u'update', u'from', u'android', u'4.3', u'to', u'android', u'4.4.4', u'?'] , tags: feature_query
+words : [u'what', u'are', u'the', u'new', u'features', u'in', u'android', u'5', u'series', u'?'] , tags: feature_query
+words : [u'is', u'piano', u'blocks', u'the', u'most', u'game', u'played', u'lately', u'on', u'android', u'phones', u'?'] , tags: irrelevant
+words : [u'does', u'stick', u'cricket', u'run', u'on', u'ipad', u'?'] , tags: feature_query
+words : [u'what', u'is', u'the', u'best', u'phone', u'under', u'10k', u'in', u'india', u'?'] , tags: irrelevant
+words : [u'does', u'whatsapp', u'have', u'a', u'service', u'branch', u'in', u'India', u'?'] , tags: feature_query
+words : [u'will', u'I', u'get', u'an', u'update', u'to', u'android', u'4', u'?'] , tags: feature_query
+words : [u'which', u'is', u'the', u'best', u'samsung', u'galaxy', u'smartphone', u'?'] , tags: irrelevant
+words : [u'which', u'is', u'samsung', u"'s", u'best', u'smartphone', u'under', u'6', u'inches', u'?'] , tags: irrelevant
+words : [u'was', u'ios', u'8', u'released', u'on', u'september', u'17', u'?'] , tags: feature_query
+words : [u'Motorola', u'will', u'release', u'lollipop', u'update', u'for', u'moto', u'g', u'on', u'2nd', u'december', u'.'] , tags: feature_query
+words : [u'the', u'new', u'moto', u'g', u'2nd', u'gen', u'is', u'great', u'smartphone', u'with', u'5', u"''", u'screen'] , tags: irrelevant
+words : [u'google', u'unveiled', u'android', u'5.0', u'in', u'palo', u'alto', u'today', u'.'] , tags: feature_query
+words : [u'that', u'phone', u'costs', u'rs', u'10000'] , tags: irrelevant
+words : [u'nexus', u'6', u'with', u'android', u'5.0', u'was', u'released', u'in', u'san', u'francisco'] , tags: feature_query
+words : [u'apple', u'released', u'iOS', u'8', u'.'] , tags: irrelevant
+words : [u'nexus', u'9', u'with', u'android', u'5.0', u'will', u'be', u'released', u'tomorrow'] , tags: feature_query
+words : [u'i', u'have', u'a', u'smartphone'] , tags: irrelevant
+words : [u'samsung', u'galaxy', u'note', u'4', u'is', u'a', u'huge', u'phone'] , tags: irrelevant
+words : [u'apple', u'released', u'the', u'new', u'iOS', u'in', u'cupertino'] , tags: irrelevant
+words : [u'I', u'havent', u'eaten', u'anything', u'today'] , tags: feature_query
+words : [u'google', u'has', u'an', u'android', u'development', u'center', u'in', u'india'] , tags: feature_query
+words : [u'android', u'one', u'phones', u'cost', u'less', u'than', u'10000'] , tags: irrelevant
+words : [u'tesla', u'model', u's', u'is', u'an', u'amazing', u'car'] , tags: feature_query
+words : [u'the', u'app', u'is', u'1.5GB', u'in', u'size', u'and', u'costs', u'$', u'49'] , tags: irrelevant
+words : [u'nexus', u'6', u'will', u'get', u'android', u'5.0', u'update'] , tags: feature_query
+words : [u'android', u'5.0', u'lollipop', u'is', u'awesome'] , tags: feature_query
+words : [u'google', u'maps', u'was', u'redesigned', u'for', u'android', u'5.0'] , tags: feature_query
+words : [u'this', u'is', u'boring'] , tags: feature_query
+words : [u'tesla', u'model', u'x', u'will', u'be', u'released', u'in', u'2016', u'and', u'costs', u'$', u'5000'] , tags: irrelevant
+words : [u'I', u'want', u'to', u'buy', u'a', u'Motorola', u'phone', u'in', u'Bangalore'] , tags: irrelevant
+words : [u'I', u'need', u'a', u'phone', u'which', u'has', u'a', u'screen', u'size', u'of', u'at', u'least', u'6', u'inches', u'and', u'runs', u'on', u'Android', u'Kitkat'] , tags: irrelevant
+words : [u'I', u'do', u'not', u'want', u'a', u'Micromax', u'phone'] , tags: acknowledgement
+words : [u'Please', u'help', u'me', u'in', u'finding', u'a', u'store', u'near', u'Hoskerehalli', u'cross', u'in', u'Bangalore', u'which', u'sells', u'Samsung', u'Note'] , tags: feature_query
+words : [u'Are', u'discounts', u'offered', u'in', u'December', u'for', u'the', u'iphone', u'series', u'by', u'Apple', u'?'] , tags: feature_query
+words : [u'Will', u'Samsung', u'Galaxy', u'series', u'be', u'able', u'to', u'run', u'Dragon', u'naturally', u'Speaking', u'app', u'without', u'any', u'lags', u'?'] , tags: feature_query
+words : [u'Will', u'Android', u'L', u'update', u'be', u'offered', u'for', u'Moto', u'X', u'series', u'?'] , tags: irrelevant
+words : [u'I', u'need', u'a', u'Smartphone', u'with', u'front', u'camera', u'running', u'on', u'Android', u'JellyBean', u'OS'] , tags: irrelevant
+words : [u'Where', u'can', u'I', u'get', u'iphone', u'6', u'series', u'in', u'Bangalore', u'?'] , tags: feature_query
+words : [u'I', u'dont', u'want', u'an', u'Android', u'phone'] , tags: irrelevant
+words : [u'Whats', u'the', u'price', u'of', u'Moto', u'X', u'?'] , tags: feature_query
+words : [u'Phones', u'released', u'after', u'December', u'which', u'can', u'run', u'Candy', u'Crush'] , tags: feature_query
+words : [u'Phones', u'belonging', u'to', u'Galaxy', u'series'] , tags: feature_query
+words : [u'Where', u'is', u'the', u'nearest', u'mobile', u'shop', u'to', u'Hosakerehalli', u'which', u'sells', u'Moto', u'G'] , tags: irrelevant
+words : [u'All', u'smartphones', u'released', u'this', u'year', u'available', u'in', u'Bangalore'] , tags: irrelevant
+words : [u'Does', u'Galaxy', u'fit', u'play', u'Angry', u'Birds'] , tags: feature_query
+words : [u'I', u'dont', u'think', u'I', u"'ll", u'be', u'able', u'to', u'browse', u'properly', u'in', u'Chrome', u'with', u'a', u'screen', u'size', u'of', u'4', u'inches'] , tags: irrelevant
+words : [u'Will', u'Samsung', u'Note', u'be', u'supported', u'after', u'3', u'years'] , tags: feature_query
+words : [u'Which', u'phones', u'are', u'popular', u'in', u'Bangalore', u'now'] , tags: irrelevant
+words : [u'All', u'phones', u'by', u'Samsung', u'released', u'after', u'December', u'2013', u'which', u'are', u'under', u'10000', u'rupees'] , tags: irrelevant
+words : [u'I', u'need', u'a', u'phone', u'with', u'an', u'exchange', u'offer'] , tags: irrelevant
+words : [u'Most', u'popular', u'phone', u'in', u'iphone', u'series', u'in', u'Bangalore'] , tags: irrelevant
+words : [u'Suggest', u'me', u'a', u'good', u'phone', u'with', u'screen', u'size', u'above', u'6', u'inches', u'available', u'in', u'Mangalore'] , tags: irrelevant
+words : [u'I', u'want', u'a', u'phone', u'which', u'lets', u'me', u'play', u'games', u'like', u'Temple', u'run'] , tags: irrelevant
+words : [u'Phones', u'below', u'6', u'inches', u'because', u'they', u'do', u'not', u'fit', u'in', u'my', u'pocket'] , tags: disagreement
+words : [u'I', u'am', u'planning', u'to', u'buy', u'iphone', u'6', u'after', u'november'] , tags: feature_query
+words : [u'I', u'need', u'a', u'basic', u'smartphone', u'which', u'is', u'well', u'within', u'my', u'price', u'range'] , tags: irrelevant
+words : [u'All', u'phones', u'which', u'run', u'on', u'Android', u'Kitkat', u'below', u'20000'] , tags: irrelevant
+words : [u'All', u'phones', u'available', u'in', u'Bangalore', u'which', u'belong', u'to', u'Xiaomi', u'mi', u'series'] , tags: irrelevant
+words : [u'Suggest', u'me', u'a', u'phone', u'below', u'10000', u'which', u'can', u'run', u'office'] , tags: irrelevant
+words : [u'I', u'bought', u'a', u'Lenovo', u'Titanium', u'yesterday', u'.'] , tags: feature_query
+words : [u'She', u'needs', u'a', u'smartphone', u'under', u'Rs', u'.', u'15000', u'.'] , tags: irrelevant
+words : [u'Samsung', u'Galaxy', u'Grand', u'has', u'a', u'screen', u'size', u'greater', u'than', u'6', u'inches', u'and', u'costs', u'more', u'than', u'Rs.10000', u'.'] , tags: irrelevant
+words : [u'How', u'do', u'you', u'install', u'Android', u'Jelly', u'bean', u'on', u'Panasonic', u'81', u'that', u'was', u'introduced', u'in', u'Japan', u'?'] , tags: irrelevant
+words : [u'Lenovo', u'Titanium', u'S660', u'is', u'priced', u'at', u'around', u'Rs', u'.', u'9000', u'in', u'India', u'.'] , tags: feature_query
+words : [u'I', u'updated', u'my', u'tablet', u'to', u'iOS', u'8.1'] , tags: irrelevant
+words : [u'Samsung', u'Galaxy', u'has', u'Android', u'4.2', u'and', u'costs', u'around', u'Rs.33000'] , tags: irrelevant
+words : [u'Windows', u'8', u'runs', u'on', u'most', u'Nokia', u'smartphones'] , tags: irrelevant
+words : [u'Nokia', u'C5', u'costs', u'Rs.7500', u'in', u'Bangalore', u'.'] , tags: feature_query
+words : [u'Apple', u'released', u'its', u'new', u'smartphone', u'last', u'week', u'.'] , tags: irrelevant
+words : [u'It', u'is', u'easier', u'to', u'play', u'Angry', u'Birds', u'in', u'Samsung', u'Galaxy', u'.'] , tags: feature_query
+words : [u'Apple', u'introduced', u'iOS', u'8'] , tags: irrelevant
+words : [u'Nokia', u'Lumia', u'S', u'is', u'sold', u'in', u'India'] , tags: feature_query
+words : [u'Samsung', u'Galaxy', u'is', u'more', u'than', u'6', u'inches', u'in', u'all', u'countries', u'.'] , tags: irrelevant
+words : [u'HTC', u'Desire', u'X', u'is', u'a', u'smartphone', u'pre-installed', u'with', u'Android', u'Jelly', u'bean', u'.'] , tags: irrelevant
+words : [u'I', u'need', u'a', u'tablet', u'which', u'is', u'atleast', u'8', u'inches', u'and', u'costs', u'less', u'than', u'Rs', u'.', u'25000'] , tags: irrelevant
+words : [u'Apple', u'IPhone', u'6', u'was', u'released', u'in', u'October', u'2014', u'.'] , tags: feature_query
+words : [u'This', u'6', u'inch', u'phone', u'seems', u'to', u'be', u'a', u'Nokia', u'Lumia', u'running', u'on', u'Windows', u'8', u'.'] , tags: irrelevant
+words : [u'Manasa', u'has', u'a', u'HTC', u'Desire', u'X', u'.'] , tags: feature_query
+words : [u'I', u'like', u'playing', u'Candy', u'Crush', u'in', u'Samsung', u'Galaxy'] , tags: feature_query
+words : [u'Is', u'Google', u'Nexus', u'available', u'on', u'Google', u'Play', u'in', u'India', u'?'] , tags: feature_query
+words : [u'What', u'apps', u'are', u'pre-loaded', u'on', u'the', u'Samsung', u'Galaxy', u'S3', u'?'] , tags: feature_query
+words : [u'Is', u'the', u'screen', u'of', u'HTC', u'One', u'too', u'small', u'to', u'play', u'Temple', u'Run', u'?'] , tags: feature_query
+words : [u'Android', u'Lollipop', u'is', u'best', u'for', u'running', u'Angry', u'Birds'] , tags: irrelevant
+words : [u'Can', u'I', u'buy', u'Micromax', u'Canvas', u'for', u'less', u'than', u'15k', u'?'] , tags: feature_query
+words : [u'HTC', u'has', u'some', u'good', u'Android', u'smartphones'] , tags: irrelevant
+words : [u'Is', u'4.7', u'inches', u'too', u'small', u'to', u'play', u'NFS', u'on', u'a', u'phone', u'?'] , tags: irrelevant
+words : [u'Apple', u"'s", u'iPhone', u'is', u'giving', u'stiff', u'competition', u'to', u'Google', u"'s", u'Nexus'] , tags: feature_query
+words : [u'Is', u'Samsung', u'Galaxy', u'Grand', u'available', u'for', u'less', u'than', u'30k', u'in', u'India', u'?'] , tags: feature_query
+words : [u'How', u'much', u'does', u'iPhone', u'5S', u'cost', u'in', u'US', u'?'] , tags: feature_query
+words : [u'Can', u'I', u'buy', u'any', u'phone', u'running', u'iOS', u'6', u'in', u'UK', u'?'] , tags: irrelevant
+words : [u'I', u'am', u'yet', u'to', u'get', u'the', u'Android', u'Lollipop', u'update', u'for', u'my', u'phone', u'despite', u'it', u'being', u'released', u'last', u'month'] , tags: irrelevant
+words : [u'The', u'iPhone', u'is', u'available', u'only', u'today', u'at', u'a', u'discount', u'of', u'12k'] , tags: feature_query
+words : [u'What', u'is', u'the', u'best', u'Windows', u'phone', u'available', u'between', u'15k', u'and', u'30k', u'?'] , tags: irrelevant
+words : [u'Android', u'Kitkat', u'was', u'released', u'in', u'February', u'of', u'last', u'year', u'in', u'California'] , tags: irrelevant
+words : [u'Is', u'the', u'Samsung', u'Galaxy', u'S3', u'a', u'dual', u'sim', u'phone', u'?'] , tags: irrelevant
+words : [u'What', u'is', u'the', u'best', u'5', u'inch', u'smartphone', u'available', u'for', u'less', u'than', u'20k', u'?'] , tags: irrelevant
+words : [u'Do', u'phones', u'bought', u'after', u'November', u'2014', u'run', u'Android', u'Lollipop', u'?'] , tags: irrelevant
+words : [u'The', u'new', u'iPhone', u'has', u'a', u'5', u'inch', u'screen'] , tags: irrelevant
+words : [u'Is', u'there', u'any', u'e-commerce', u'website', u'selling', u'Android', u'Jelly', u'Bean', u'phones', u'for', u'less', u'than', u'20k', u'?'] , tags: irrelevant
+words : [u'does', u'iphone', u'6', u'work', u'well', u'with', u'iOS', u'8', u'good', u'?'] , tags: irrelevant
+words : [u'does', u'samsung', u'grand', u'provide', u'you', u'with', u'proximity', u'sensor', u'?'] , tags: irrelevant
+words : [u'will', u'whatsapp', u'work', u'in', u'a', u'phone', u'having', u'512', u'MB', u'ram'] , tags: irrelevant
+words : [u'when', u'will', u'nokia', u'stop', u'making', u'windows', u'8', u'phones', u'?'] , tags: irrelevant
+words : [u'i', u'bought', u'a', u'smartphone', u'for', u'10K', u'at', u'bangalore'] , tags: irrelevant
+words : [u'i', u'bought', u'this', u'phone', u'in', u'manchester', u'recently'] , tags: irrelevant
+words : [u'does', u'firefox', u'phone', u'has', u'ram', u'greater', u'than', u'512', u'MB'] , tags: irrelevant
+words : [u'does', u'hike', u'work', u'on', u'android', u'lollipop', u'?'] , tags: feature_query
+words : [u'i', u'am', u'planning', u'to', u'buy', u'nexus', u'in', u'late', u'december'] , tags: feature_query
+words : [u'is', u'samsung', u'galaxy', u'note', u'worth', u'it', u'?'] , tags: irrelevant
+words : [u'apple', u'iphone', u'6', u'was', u'designed', u'in', u'california'] , tags: irrelevant
+words : [u'i', u'bought', u'an', u'32', u'GB', u'iphone', u'5', u'at', u'san', u'francisco'] , tags: feature_query
+words : [u'when', u'was', u'android', u'launched', u'in', u'india'] , tags: feature_query
+words : [u'when', u'was', u'watsApp', u'launched', u'in', u'iphone', u'?'] , tags: feature_query
+words : [u'is', u'moto', u'g', u'a', u'good', u'mobile', u'?'] , tags: irrelevant
+words : [u'which', u'is', u'better', u'nexus', u'6', u'or', u'one', u'plus', u'one', u'?'] , tags: comparison
+words : [u'whether', u'it', u'has', u'flash', u'for', u'front', u'camera', u'?'] , tags: feature_query
+words : [u'is', u'there', u'a', u'better', u'OS', u'than', u'android', u',', u'iOS', u',', u'and', u'windows', u'?'] , tags: comparison
+words : [u'can', u'i', u'get', u'a', u'nokia', u'lumia', u'535', u'?'] , tags: irrelevant
+words : [u'please', u'tell', u'me', u'the', u'review', u'of', u'xoimi', u'redmi'] , tags: feature_query
+words : [u'when', u'was', u'firefox', u'OS', u'launched', u'to', u'smartphones', u'?'] , tags: irrelevant
+words : [u'why', u'is', u'there', u'a', u'problem', u'with', u'iphone', u'6', u'?'] , tags: feature_query
+words : [u'show', u'me', u'a', u'smartphone', u'with', u'13', u'MP', u'camera', u'?'] , tags: irrelevant
+words : [u'Which', u'Apple', u'phones', u'have', u'a', u'screen', u'size', u'more', u'than', u'4', u"''", u'?'] , tags: irrelevant
+words : [u'Does', u'the', u'PVR', u'application', u'run', u'on', u'iOS', u'8', u'?'] , tags: irrelevant
+words : [u'Which', u'Apple', u'phones', u'are', u'going', u'to', u'be', u'released', u'by', u'next', u'December', u'?'] , tags: irrelevant
+words : [u'Does', u'the', u'Apple', u'app', u'store', u'have', u'the', u'latest', u'version', u'of', u'Whatsapp', u'?'] , tags: feature_query
+words : [u'Apple', u'is', u'going', u'to', u'release', u'the', u'latest', u'version', u'of', u'Angry', u'Birds', u'for', u'iOS', u'8', u'in', u'March', u'.'] , tags: irrelevant
+words : [u'I', u'need', u'a', u'phone', u'in', u'Bangalore', u'that', u'is', u'running', u'on', u'iOS', u'6', u'and', u'costs', u'less', u'than', u'15k', u'.'] , tags: irrelevant
+words : [u'Which', u'is', u'the', u'cheapest', u'smartphone', u'that', u'is', u'in', u'stock', u'as', u'of', u'now', u'?'] , tags: irrelevant
+words : [u'Does', u'any', u'company', u'deliver', u'phones', u'on', u'1st', u'January', u'2015', u'?'] , tags: irrelevant
+words : [u'Suggest', u'me', u'a', u'phone', u'which', u'has', u'a', u'long', u'battery', u'life', u'.'] , tags: irrelevant
+words : [u'I', u'find', u'the', u'iPhone', u'better', u'than', u'all', u'other', u'phones', u'.'] , tags: comparison
+words : [u'I', u'need', u'a', u'smartphone', u'that', u'costs', u'less', u'than', u'10k', u'.'] , tags: irrelevant
+words : [u'Does', u'Apple', u'have', u'an', u'outlet', u'in', u'Gulbarga', u'?'] , tags: feature_query
+words : [u'Does', u'the', u'Samsung', u'Galaxy', u'Grand', u'run', u'Android', u'Jelly', u'Bean', u'?'] , tags: irrelevant
+words : [u'Why', u'is', u'there', u'a', u'sudden', u'demand', u'for', u'smartphones', u'?'] , tags: irrelevant
+words : [u'Does', u'Angry', u'Birds', u'run', u'on', u'all', u'phones', u'?'] , tags: irrelevant
+words : [u'The', u'new', u'version', u'of', u'Temple', u'Run', u'is', u'better', u'than', u'the', u'previous', u'one', u'.'] , tags: comparison
+words : [u'How', u'much', u'does', u'an', u'iPhone', u'6', u'cost', u'?'] , tags: feature_query
+words : [u'Does', u'Flappy', u'Birds', u'work', u'on', u'the', u'Apple', u'iOS', u'8', u'?'] , tags: irrelevant
+words : [u'Is', u'the', u'price', u'difference', u'of', u'an', u'iPhone', u'in', u'India', u'as', u'compared', u'to', u'in', u'America', u'greater', u'then', u'5k', u'?'] , tags: feature_query
+words : [u'Apple', u'and', u'Google', u'are', u'stiff', u'competitors', u'when', u'to', u'comes', u'to', u'the', u'smartphone', u'market', u'.'] , tags: irrelevant
+words : [u'I', u'bought', u'a', u'Lenovo', u'Titanium', u'S660', u'for', u'Rs.9500'] , tags: feature_query
+words : [u'What', u'version', u'of', u'Android', u'does', u'Xiaomi', u'redmi', u'1s', u'run', u'?'] , tags: irrelevant
+words : [u'Are', u'Mozilla', u'Os', u'phones', u'available', u'in', u'bangalore', u'?'] , tags: irrelevant
+words : [u'I', u'want', u'a', u'phone', u'with', u'display', u'greater', u'than', u'6', u'inches'] , tags: irrelevant
+words : [u'Why', u'is', u'Xperia', u'better', u'than', u'Micromax', u'.'] , tags: comparison
+words : [u'When', u'does', u'Google', u'Nexus', u'6', u'pre-oder', u'start', u'in', u'India', u'?'] , tags: feature_query
+words : [u'Which', u'Nokia', u'phone', u'has', u'Android', u'Lolipop', u'?'] , tags: irrelevant
+words : [u'Can', u'I', u'pre-order', u'Asus', u'ZenFone', u'5', u'?'] , tags: feature_query
+words : [u'What', u'are', u'some', u'of', u'the', u'best', u'smartphones', u'under', u'Rs', u'8000'] , tags: irrelevant
+words : [u'What', u'mobiles', u'are', u'launching', u'after', u'5th', u'November', u'?'] , tags: feature_query
+words : [u'Is', u'Moto', u'X', u'available', u'at', u'a', u'discount', u'?'] , tags: feature_query
+words : [u'Android', u'Lollipop', u'released', u'for', u'LG', u'G3', u'.'] , tags: irrelevant
+words : [u'I', u'want', u'to', u'buy', u'an', u'Smartphone'] , tags: feature_query
+words : [u'I', u'want', u'to', u'gift', u'a', u'nexus', u'6', u'for', u'my', u'daughter', u'in', u'Hubli', u'on', u'20th', u'this', u'month'] , tags: feature_query
+words : [u'does', u'Xiaomi', u'Redmi', u'Note', u'run', u'Android', u'KitKat'] , tags: irrelevant
+words : [u'will', u'a', u'xiaomi', u'mi4', u'cost', u'lesser', u'than', u'20000'] , tags: irrelevant
+words : [u'Do', u'u', u'have', u'a', u'6', u'inch', u'smartphone', u'which', u'costs', u'below', u'15k', u'other', u'than', u'micromax', u'Canvas', u'Doodle', u'.'] , tags: irrelevant
+words : [u'Suggest', u'me', u'some', u'Ubuntu', u'phones'] , tags: irrelevant
+words : [u'Are', u'there', u'any', u'new', u'Firefox', u'OS', u'phones', u'releasing', u'before', u'Jan', u'1st'] , tags: irrelevant
+words : [u'Tell', u'me', u'the', u'cheapest', u'Android', u'phone', u'available', u'.'] , tags: irrelevant
+words : [u'how', u'does', u'Fruit', u'ninja', u'Work', u'on', u'a', u'3', u'inch', u'phone', u'.'] , tags: irrelevant
+words : [u'Nokia', u'lumia', u"'s", u'popularity', u'has', u'decreased', u'significantly', u'in', u'past', u'one', u'year', u'.'] , tags: feature_query
+words : [u'Is', u'Android', u'4.2', u"'s", u'performance', u'satisfactory', u'on', u'Samsung', u'Galaxy', u'Grand'] , tags: irrelevant
+words : [u'Can', u'we', u'install', u'android', u'on', u'Lumia', u'devices'] , tags: feature_query
+words : [u'Micromax', u'Smartphones', u'have', u'gained', u'immense', u'popularity', u'in', u'past', u'few', u'months'] , tags: feature_query
+words : [u'I', u'bought', u'a', u'android', u'4.2', u'5', u'inch', u'smartphone', u'in', u'Mumbai', u'last', u'year'] , tags: irrelevant
+words : [u'Does', u'any', u'samsung', u'phone', u'support', u'android', u'lollypop', u'yet', u'?'] , tags: irrelevant
+words : [u'I', u'bought', u'Iphone', u'6', u'for', u'20,000'] , tags: feature_query
+words : [u'Do', u'you', u'sell', u'Samsung', u'grand', u'S5', u'in', u'mysore'] , tags: feature_query
+words : [u'Android', u'Kitkat', u'was', u'released', u'on', u'20', u'August', u',', u'2012'] , tags: irrelevant
+words : [u'I', u'did', u"n't", u'like', u'Nokia', u'Lumia', u'520', u'much'] , tags: feature_query
+words : [u'Does', u'any', u'Samsung', u'smartphone', u'come', u'in', u'the', u'size', u'of', u'5.5', u'inches'] , tags: irrelevant
+words : [u'Does', u'anyone', u'sell', u'Android', u'jellybeans', u'even', u'now'] , tags: irrelevant
+words : [u'I', u'bought', u'a', u'Galaxy', u'grand', u'in', u'tumkur'] , tags: feature_query
+words : [u'Flappy', u'Bird', u'was', u'removed', u'from', u'App', u'Store', u'in', u'the', u'march'] , tags: feature_query
+words : [u'I', u'want', u'to', u'buy', u'a', u'3inch', u'iphone'] , tags: feature_query
+words : [u'Apple', u'should', u'manufacture', u'smartphones', u'which', u'differ', u'from', u'iphone', u'in', u'look', u'and', u'feel'] , tags: irrelevant
+words : [u'Playing', u'subway', u'surfers', u'on', u'samsung', u'smartphones', u'is', u'a', u'pain'] , tags: irrelevant
+words : [u'the', u'cost', u'of', u'Iphone', u'7', u'was', u'Rs.9000', u'on', u'13-09-2014'] , tags: feature_query
+words : [u'Do', u'you', u'sell', u'Karbonn', u'Titanium', u'for', u'Rs.18,000', u'?'] , tags: feature_query
+words : [u'Motorolla', u'will', u'support', u'android', u'lollypop', u'from', u'November', u'1st'] , tags: feature_query
+words : [u'Nokia', u'has', u'crashed', u'down', u'in', u'smartphone', u'market'] , tags: irrelevant
+words : [u'iPhone', u'6', u'is', u'available', u'now', u'.'] , tags: feature_query
+words : [u'Dictionary', u'application', u'is', u'sold', u'at', u'Rs.50'] , tags: feature_query
+words : [u'Dropbox', u'is', u'Dropbox', u"'s", u'cloud-storage', u'application', u'.'] , tags: feature_query
+words : [u'Almost', u'everyone', u'owns', u'a', u'smartphone', u'these', u'days', u'.'] , tags: irrelevant
+words : [u'I', u'like', u'Facebook', u'.'] , tags: feature_query
+words : [u'I', u'own', u'a', u'Motorola', u'Defy', u'.'] , tags: feature_query
+words : [u'Microsoft', u'discontinued', u'support', u'for', u'Windows', u'XP', u'.'] , tags: irrelevant
+words : [u'iPhone', u'runs', u'iOS', u'.'] , tags: irrelevant
+words : [u'Nexus', u'6', u'released', u'on', u'28-09-14', u'for', u'30k'] , tags: feature_query
+words : [u'Galaxy', u'S5', u'is', u'Samsung', u"'s", u'flagship', u'phone'] , tags: irrelevant
+words : [u'Hangouts', u'got', u'material', u'design', u'update', u'for', u'KitKat', u'and', u'its', u'size', u'is', u'10mb', u'.'] , tags: feature_query
+words : [u'Nexus', u'6', u'is', u'a', u'6', u"''", u'phone', u'released', u'on', u'30-09-2014'] , tags: irrelevant
+words : [u'I', u'like', u'Apple'] , tags: feature_query
+words : [u'SVoice', u'is', u'an', u'application', u'for', u'Galaxy', u'devices', u'whose', u'price', u'starts', u'from', u'10k'] , tags: feature_query
+words : [u'iBooks', u'comes', u'inbuilt', u'in', u'Apple', u'devices'] , tags: feature_query
+words : [u'Nexus', u'6', u'is', u'a', u'6', u"''", u'phone', u'which', u'was', u'not', u'released', u'in', u'Canada'] , tags: disagreement
+words : [u'Apple', u'released', u'Macbook', u'in', u'2012'] , tags: feature_query
+words : [u'Samsung', u'headquartered', u'in', u'South', u'Korea', u'produces', u'Galaxy', u'devices', u'which', u'run', u'Android'] , tags: irrelevant
+words : [u'I', u'used', u'Uber', u'on', u'my', u'Nexus', u'4', u'when', u'I', u'was', u'in', u'USA'] , tags: feature_query
+words : [u'Google', u'is', u'headquartered', u'at', u'Mountain', u'View'] , tags: feature_query
+words : [u'Nexus', u'9', u'is', u'a', u'trending', u'tablet'] , tags: irrelevant
+words : [u'i', u'want', u'to', u'buy', u'a', u'Micromax', u'smartphone', u'under', u'Rs', u'12000'] , tags: irrelevant
+words : [u'which', u'is', u'the', u'best', u'android', u'phone', u'which', u'is', u'less', u'than', u'5', u"''", u'size', u'?'] , tags: irrelevant
+words : [u'i', u'want', u'to', u'buy', u'a', u'smartphone'] , tags: irrelevant
+words : [u'Is', u'Samsung', u'galaxy', u'worth', u'it', u'?'] , tags: feature_query
+words : [u'Is', u'5', u"''", u'phone', u'ideal', u'for', u'a', u'20', u'year', u'old', u'noy', u'?'] , tags: irrelevant
+words : [u'does', u'this', u'phone', u'heat', u'while', u'playing', u'TempleRun', u'?'] , tags: irrelevant
+words : [u'i', u'need', u'a', u'phone', u'running', u'windows', u'operating', u'system', u'and', u'3', u"''", u'in', u'size'] , tags: irrelevant
+words : [u'please', u'suggest', u'a', u'smartphone', u'below', u'rs', u'10000'] , tags: irrelevant
+words : [u'Is', u'galaxy', u'the', u'best', u'category', u'to', u'buy', u'from', u'?'] , tags: feature_query
+words : [u'Can', u'i', u'use', u'whatsapp', u'in', u'this', u'phone', u'?'] , tags: irrelevant
+words : [u'i', u'want', u'to', u'buy', u'a', u'smartphone', u'after', u'June', u'which', u'runs', u'whatsapp'] , tags: irrelevant
+words : [u'iOS', u'is', u'very', u'user', u'friendly', u'right', u'?'] , tags: irrelevant
+words : [u'micromax', u'canvas', u'is', u'powerful', u'enough', u'to', u'run', u'SubWay', u'?'] , tags: irrelevant
+words : [u'i', u'am', u'located', u'in', u'bangalore', u'and', u'i', u'want', u'to', u'buy', u'an', u'android', u'smartphone'] , tags: irrelevant
+words : [u'I', u'bought', u'a', u'Galaxy', u'phone', u'in', u'Dec'] , tags: irrelevant
+words : [u'I', u'want', u'to', u'buy', u'a', u'smartphone', u'less', u'than', u'15000', u'in', u'bangalore'] , tags: irrelevant
+words : [u'Is', u'Motorola', u'the', u'best', u'company', u'for', u'buying', u'phones', u'costing', u'more', u'than', u'Rs', u'15000', u'?'] , tags: price_query
+words : [u'please', u'help', u'me', u'buy', u'a', u'smartphone', u'?'] , tags: irrelevant
+words : [u'i', u'bought', u'my', u'last', u'smartphone', u'in', u'March'] , tags: irrelevant
+words : [u'Samsung', u'S5', u'is', u'the', u'best', u'phone', u'right', u'?'] , tags: irrelevant
+words : [u'I', u'am', u'from', u'dubai', u'and', u'i', u'feel', u'android', u'5.0', u'is', u'the', u'best', u'version'] , tags: feature_query
+words : [u'Fifa', u'works', u'best', u'on', u'android', u'one'] , tags: feature_query
+words : [u'Whatsapp', u'plus', u'costs', u'55', u'rupees'] , tags: irrelevant
+words : [u'Kitkat', u'kernel', u'3.6.7', u'is', u'dated', u'30/01/2005'] , tags: feature_query
+words : [u'I', u'bought', u'karboon', u'sparkleV', u'in', u'banashankari', u'which', u'provides', u'google', u'keep', u'too'] , tags: feature_query
+words : [u'Android', u'lolipop', u'will', u'run', u'on', u'nexus', u'6', u'running', u'facebook', u'faster'] , tags: irrelevant
+words : [u'Android', u'one', u'belongs', u'to', u'karbonn', u'mobiles'] , tags: irrelevant
+words : [u'Spice', u'supports', u'only', u'android', u'version', u'above', u'4.0'] , tags: feature_query
+words : [u'Apple', u'provides', u'some', u'apps', u'which', u'will', u'work', u'on', u'6', u"''", u'screen', u'only'] , tags: irrelevant
+words : [u'WHatsapp', u'is', u'dated', u'12/02/2007'] , tags: feature_query
+words : [u'How', u'will', u'google', u'provide', u'7', u"''", u'screens', u'within', u'20/08/2017', u'?'] , tags: irrelevant
+words : [u'Google', u'launched', u'android', u'4.4'] , tags: feature_query
+words : [u'Sparkle', u'one', u'launched', u'in', u'bangalore'] , tags: feature_query
+words : [u'Toothpaste', u'costs', u'4', u'rupees'] , tags: irrelevant
+words : [u'Galaxy', u'note', u'is', u'40,000', u'Rs'] , tags: feature_query
+words : [u'I', u'm', u'in', u'hawaii'] , tags: feature_query
+words : [u'USA', u'is', u'bigger', u'than', u'asia', u'by', u'5', u"''", u'times'] , tags: irrelevant
+words : [u'All', u'android', u'samsung', u'phones', u'costs', u'more', u'than', u'7000', u'rs'] , tags: irrelevant
+words : [u'Apple', u'is', u'the', u'best'] , tags: feature_query
+words : [u'I', u'dont', u'think', u'karbonn', u'sparkle', u'phone', u'has', u'galaxy', u'note', u'features'] , tags: irrelevant
+words : [u'Timeport', u'runs', u'on', u'android', u'but', u'costs', u'100', u'rs'] , tags: irrelevant
+words : [u'Apple', u'and', u'google', u'are', u'biggest', u'competitors'] , tags: feature_query
+words : [u'Whatsapp', u'is', u'paid', u'in', u'apple', u'store'] , tags: irrelevant
+words : [u'Is', u'apple', u'that', u'good', u'?'] , tags: irrelevant
+words : [u'I', u'love', u'switzerland'] , tags: feature_query
+words : [u'Apple', u'launches', u'iphone', u'6', u'plus'] , tags: feature_query
+words : [u'I', u'dont', u'like', u'galaxy', u'note', u'4', u'model'] , tags: feature_query
+words : [u'All', u'apple', u'apps', u'run', u'on', u'only', u'mac', u'yosamite'] , tags: irrelevant
+words : [u'Suggest', u'me', u'any', u'android', u'phone', u'in', u'the', u'price', u'range', u'of', u'10000-15000'] , tags: irrelevant
+words : [u'Aggressively', u'priced', u'at', u'Rs', u'.', u'12,999', u',', u'the', u'new', u'Moto', u'G', u'features', u'5-inch', u'display', u',', u'quad-core', u'processor', u'and', u'8MP', u'camera', u'.'] , tags: feature_query
+words : [u'Windows', u'8.1', u'launched', u'at', u'just', u'Rs.9999'] , tags: irrelevant
+words : [u'suggestions', u'needed', u'for', u'good', u'android', u'phones', u'in', u'india'] , tags: irrelevant
+words : [u'HTC', u'is', u'all', u'set', u'to', u'launch', u'its', u'new', u'android', u'phone', u'.'] , tags: irrelevant
+words : [u'hangouts', u'app', u'keeps', u'crashing', u'in', u'lumia', u'620', u'that', u'runs', u'on', u'windows', u'8.1'] , tags: feature_query
+words : [u'Is', u"n't", u'5', u'inch', u'screen', u'oversized', u'for', u'a', u'phone', u'!'] , tags: irrelevant
+words : [u'List', u'out', u'top', u'50', u'android', u'applications', u'.'] , tags: feature_query
+words : [u'Has', u'anyone', u'used', u'the', u'new', u'mozilla', u'OS', u'for', u'phones'] , tags: irrelevant
+words : [u'Nokia', u'lumia', u'920', u'that', u'runs', u'on', u'windows', u'was', u'launched', u'in', u'chicago'] , tags: feature_query
+words : [u'pro', u'reader', u'is', u'priced', u'at', u'1', u'$', u'for', u'IOS', u'devices', u'.'] , tags: irrelevant
+words : [u'micromax', u'needs', u'to', u'launch', u'a', u'budget', u'phone', u'so', u'as', u'to', u'compete', u'with', u'likes', u'of', u'Android', u'one'] , tags: irrelevant
+words : [u'can', u'someone', u'list', u'the', u'names', u'of', u'essential', u'windows', u'app'] , tags: feature_query
+words : [u'Any', u'good', u'android', u'phone', u'to', u'be', u'launched', u'this', u'december', u'?'] , tags: irrelevant
+words : [u'Lumia', u'910', u'that', u'runs', u'Windows', u'8.1', u'is', u'developed', u'by', u'Nokia'] , tags: irrelevant
+words : [u'Is', u'Microsoft', u'going', u'to', u'launch', u'an', u'android', u'phone', u'next', u'year', u'?'] , tags: irrelevant
+words : [u'samsung', u'galaxy', u'golden', u'that', u'runs', u'android', u'is', u'priced', u'at', u'Rs.45999'] , tags: irrelevant
+words : [u'I', u'am', u'planning', u'to', u'buy', u'Iphone', u'6', u'by', u'next', u'week'] , tags: feature_query
+words : [u'Nokia', u'lumia', u'620', u'windows', u'phones', u'crashes', u'sometimes', u'when', u'i', u'play', u'flappy', u'birds', u'.'] , tags: irrelevant
+words : [u'Is', u'Any', u'windows', u'phone', u'in', u'the', u'range', u'of', u'15000-20000', u'going', u'to', u'be', u'released', u'in', u'january', u'?'] , tags: irrelevant
+words : [u'New', u'Samsung', u'galaxy', u'has', u'octa-core', u'processor'] , tags: feature_query
+words : [u'I', u'want', u'a', u'5', u'inch', u'phone', u'with', u'great', u'camera'] , tags: irrelevant
+words : [u'My', u'smartphone', u'iPhone', u'6', u'running', u'on', u'iOS', u'has', u'a', u'pretty', u'large', u'screen', u'size', u'of', u'6', u'inches', u'!'] , tags: irrelevant
+words : [u'I', u'like', u'to', u'take', u'selfies', u'on', u'my', u'Lumia920', u'.'] , tags: feature_query
+words : [u'We', u'made', u'this', u'app', u'called', u'Taala', u'.'] , tags: feature_query
+words : [u'Which', u'is', u'the', u'best', u'smartphone', u'to', u'be', u'bought', u'?'] , tags: irrelevant
+words : [u'Which', u'is', u'the', u'cheapest', u'smartphone', u'available', u'?'] , tags: irrelevant
+words : [u'Which', u'Android', u'phones', u'in', u'the', u'market', u'right', u'now', u'are', u'between', u'5K', u'and', u'10K', u'?'] , tags: irrelevant
+words : [u'Spice', u'has', u'released', u'a', u'cheap', u'smartphone', u'with', u'a', u'4.3', u'inch', u'screen'] , tags: irrelevant
+words : [u'Is', u'there', u'a', u'HTC', u'phone', u'with', u'a', u'six', u'inch', u'screen', u'that', u'runs', u'Android', u'4.4', u'?'] , tags: irrelevant
+words : [u'I', u'need', u'a', u'new', u'phone'] , tags: irrelevant
+words : [u'I', u'need', u'a', u'new', u'HTC', u'phone'] , tags: irrelevant
+words : [u'I', u'need', u'a', u'new', u'HTC', u'phone', u'that', u'is', u'running', u'Kit', u'Kat'] , tags: irrelevant
+words : [u'I', u"'m", u'looking', u'to', u'buy', u'a', u'Galaxy', u'in', u'Bangalore'] , tags: feature_query
+words : [u'The', u'HTC', u'desire', u'series', u'could', u'use', u'some', u'improvements'] , tags: feature_query
+words : [u'I', u'would', u'love', u'to', u'find', u'a', u'smartphone', u'with', u'a', u'6', u'inch', u'screen', u'for', u'under', u'6K'] , tags: irrelevant
+words : [u'I', u'finally', u'bought', u'a', u'smartphone', u'!'] , tags: irrelevant
+words : [u'Is', u'the', u'HTC', u'desire', u'c', u'more', u'than', u'4', u'inches', u'?'] , tags: irrelevant
+words : [u'Is', u'the', u'HTC', u'Desire', u'C', u'priced', u'under', u'10k', u'?'] , tags: feature_query
+words : [u'I', u'want', u'a', u'mobile', u'which', u'runs', u'on', u'Android'] , tags: irrelevant
+words : [u'Is', u'the', u'Galaxy', u'S2', u'as', u'slow', u'as', u'everyone', u'claims', u'?'] , tags: feature_query
+words : [u'Can', u'I', u'play', u'candy', u'crush', u'on', u'an', u'Apple', u'iPhone', u'?'] , tags: feature_query
+words : [u'I', u"'m", u'looking', u'to', u'buy', u'a', u'phone', u'in', u'Milan'] , tags: irrelevant
+words : [u'Im', u'looking', u'to', u'buy', u'a', u'device', u'running', u'Jelly', u'Bean', u'sometime', u'in', u'August'] , tags: feature_query
+words : [u'I', u'bought', u'this', u'phone', u'yesterday'] , tags: irrelevant
+words : [u'I', u'want', u'a', u'phone', u'with', u'a', u'10', u'inch', u'screen'] , tags: irrelevant
+words : [u'Today', u'I', u'noticed', u'a', u'lag', u'on', u'my', u'4', u"''", u'screen', u'while', u'playing', u'Temple', u'Run'] , tags: irrelevant
+words : [u'Im', u'looking', u'for', u'an', u'Android', u'phone', u'which', u'is', u'under', u'10K'] , tags: irrelevant
+words : [u'Does', u'temple', u'run', u'have', u'good', u'clarity', u'on', u'a', u'6', u"''", u'device', u'running', u'Jelly', u'Bean', u'?'] , tags: irrelevant
+words : [u'What', u'is', u'Android', u'4.4', u'called', u'?'] , tags: irrelevant
+words : [u'I', u'want', u'a', u'Nexus', u'smartphone'] , tags: irrelevant
+words : [u'My', u'phone', u'has', u'a', u'4', u"''", u'screen'] , tags: irrelevant
+words : [u'I', u'want', u'an', u'Apple', u'phone'] , tags: irrelevant
+words : [u'Is', u'Jelly', u'Bean', u'faster', u'than', u'Kit', u'Kat', u'?'] , tags: feature_query
+words : [u'I', u'love', u'the', u'new', u'version', u'of', u'Skype', u'!'] , tags: feature_query
+words : [u'I', u'bought', u'a', u'Samsung', u'phone', u'today'] , tags: irrelevant
+words : [u'Apple', u'is', u'a', u'pretentious', u'company'] , tags: feature_query
+words : [u'I', u'bought', u'a', u'Galaxy', u'S3'] , tags: feature_query
+words : [u'I', u'have', u'a', u'smartphone'] , tags: irrelevant
+words : [u'Which', u'smartphone', u'is', u'cheaper', u',', u'Samsung', u'Galaxy', u'Grand', u'2', u'or', u'Motorola', u'Moto', u'G', u'2', u'?'] , tags: irrelevant
+words : [u'Which', u'android', u'phones', u'will', u'be', u'released', u'in', u'the', u'next', u'6', u'months', u'?'] , tags: irrelevant
+words : [u'Which', u'is', u'the', u'most', u'downloaded', u'application', u'in', u'the', u'Android', u'Play', u'Store', u'?'] , tags: irrelevant
+words : [u'I', u'want', u'to', u'buy', u'a', u'phone', u'which', u'has', u'a', u'8', u'mega-pixel', u'camera', u'and', u'16', u'GB', u'of', u'storage', u'.'] , tags: irrelevant
+words : [u'Which', u'Samsung', u'phone', u'has', u'the', u'longest', u'battery', u'life', u'?'] , tags: irrelevant
+words : [u'Which', u'is', u'the', u'costliest', u'smartphone', u'in', u'the', u'market', u'right', u'now', u'?'] , tags: irrelevant
+words : [u'8', u'mega-pixel', u'camera', u',', u'Android', u'KitKat', u'OS', u',', u'5', u'inch', u'screen', u'are', u'some', u'of', u'the', u'specifications', u'of', u'Motorola', u'Moto', u'G', u'phone', u'.'] , tags: irrelevant
+words : [u'Which', u'is', u'the', u'lighest', u'smartphone', u'in', u'the', u'market', u'right', u'now', u'?'] , tags: irrelevant
+words : [u'Temple', u'Run', u'is', u'an', u'addictive', u'game', u'.'] , tags: feature_query
+words : [u'Is', u'the', u'game', u'Piano', u'Tiles', u'available', u'in', u'Nokia', u'Ovi', u'Store', u'?'] , tags: feature_query
+words : [u'Are', u'there', u'any', u'Samsung', u'Service', u'Centres', u'in', u'Bangalore', u'?'] , tags: feature_query
+words : [u'Till', u'which', u'Android', u'OS', u'version', u'can', u'the', u'Samsung', u'Galaxy', u'Grand', u'be', u'upgraded', u'to', u'?'] , tags: irrelevant
+words : [u'What', u'are', u'the', u'reviews', u'of', u'the', u'Android', u'KitKat', u'OS', u'?'] , tags: irrelevant
+words : [u'Is', u'Angry', u'Birds', u'App', u'a', u'free', u'app', u'?'] , tags: feature_query
+words : [u'The', u'user', u'interface', u'of', u'Samsung', u'smartphones', u'are', u'much', u'better', u'than', u'the', u'Nokia', u'smartphones', u'.'] , tags: comparison
+words : [u'My', u'highest', u'score', u'in', u'Piano', u'Tiles', u'is', u'1000', u'.'] , tags: feature_query
+words : [u'Is', u'there', u'a', u'discount', u'on', u'Google', u'Nexus', u'5', u'in', u'Flipkart', u'?'] , tags: feature_query
+words : [u'Can', u'you', u'suggest', u'me', u'smartphones', u'in', u'the', u'range', u'of', u'15k', u'to', u'20k', u'having', u'Qualcomm', u'processor', u'?'] , tags: irrelevant
+words : [u'Is', u'5th', u'February', u',', u'2015', u'the', u'release', u'date', u'of', u'Apple', u"'s", u'iPhone', u'7', u'?'] , tags: feature_query
+words : [u'Android', u'Lollipop', u'OS', u'is', u'not', u'supported', u'in', u'Samsung', u'Galaxy', u'Grand', u'2', u'.'] , tags: disagreement
+words : [u'Suggest', u'me', u'smartphones', u'better', u'than', u'Apple', u"'s", u'iPhone', u'.'] , tags: comparison
+words : [u'What', u'are', u'the', u'drawbacks', u'of', u'Android', u'Jelly', u'Bean', u'OS', u'?'] , tags: irrelevant
+words : [u'Which', u'are', u'the', u'smartphones', u'that', u'support', u'Android', u'Lollipop', u'OS', u'?'] , tags: irrelevant
+words : [u'Which', u'is', u'the', u'cheapest', u'Android', u'Phone', u'in', u'the', u'market', u'?'] , tags: irrelevant
+words : [u'What', u'is', u'the', u'screen', u'size', u'of', u'an', u'iPAD', u'?'] , tags: feature_query
+words : [u'Suggest', u'smartphones', u'with', u'best', u'camera', u'.'] , tags: irrelevant
+words : [u'I', u'need', u'a', u'smartphone', u'with', u'great', u'camera', u'resolution'] , tags: irrelevant
+words : [u'I', u'found', u'that', u'Nokia', u'phones', u'have', u'better', u'battery', u'life'] , tags: comparison
+words : [u'Is', u'that', u'dual', u'sim', u'phone', u'?'] , tags: irrelevant
+words : [u'How', u'much', u'megapixel', u'camera', u'?'] , tags: feature_query
+words : [u'what', u'is', u'the', u'cost', u'of', u'Samsung', u'Galaxy', u'Grand', u'?'] , tags: feature_query
+words : [u'Does', u'it', u'support', u'dual', u'sim', u'?'] , tags: feature_query
+words : [u'How', u'much', u'megapixel', u'camera', u'it', u'is', u'?'] , tags: feature_query
+words : [u'Is', u'it', u'a', u'octa-core', u'processor', u'?'] , tags: feature_query
+words : [u'What', u'is', u'the', u'cost', u'of', u'micromax', u'canvas', u'?'] , tags: irrelevant
+words : [u'Xiaomi', u'phones', u'does', u'not', u'have', u'their', u'own', u'earpiece'] , tags: disagreement
+words : [u'Xiaomi', u'phone', u'video', u'quality', u'is', u'super'] , tags: irrelevant
+words : [u'Xiaomi', u'MI', u'2', u'has', u'2GB', u'RAM'] , tags: feature_query
+words : [u'does', u'it', u'have', u'a', u'front', u'camera'] , tags: feature_query
+words : [u'Is', u'this', u'phone', u'a', u'waterproof', u'one', u'?'] , tags: irrelevant
+words : [u'whether', u'this', u'phone', u'has', u'gorilla', u'glass', u'?'] , tags: irrelevant
+words : [u'what', u'is', u'the', u'speed', u'of', u'processor', u'?'] , tags: feature_query
+words : [u'what', u'is', u'the', u'dimension', u'of', u'Xiaomi', u'REDMI', u'note', u'?'] , tags: feature_query
+words : [u'Does', u'it', u'support', u'extendable', u'memory'] , tags: feature_query
+words : [u'can', u'I', u'take', u'panaromic', u'photos', u'from', u'this', u'phone', u'?'] , tags: irrelevant
+words : [u'can', u'we', u'make', u'this', u'as', u'wifi', u'hot-spot', u'?'] , tags: feature_query
+words : [u'does', u'it', u'support', u'GPS', u'?'] , tags: feature_query
+words : [u'I', u'need', u'android', u'lollipop'] , tags: feature_query
+words : [u'Suggest', u'me', u'a', u'phone', u'which', u'supports', u'voice', u'commands'] , tags: irrelevant
+words : [u'The', u'Moto', u'X', u'shows', u'notifications', u'on', u'the', u'lock', u'screen', u'to', u'keep', u'you', u'up', u'to', u'date'] , tags: feature_query
+words : [u'I', u'bought', u'Moto', u'X', u'1st', u'Gen', u'in', u'the', u'month', u'of', u'October'] , tags: feature_query
+words : [u'The', u'new', u'Motorola', u'Moto', u'X', u'is', u'now', u'selling', u'for', u'25,999', u'in', u'India'] , tags: feature_query
+words : [u'I', u'want', u'to', u'buy', u'a', u'phone', u'which', u'supports', u'dual', u'sim'] , tags: irrelevant
+words : [u'Suggest', u'me', u'an', u'android', u'phone', u'which', u'has', u'good', u'sound', u'quality'] , tags: irrelevant
+words : [u'Which', u'smartphone', u'has', u'the', u'best', u'front', u'camera', u'with', u'price', u'less', u'than', u'20000', u'?'] , tags: irrelevant
+words : [u'I', u'want', u'to', u'buy', u'a', u'Samsung', u'phone', u'with', u'water', u'repellent', u'coating'] , tags: irrelevant
+words : [u'Compared', u'to', u'the', u'iOS', u'app', u'store', u'and', u'Google', u'Play', u',', u'Windows', u'Phone', u'has', u'just', u'a', u'fragment', u'of', u'the', u'apps'] , tags: irrelevant
+words : [u'Which', u'phones', u'have', u'already', u'got', u'the', u'Android', u'Lollipop', u'update', u'?'] , tags: irrelevant
+words : [u'What', u'are', u'the', u'additional', u'features', u'that', u'Moto', u'X', u'2nd', u'Gen', u'has', u'when', u'compared', u'to', u'Moto', u'X', u'1st', u'Gen', u'?'] , tags: feature_query
+words : [u'I', u'want', u'to', u'buy', u'a', u'smartphone', u'with', u'the', u'largest', u'screen', u'size'] , tags: irrelevant
+words : [u'I', u'bought', u'Nokia', u'Lumia', u'710', u'in', u'2012', u'in', u'Bangalore'] , tags: feature_query
+words : [u'Whatsapp', u'didnt', u'work', u'properly', u'on', u'my', u'Lumia', u'710', u'phone'] , tags: irrelevant
+words : [u'I', u'updated', u'my', u'Subway', u'Surf', u'App', u'recently'] , tags: feature_query
+words : [u'Which', u'is', u'the', u'cheapest', u'smartphone', u'in', u'the', u'market', u'?'] , tags: irrelevant
+words : [u'I', u'want', u'to', u'buy', u'iPhone', u'6'] , tags: feature_query
+words : [u'I', u'want', u'to', u'buy', u'a', u'Samsung', u'phone', u'in', u'the', u'range', u'of', u'15000', u'to', u'20000', u'with', u'Android', u'Lollipop', u'update'] , tags: irrelevant
+words : [u'What', u'are', u'the', u'specifications', u'of', u'Google', u'Nexus', u'6', u'?'] , tags: feature_query
+words : [u'Has', u'iPhone', u'6', u'released', u'in', u'India'] , tags: feature_query
+words : [u'I', u'hate', u'october'] , tags: feature_query
+words : [u'I', u'loved', u'playing', u'candy', u'crush', u'at', u'vmware', u'in', u'bangalore'] , tags: feature_query
+words : [u'I', u'liked', u'Samsung', u'galaxy', u'note', u'2', u'better', u'than', u'note', u'3'] , tags: comparison
+words : [u'I', u'love', u'the', u'new', u'iPhone6'] , tags: feature_query
+words : [u'I', u'am', u'in', u'bangalore'] , tags: feature_query
+words : [u'I', u'love', u'playing', u'piano', u'tiles', u'in', u'college'] , tags: feature_query
+words : [u'Android', u'4.4.2', u'is', u'the', u'best', u'if', u'you', u'want', u'an', u'android', u'phone', u'from', u'Samsung', u'galaxy'] , tags: irrelevant
+words : [u'S', u'voice', u'on', u'Samsung', u'phones', u'is', u'nice'] , tags: irrelevant
+words : [u'Apple', u'sells', u'Iphones', u'at', u'a', u'cheaper', u'rate', u'in', u'USA', u'.'] , tags: feature_query
+words : [u'Can', u'you', u'suggest', u'an', u'android', u'phone', u'with', u'version', u'4.4.2', u'and', u'more', u'than', u'5', u'inches', u'?'] , tags: irrelevant
+words : [u'Samsung', u'started', u'releasing', u'it', u"'s", u'galaxy', u'series', u'in', u'africa'] , tags: feature_query
+words : [u'Samsung', u'started', u'releasing', u'it', u"'s", u'galaxy', u'series', u'in', u'africa'] , tags: feature_query
+words : [u'can', u'a', u'nokia', u'lumia', u'4.5', u'inch', u'support', u'candy', u'crush', u'?'] , tags: irrelevant
+words : [u'Can', u'I', u'get', u'an', u'android', u'4.4.2', u'phone', u'at', u'croma', u'?'] , tags: irrelevant
+words : [u'I', u'am', u'hoping', u'to', u'buy', u'an', u'android', u'4.4', u'phone', u'in', u'January'] , tags: irrelevant
+words : [u'You', u'can', u'buy', u'the', u'new', u'mathtutor', u'app', u'from', u'the', u'store', u'at', u'50', u'$'] , tags: irrelevant
+words : [u'You', u'can', u'buy', u'the', u'new', u'mathtutor', u'app', u'from', u'the', u'store', u'at', u'50', u'$'] , tags: irrelevant
+words : [u'I', u'want', u'a', u'new', u'phone', u'with', u'a', u'screen', u'size', u'not', u'exceeding', u'5', u'inches'] , tags: disagreement
+words : [u'My', u'budget', u'is', u'20000', u'rupees'] , tags: irrelevant
+words : [u'I', u'am', u'going', u'to', u'buy', u'a', u'4.5', u'inch', u'in', u'february'] , tags: irrelevant
+words : [u'price', u'of', u'Iphones', u'in', u'USA', u'is', u'50000'] , tags: feature_query
+words : [u'I', u'am', u'planning', u'to', u'sell', u'my', u'phone', u'in', u'december'] , tags: irrelevant
+words : [u'My', u'brother', u'bought', u'a', u'phone', u'for', u'40000', u'rupees'] , tags: irrelevant
+words : [u'I', u'live', u'Samsung', u'galaxy', u'phone'] , tags: irrelevant
+words : [u'The', u'iPhone', u'6', u'is', u'53k', u'in', u'India', u'.'] , tags: feature_query
+words : [u'When', u'is', u'Android', u'Lollipop', u'going', u'to', u'release', u'in', u'India', u'?'] , tags: irrelevant
+words : [u'The', u'5.5', u'inch', u'iPhone', u'6', u'was', u'released', u'in', u'India', u'in', u'October,2014', u'.'] , tags: irrelevant
+words : [u'The', u'Moto', u'G', u'has', u'a', u'4.5', u'inch', u'display', u'.'] , tags: irrelevant
+words : [u'iOS5', u'is', u'outdated', u'.'] , tags: feature_query
+words : [u'Motorola', u'has', u'made', u'a', u'huge', u'comeback', u'with', u'Moto', u'G', u'.'] , tags: feature_query
+words : [u'Ruzzle', u'is', u'a', u'word', u'game', u'developed', u'by', u'MAG', u'Interactive', u',', u'based', u'in', u'Sweden', u'.'] , tags: feature_query
+words : [u'Ruzzle', u'was', u'released', u'in', u'March', u'2012', u'.'] , tags: feature_query
+words : [u'Can', u'you', u'suggest', u'a', u'good', u'phone', u'with', u'a', u'4.95-inch', u'display', u'available', u'in', u'Ireland', u',', u'other', u'than', u'Nexus', u'5', u'?'] , tags: irrelevant
+words : [u'The', u'Samsung', u'Galaxy', u'Grand', u'hangs', u'alot', u'.'] , tags: feature_query
+words : [u'Google', u'Keep', u'does', u'not', u'run', u'on', u'Android', u'Jellybean', u'.'] , tags: disagreement
+words : [u'Samsung', u'Galaxy', u'Grand', u'2', u'released', u'soon', u'after', u'Samsung', u'Galaxy', u'Grand', u'.'] , tags: feature_query
+words : [u'Android', u'Lollipop', u'has', u"n't", u'released', u'yet', u'.'] , tags: irrelevant
+words : [u'Moto', u'G', u'released', u'on', u'September', u'5', u',', u'2014', u'.'] , tags: feature_query
+words : [u'I', u'bought', u'my', u'phone', u'in', u'India', u'.'] , tags: irrelevant
+words : [u'Is', u'Nexus', u'5', u'manufactured', u'in', u'Sweden', u'?'] , tags: feature_query
+words : [u'Retrica', u'is', u'a', u'photography', u'application', u'.'] , tags: feature_query
+words : [u'Google', u'makes', u'Nexus', u'phones', u'.'] , tags: irrelevant
+words : [u'New', u'Android', u'phones', u'will', u'run', u'Android', u'Lollipop', u'.'] , tags: irrelevant
+words : [u'Ruzzle', u'is', u'a', u'word', u'game', u'.'] , tags: feature_query
+words : [u'Android', u'Kitkat', u'came', u'after', u'Jellybean', u'.'] , tags: irrelevant
+words : [u'Can', u'you', u'suggest', u'a', u'samsung', u'phone', u'with', u'camera', u'greater', u'than', u'10', u'mp', u'?'] , tags: irrelevant
+words : [u'How', u'is', u'iphone', u'6', u'better', u'than', u'iphone', u'5S', u'?'] , tags: comparison
+words : [u'Is', u'MotoE', u'available', u'right', u'now', u'?'] , tags: feature_query
+words : [u'When', u'does', u'a', u'samsung', u's3', u'get', u'the', u'lollipop', u'update', u'?'] , tags: irrelevant
+words : [u'I', u'bought', u'a', u'iphone', u'6', u'last', u'week', u'.'] , tags: feature_query
+words : [u'Does', u'samsung', u'note', u'4', u'have', u'a', u'good', u'camera', u'?'] , tags: irrelevant
+words : [u'Is', u'blackberry', u'messenger', u'available', u'on', u'android', u'?'] , tags: irrelevant
+words : [u'How', u'does', u'the', u'nexus', u'5', u'compare', u'with', u'iphone', u'6s', u'on', u'performance', u'?'] , tags: feature_query
+words : [u'When', u'does', u'lollipop', u'version', u'of', u'android', u'release', u'?'] , tags: feature_query
+words : [u'What', u'is', u'the', u'latest', u'phone', u'by', u'blackberry', u'?'] , tags: irrelevant
+words : [u'Is', u'it', u'cheap', u'to', u'buy', u'an', u'android', u'phone', u'during', u'thanksgiving', u'?'] , tags: irrelevant
+words : [u'Is', u'there', u'an', u'android', u'phone', u'for', u'less', u'than', u'5000', u'?'] , tags: irrelevant
+words : [u'Where', u'can', u'I', u'find', u'a', u'samsung', u's3', u'for', u'less', u'than', u'10k', u'?'] , tags: irrelevant
+words : [u'I', u'bought', u'a', u'samsung', u's5', u'in', u'delhi', u'last', u'week', u'.'] , tags: irrelevant
+words : [u'When', u'is', u'the', u'latest', u'iphone', u'the', u'cheapest', u'in', u'Bangalore', u'?'] , tags: feature_query
+words : [u'I', u'need', u'a', u'phone', u'under', u'Rs', u'15k', u'.'] , tags: irrelevant
+words : [u'I', u'need', u'a', u'phone', u'under', u'Rs', u'15k', u'.'] , tags: irrelevant
+words : [u'I', u'need', u'the', u'lollipop', u'version', u'for', u'samsung', u's3', u'.'] , tags: irrelevant
+words : [u'Can', u'you', u'suggest', u'some', u'phones', u'with', u'long', u'lasting', u'battery', u'?'] , tags: irrelevant
+words : [u'When', u'is', u'the', u'next', u'iphone', u'expected', u'to', u'release', u'?'] , tags: feature_query
+words : [u'I', u'do', u"n't", u'think', u'this', u'phone', u'runs', u'icecream', u'Sandwich', u'.'] , tags: acknowledgement
+words : [u'I', u'do', u"n't", u'think', u'this', u'phone', u'runs', u'icecream', u'Sandwich', u'.'] , tags: acknowledgement
+words : [u'I', u'do', u"n't", u'think', u'this', u'phone', u'runs', u'icecream', u'Sandwich', u'.'] , tags: acknowledgement
+words : [u'lolypop', u'(', u'Android', u'5.0', u')', u'upgrade', u'rolled', u'out', u'for', u'Moto', u'g2'] , tags: irrelevant
+words : [u'Moto', u'g2', u'is', u'a', u'great', u'phone'] , tags: irrelevant
+words : [u'Nokia', u'is', u'a', u'Finland', u'based', u'company'] , tags: feature_query
+words : [u'Samsung', u'galaxy', u'has', u'phones', u'with', u'display', u'ranging', u'3', u'to', u'6', u'inch'] , tags: irrelevant
+words : [u'Nokia', u'lumia', u'520', u'now', u'at', u'Rs5500'] , tags: feature_query
+words : [u'Moto', u'g2', u'with', u'5', u'inch', u'display', u'and', u'android', u'kitkat', u'available', u'at', u'Rs13000'] , tags: irrelevant
+words : [u'Android', u'lolypop', u'(', u'5.0', u')', u'released', u'!', u'!'] , tags: irrelevant
+words : [u'Google', u'to', u'launch', u'Nexus', u'6', u'on', u'12November', u'in', u'India'] , tags: feature_query
+words : [u'Moto', u'G2', u'with', u'5', u'inch', u'display', u'.'] , tags: irrelevant
+words : [u'Nexus', u'first', u'to', u'get', u'Lolypop', u'.'] , tags: feature_query
+words : [u'Nexus', u'6', u'to', u'be', u'manufactured', u'by', u'Motorolla'] , tags: feature_query
+words : [u'Android', u'lolypop', u'uses', u'material', u'design'] , tags: irrelevant
+words : [u'Nokia', u'Zlauncher', u'is', u'preety', u'cool'] , tags: feature_query
+words : [u'Samsung', u'galaxy', u'is', u'lagging', u'behind', u'in', u'the', u'market'] , tags: feature_query
+words : [u'Nokia', u'symbian', u'was', u'once', u'popular', u'in', u'India'] , tags: feature_query
+words : [u'Finland', u'based', u'Nokia', u'may', u'launch', u'Android', u'phone', u'soon'] , tags: irrelevant
+words : [u'Assist', u'in', u'Moto', u'g', u'is', u'cool'] , tags: feature_query
+words : [u'Microsoft', u'gets', u'away', u'with', u'Nokia', u'brand', u'in', u'latest', u'Lumia'] , tags: feature_query
+words : [u'Lumia', u'520', u'is', u'best', u'in', u'its', u'price', u'range'] , tags: feature_query
+words : [u'Lolypop', u'doesnt', u'have', u'silent', u'feature'] , tags: feature_query
+words : [u'Nexus', u'6', u'coming', u'with', u'Android', u'lolypop'] , tags: irrelevant
+words : [u'The', u'cost', u'of', u'iPhone', u'5s', u'in', u'India', u'is', u'Rs', u'.', u'43499'] , tags: feature_query
+words : [u'The', u'screen', u'size', u'of', u'Nexus', u'6', u'is', u'approximately', u'6', u'inches', u'and', u'it', u'is', u'yet', u'to', u'be', u'released', u'in', u'the', u'US', u'.'] , tags: irrelevant
+words : [u'Is', u'AppLock', u'available', u'on', u'Windows', u'phones', u'?'] , tags: irrelevant
+words : [u'What', u'are', u'some', u'of', u'the', u'Samsung', u'Galaxy', u'phones', u'under', u'20k', u'?'] , tags: irrelevant
+words : [u'Did', u'you', u'update', u'Whatsapp', u'?'] , tags: feature_query
+words : [u'Nexus', u'4', u'has', u'a', u'screen', u'size', u'of', u'4.7', u"''"] , tags: irrelevant
+words : [u'Do', u'you', u'have', u'Viber', u'installed', u'on', u'your', u'phone', u'?'] , tags: irrelevant
+words : [u'Can', u'you', u'suggest', u'some', u'good', u'phones', u'which', u'have', u'more', u'than', u'5', u"''", u'screen', u'size', u'and', u'run', u'on', u'Kitkat', u'or', u'higher', u'?'] , tags: irrelevant
+words : [u'Display', u'size', u'of', u'iPhone', u'6', u'is', u'4.7', u"''"] , tags: irrelevant
+words : [u'Can', u'you', u'suggest', u'some', u'good', u'iPhones', u'within', u'45k', u'?'] , tags: feature_query
+words : [u'The', u'Price', u'of', u'Samsung', u'Galaxy', u'S5', u'in', u'India', u'is', u'35k'] , tags: feature_query
+words : [u'Android', u'Lollipop', u'was', u'released', u'on', u'November', u'3rd,2014'] , tags: irrelevant
+words : [u'Have', u'you', u'installed', u'Facebook', u'and', u'messenger', u'on', u'your', u'galaxy', u'phone', u'?'] , tags: irrelevant
+words : [u'How', u'much', u'did', u'your', u'Nexus', u'phone', u'cost', u'?'] , tags: irrelevant
+words : [u'Xiaomi', u'Mi4', u'India', u'launch', u'only', u'in', u'December', u',', u'price', u'around', u'15k'] , tags: feature_query
+words : [u'SmashHit', u'is', u'a', u'very', u'addictive', u'game'] , tags: feature_query
+words : [u'What', u'are', u'some', u'of', u'the', u'good', u'smartphones', u'available', u'for', u'less', u'than', u'10k', u'?'] , tags: irrelevant
+words : [u'Micromax', u'Bolt', u'A064', u'is', u'one', u'of', u'the', u'cheapest', u'android', u'phones', u'available', u'in', u'India', u'which', u'costs', u'only', u'2.7k'] , tags: irrelevant
+words : [u'How', u'much', u'does', u'HTC', u'Desire', u'C', u'cost', u'?'] , tags: feature_query
+words : [u'When', u'will', u'iPhone', u'6s', u'plus', u'be', u'released', u'in', u'India', u'?'] , tags: feature_query
+words : [u'Does', u'the', u'phone', u'have', u'accelerometer', u'and', u'Gyrometer', u'?'] , tags: irrelevant
+words : [u'Phones', u'with', u'5', u'inch', u'display', u'or', u'more', u'are', u'becoming', u'common', u'nowadays', u'.'] , tags: irrelevant
+words : [u'The', u'nexus', u'5', u'price', u'has', u'reduced', u'to', u'15,000', u'rupees', u'as', u'of', u'this', u'month', u'.'] , tags: irrelevant
+words : [u'last', u'week', u',', u'my', u'father', u'purchased', u'a', u'Moto', u'G2'] , tags: feature_query
+words : [u'apple', u'iPhone', u'is', u'most', u'commonly', u'purchased', u'in', u'the', u'US', u'where', u'you', u'can', u'get', u'it', u'AT', u'&', u'T', u'connected'] , tags: irrelevant
+words : [u'where', u'can', u'a', u'Samsung', u'Galaxy', u'phone', u'running', u'Jellybean', u'be', u'bought', u'in', u'Bangalore', u'?'] , tags: irrelevant
+words : [u'where', u'can', u'I', u'buy', u'a', u'4.2', u'inch', u'phone', u'for', u'30,000', u'or', u'lesser', u'?'] , tags: irrelevant
+words : [u'the', u'galaxy', u'grand', u'has', u'become', u'less', u'popular', u'since', u'August'] , tags: feature_query
+words : [u'the', u'Google', u'nexus', u'6', u'is', u'to', u'have', u'a', u'6', u'inch', u'display'] , tags: irrelevant
+words : [u'IOS', u'users', u'have', u'to', u'pay', u'for', u'the', u'full', u'version', u'of', u'fruit', u'ninja'] , tags: feature_query
+words : [u'what', u"'s", u'the', u'best', u'selling', u'price', u'online', u'for', u'Moto', u'G', u'2', u'?'] , tags: feature_query
+words : [u'Windows', u'8.2', u'phones', u'for', u'under', u'15,000', u'in', u'India', u'?'] , tags: irrelevant
+words : [u'android', u'phones', u'are', u'gaining', u'popularity', u'in', u'developing', u'nations'] , tags: irrelevant
+words : [u'android', u'phones', u'for', u'less', u'than', u'20,000', u'rupees', u'which', u'support', u'NFC', u'?'] , tags: price_query
+words : [u'which', u'is', u'the', u'best', u'phone', u'with', u'a', u'5', u'inch', u'display', u'?'] , tags: irrelevant
+words : [u'what', u"'s", u'the', u'fuss', u'about', u'IOS', u'?'] , tags: feature_query
+words : [u'why', u'are', u'nexus', u'phones', u'preferred', u'?'] , tags: irrelevant
+words : [u'cyanogen', u'mod', u'to', u'release', u'android', u'L', u'soon'] , tags: feature_query
+words : [u'Samsung', u'Galaxy', u'Grand', u'claimed', u'to', u'have', u'hardware', u'issues', u'.'] , tags: feature_query
+words : [u'android', u'L', u'to', u'release', u'on', u'July', u'26', u'for', u'nexus', u'5', u'users'] , tags: feature_query
+words : [u'I', u'want', u'to', u'buy', u'a', u'Samsung', u'phone', u'having', u'Facebook'] , tags: irrelevant
+words : [u'Does', u'Nokia', u'Lumia', u'730', u'have', u'a', u'front', u'camera'] , tags: feature_query
+words : [u'When', u'does', u'Nokia', u'Lumia', u'535', u'release', u'in', u'India'] , tags: feature_query
+words : [u'I', u'want', u'to', u'buy', u'a', u'smartphone', u'running', u'Android', u'KitKat', u'and', u'priced', u'below', u'10000'] , tags: irrelevant
+words : [u'Is', u'Windows', u'8.1', u'available', u'on', u'all', u'Nokia', u'Lumia', u'phones'] , tags: irrelevant
+words : [u'Will', u'Android', u'5.0', u'Lollipop', u'be', u'available', u'in', u'India', u'by', u'January', u'2015'] , tags: irrelevant
+words : [u'Which', u'is', u'the', u'best', u'Micromax', u'phone', u'under', u'15000'] , tags: irrelevant
+words : [u'are', u'lenovo', u'smartphones', u'comparable', u'to', u'samsung', u'smartphones', u'in', u'terms', u'of', u'battery'] , tags: irrelevant
+words : [u'Are', u'Samsung', u'Galaxy', u'Note', u'phones', u'pre', u'-', u'installed', u'with', u'FourSquare'] , tags: irrelevant
+words : [u'Does', u'ASUS', u'make', u'smartphones'] , tags: irrelevant
+words : [u'Is', u'there', u'an', u'iPhone', u'which', u'costs', u'less', u'than', u'40000', u'?'] , tags: feature_query
+words : [u'Does', u'Micromax', u'Canvas', u'Doodle', u'3', u'have', u'a', u'front', u'camera', u'?'] , tags: feature_query
+words : [u'Will', u'iPhone', u'6', u'be', u'available', u'in', u'India', u'before', u'March', u'2015', u'?'] , tags: feature_query
+words : [u'I', u'want', u'to', u'buy', u'a', u'Lenovo', u'phone', u'which', u'costs', u'less', u'than', u'20000', u'and', u'has', u'a', u'5', u'inch', u'screen', u'.'] , tags: irrelevant
+words : [u'Is', u'the', u'Windows', u'8.1', u'update', u'available', u'for', u'Nokia', u'Lumia', u'phones', u'in', u'India', u'?'] , tags: irrelevant
+words : [u'I', u'want', u'to', u'buy', u'a', u'Samsung', u'smartphone', u'with', u'a', u'front', u'camera'] , tags: irrelevant
+words : [u'Does', u'the', u'Samsung', u'Galaxy', u'Note', u'support', u'3G', u'?'] , tags: feature_query
+words : [u'The', u'Nokia', u'Lumia', u'1320', u'has', u'excellent', u'battery', u'life'] , tags: feature_query
+words : [u'Lenovo', u'S850', u'smartphone', u'with', u'5.00-inch', u'720x1280', u'display', u'powered', u'by', u'1.3GHz', u'processor'] , tags: irrelevant
+words : [u'Lenovo', u'VibeX2', u'5inches', u',', u'1080', u'x', u'1920', u'px', u'display'] , tags: irrelevant
+words : [u'Lenovo', u'A536', u'5', u'MP', u'Camera', u'with', u'flash'] , tags: feature_query
+words : [u'Lenovo', u'A536', u'supports', u'Android', u',', u'v4.4.2'] , tags: irrelevant
+words : [u'Lenovo', u'A536', u'for', u'Rs', u'.', u'7,219'] , tags: feature_query
+words : [u'Lenovo', u'A850', u'5.5', u'inches', u',', u'540', u'x', u'960', u'px', u'display'] , tags: irrelevant
+words : [u'Lenovo', u'S850', u'5', u'inches', u',', u'720', u'x', u'1280', u'px', u'display'] , tags: irrelevant
+words : [u'Lenovo', u'S660', u'4.7', u'inches', u',', u'540', u'x', u'960', u'px', u'display'] , tags: irrelevant
+words : [u'Lenovo', u'S660', u'available', u'at', u'Rs', u'.', u'9,829'] , tags: feature_query
+words : [u'Lenovo', u'A369i', u'with', u'512', u'MB', u'RAM'] , tags: feature_query
+words : [u'Samsung', u'Galaxy', u'S', u'Duos', u'2', u'S7582', u'at', u'Rs', u'.', u'9,999'] , tags: feature_query
+words : [u'Samsung', u'Galaxy', u'supports', u'Android', u'v4.2', u'OS'] , tags: irrelevant
+words : [u'Karbonn', u'Smart', u'A11', u'Star', u'at', u'Rs', u'.', u'4,499'] , tags: feature_query
+words : [u'Samsung', u'Galaxy', u'Star', u'Advance', u'G350E', u'at', u'Rs', u'.', u'6,400'] , tags: feature_query
+words : [u'samsung', u'Galaxy', u'S', u'Duos', u'3', u'at', u'RS.7,490/-'] , tags: irrelevant
+words : [u'Samsung', u'Galaxy', u'Alpha', u'at', u'Rs', u'.', u'39,000'] , tags: feature_query
+words : [u'Nokia', u'X', u'Dual', u'SIM', u'Yellow', u'supports', u'windowsPhone', u'8.0'] , tags: feature_query
+words : [u'Samsung', u'Galaxy', u'S', u'Duos', u'S7562', u'with', u'5', u'MP', u'Camera', u'with', u'flash'] , tags: feature_query
+words : [u'Samsung', u'Galaxy', u'Grand', u'Prime', u'with', u'1', u'GB', u'RAM'] , tags: feature_query
+words : [u'Samsung', u'Galaxy', u'S', u'Duos', u'S7562', u'with', u'Android', u',', u'v4.0'] , tags: irrelevant
+words : [u'what', u'will', u'be', u'the', u'price', u'of', u'Google', u'Nexus', u'5', u'in', u'India', u'?'] , tags: feature_query
+words : [u'what', u'will', u'be', u'the', u'price', u'of', u'Google', u'Nexus', u'5', u'in', u'India', u'?'] , tags: feature_query
+words : [u'will', u'LG', u'phone', u'support', u'Android', u'4.5', u'?'] , tags: irrelevant
+words : [u'The', u'Mac', u'App', u'Store', u'is', u'a', u'digital', u'distribution', u'platform', u'for', u'OS', u'X', u'applications', u'.'] , tags: irrelevant
+words : [u'Can', u'I', u'play', u'Hill', u'Climb', u'Racing', u'in', u'my', u'phone', u'which', u'is', u'running', u'on', u'Froyo', u'?'] , tags: irrelevant
+words : [u'WhatsApp', u'Messenger', u'is', u'one', u'of', u'the', u'most', u'popular', u'and', u'most', u'downloaded', u'apps', u'.'] , tags: feature_query
+words : [u'Google', u'Nexus', u'5', u'which', u'cost', u'me', u'Rs', u'28000', u'came', u'pre-installed', u'with', u'loads', u'of', u'apps', u'like', u'Gmail', u',', u'Temple', u'Run', u'2', u',', u'Dropbox', u',', u'YouTube', u'etc', u'.'] , tags: feature_query
+words : [u'Motorola', u'Moto', u'E', u'is', u'brilliant', u'!'] , tags: feature_query
+words : [u'When', u'will', u'Google', u'Nexus', u'6', u'smartphone', u'be', u'released', u'in', u'India', u'?'] , tags: irrelevant
+words : [u'Can', u'LG', u'P350', u'be', u'updated', u'to', u'run', u'Jelly', u'Bean', u'?'] , tags: feature_query
+words : [u'Facebook', u'acquired', u'WhatsApp', u'in', u'February', u'this', u'year', u'.'] , tags: feature_query
+words : [u'Google', u'Nexus', u'6', u'is', u'speculated', u'to', u'be', u'released', u'sometime', u'in', u'November', u'or', u'December', u'.'] , tags: feature_query
+words : [u'iOS', u'7', u'looks', u'great', u'.', u'Congrats', u'to', u'the', u'Google', u'design', u'team', u'!'] , tags: irrelevant
+words : [u'Android', u'Lollipop', u'was', u'released', u'this', u'November', u'.'] , tags: irrelevant
+words : [u'Android', u'is', u'currently', u'developed', u'by', u'Google', u'.'] , tags: irrelevant
+words : [u'Xiomi', u'Redmi', u'1S', u'is', u'the', u'best', u'value-for-money', u'smartphone', u'you', u'can', u'buy', u'!'] , tags: irrelevant
+words : [u'Android', u'5.0', u'is', u'available', u'right', u'now', u'for', u'the', u'Nexus', u'7', u'.'] , tags: irrelevant
+words : [u'I', u'am', u'looking', u'for', u'good', u'shopping', u'stores', u'near', u'Jayanagar', u'to', u'buy', u'a', u'phone', u'.'] , tags: irrelevant
+words : [u'Smartphones', u'have', u'revolutionized', u'the', u'way', u'people', u'communicate', u'.'] , tags: feature_query
+words : [u'ZTE', u'Open', u'II', u'smartphone', u'runs', u'the', u'new', u'Firefox', u'OS', u'!'] , tags: irrelevant
+words : [u'I', u'paid', u'around', u'40k', u'and', u'purchased', u'iPhone', u'5', u'S', u'just', u'to', u'use', u'Siri', u'!'] , tags: feature_query
+words : [u'Is', u'Nexus', u'7', u'available', u'in', u'India', u'?'] , tags: feature_query
+words : [u'Can', u'I', u'update', u'Samsung', u'Galaxy', u'S4', u'Mini', u'to', u'run', u'Android', u'Lollipop', u'?'] , tags: irrelevant
+words : [u'How', u'is', u'Android', u'Lollipop', u'better', u'than', u'Android', u'KitKat', u'?'] , tags: comparison
+words : [u'4chan', u'tricks', u'people', u'Into', u'thinking', u'iOS', u'7', u'makes', u'their', u'iPhones', u'waterproof', u'.'] , tags: irrelevant
+words : [u'iPhone', u'4S', u'is', u'merely', u'a', u'``', u'more', u'expensive', u'iPhone', u"''", u'if', u'Siri', u'fails', u'to', u'function', u'as', u'advertised', u'.'] , tags: irrelevant
+words : [u'Google', u'Nexus', u'6', u'planned', u'to', u'be', u'released', u'in', u'early', u'2015', u'costs', u'44k', u'.'] , tags: feature_query
+words : [u'Interstellar', u'got', u'mixed', u'reviews', u'from', u'the', u'critics', u'.'] , tags: feature_query
+words : [u'iPhone', u'6', u'Plus', u'is', u'around', u'5.5', u"''", u'which', u'is', u'quite', u'bulky', u'.'] , tags: irrelevant
+words : [u'This', u'app', u'runs', u'only', u'on', u'android', u'smartphones', u'.'] , tags: irrelevant
+words : [u'The', u'price', u'of', u'Samsung', u'S4', u'is', u'comparable', u'to', u'that', u'of', u'iPhone', u'4', u'.'] , tags: feature_query
+words : [u'Sony', u'Xperia', u'Z4', u'is', u'likely', u'to', u'be', u'launched', u'in', u'the', u'next', u'month', u'.'] , tags: feature_query
+words : [u'I', u'bought', u'my', u'Nexus', u'6', u'smartphone', u'which', u'comes', u'with', u'the', u'latest', u'android', u'lollipop', u'from', u'Delhi', u'.'] , tags: irrelevant
+words : [u'This', u'app', u'is', u'made', u'by', u'the', u'company', u'Gameloft', u'.'] , tags: feature_query
+words : [u'iOS', u'8', u'is', u'the', u'eighth', u'major', u'release', u'of', u'the', u'iOS', u'mobile', u'operating', u'system', u'designed', u'by', u'Apple', u'Inc.', u'as', u'the', u'successor', u'to', u'iOS', u'7', u'.'] , tags: irrelevant
+words : [u'The', u'best', u'price', u'of', u'Samsung', u'Galaxy', u'Grand', u'2', u'in', u'India', u'is', u'Rs', u'.', u'16009', u'.'] , tags: feature_query
+words : [u'Windows', u'Phone', u'8.1', u',', u'codenamed', u"'Blue", u"'", u',', u'is', u'the', u'latest', u'update', u'to', u'the', u'Microsoft', u'Windows', u'Phone', u'operating', u'system', u'.'] , tags: irrelevant
+words : [u'The', u'new', u'Nexus', u'6', u'comes', u'with', u'a', u'long', u'battery', u'life'] , tags: feature_query
+words : [u'The', u'screen', u'size', u'of', u'this', u'new', u'phone', u'is', u'6', u"''", u'.'] , tags: irrelevant
+words : [u'The', u'new', u'phone', u'launched', u'by', u'micromax', u'supports', u'flash', u'in', u'the', u'front', u'camera'] , tags: irrelevant
+words : [u'Apple', u'is', u'the', u'leader', u'in', u'Smartphone', u'market'] , tags: feature_query
+words : [u'Lollipop', u'is', u'the', u'new', u'version', u'Android'] , tags: irrelevant
+words : [u'What', u'is', u'the', u'price', u'of', u'iphone', u'6', u'?'] , tags: feature_query
+words : [u'What', u'is', u'the', u'name', u'of', u'the', u'OS', u'released', u'by', u'Mozilla', u'?'] , tags: irrelevant
+words : [u'Other', u'than', u'Samsung', u'which', u'is', u'the', u'best', u'smartphone', u'in', u'the', u'market', u'?'] , tags: irrelevant
+words : [u'Where', u'is', u'the', u'data', u'of', u'a', u'particular', u'app', u'is', u'stored', u'with', u'size', u'greater', u'than', u'10MB', u'?'] , tags: feature_query
+words : [u'When', u'was', u'the', u'new', u'iOS', u'launched', u'that', u'is', u'suitable', u'for', u'iphone', u'6', u'?'] , tags: irrelevant
+words : [u'Other', u'than', u'temple', u'run', u'which', u'is', u'the', u'app', u'that', u'hangs', u'on', u'Samsung', u'note', u'?'] , tags: feature_query
+words : [u'Wher', u'is', u'the', u'headquarters', u'of', u'Samsung', u'located', u'?'] , tags: feature_query
+words : [u'Other', u'than', u'Asphalt', u'which', u'app', u'has', u'size', u'greater', u'than', u'1GB'] , tags: feature_query
+words : [u'Apple', u'is', u'located', u'in', u'USA', u'.'] , tags: feature_query
+words : [u'I', u'dont', u'think', u'Android', u'efficiently', u'uses', u'huge', u'data', u'from', u'the', u'RAM', u'.'] , tags: irrelevant
+words : [u'Is', u'iphone', u'6', u'is', u'good', u'?'] , tags: feature_query
+words : [u'When', u'was', u'iphone', u'6', u'released', u'with', u'screen', u'size', u'6', u'?'] , tags: feature_query
+words : [u'When', u'was', u'iphone', u'6', u'series', u'released', u'?'] , tags: feature_query
+words : [u'When', u'was', u'iOS', u'8', u'released', u'for', u'iphones', u'?'] , tags: irrelevant
+words : [u'Does', u'Asphalt', u'runs', u'on', u'Moto', u'g', u'?'] , tags: feature_query
+words : [u'Which', u'is', u'the', u'app', u'that', u'is', u'now', u'trending', u'?'] , tags: feature_query
+words : [u'What', u'is', u'the', u'price', u'pf', u'iphone6', u'?'] , tags: feature_query
+words : [u'Galaxy', u'is', u'the', u'flagship', u'product', u'of', u'Samsung', u'.'] , tags: feature_query
+words : [u'Smartphones', u'have', u'revolutionized', u'the', u'modern', u'world', u'.'] , tags: feature_query
+words : [u'This', u'new', u'Taala', u'is', u'really', u'helpful', u'.'] , tags: feature_query
+words : [u'The', u'Lumia', u'920', u'is', u'really', u'nice'] , tags: feature_query
+words : [u'I', u'bought', u'this', u'tile', u'on', u'Monday', u'for', u'Rs', u'.', u'22', u'in', u'Bangalore', u'.'] , tags: feature_query
+words : [u'Bangalore', u'is', u'not', u'that', u'green', u'any', u'more', u'.'] , tags: feature_query
+words : [u'Would', u'you', u'go', u'out', u'with', u'me', u'tonight', u'?'] , tags: feature_query
+words : [u'Yesterday', u'I', u'got', u'placed', u'in', u'Microsoft', u'working', u'for', u'the', u'Windows', u'division', u'.'] , tags: irrelevant
+words : [u'The', u'XIOMI', u'phones', u'just', u'cost', u'around', u'6k', u'.'] , tags: irrelevant
+words : [u'Yesterday', u'they', u'changed', u'the', u'name', u'of', u'all', u'Lumia', u'phones', u'in', u'Nokia', u'.'] , tags: irrelevant
+words : [u'Microsoft', u'is', u'good', u'.'] , tags: feature_query
+words : [] , tags: feature_query
+words : [u'Windows', u'8', u'is', u'brilliant', u'.'] , tags: irrelevant
+words : [u'The', u'nearest', u'starbucks', u'in', u'jpnagar', u'.'] , tags: feature_query
+words : [u'The', u'bill', u'costed', u'him', u'28k', u'.'] , tags: feature_query
+words : [u'The', u'new', u'launcher', u'from', u'Yahoo', u'costs', u'99', u'cents', u'now', u'.'] , tags: irrelevant
+words : [u'Windows', u'is', u'a', u'great', u'operating', u'system', u'.'] , tags: irrelevant
+words : [u'Tomorrow', u'is', u'a', u'big', u'day', u'for', u'me', u'.'] , tags: feature_query
+words : [u'Tomorrow', u'they', u'are', u'going', u'to', u'release', u'the', u'Windows', u'10', u'which', u'is', u'of', u'size', u'5', u'GB', u'.'] , tags: irrelevant
+words : [u'Ubuntu', u'14.04', u'is', u'just', u'700', u'MB', u'.'] , tags: irrelevant
+words : [u'I', u'like', u'smartphones', u'because', u'they', u'simplify', u'my', u'life', u'.'] , tags: irrelevant
+words : [u'Android', u'Lollipop', u'has', u'a', u'new', u'Inbox', u'App', u'.'] , tags: irrelevant
+words : [u'I', u'want', u'to', u'purchase', u'a', u'phone', u'within', u'Rs', u'.', u'10,000'] , tags: irrelevant
+words : [u'Is', u'there', u'a', u'phone', u'with', u'specifications', u'similar', u'to', u'that', u'of', u'Moto', u'E', u'but', u'with', u'a', u'front', u'camera', u'also', u'.'] , tags: irrelevant
+words : [u'What', u'is', u'the', u'price', u'difference', u'between', u'Moto', u'E', u'and', u'Moto', u'G', u'?'] , tags: feature_query
+words : [u'What', u'motorola', u'phones', u'are', u'available', u'in', u'the', u'price', u'range', u'of', u'Rs', u'5000', u'to', u'Rs', u'15000', u'?'] , tags: price_query
+words : [u'How', u'much', u'does', u'iPhone', u'6', u'cost', u'?'] , tags: feature_query
+words : [u'What', u'is', u'the', u'latest', u'model', u'of', u'HTC', u'desire', u'?'] , tags: feature_query
+words : [u'Does', u'HTC', u'Desire', u'A8181', u'have', u'dual', u'sim', u'capability', u'?'] , tags: feature_query
+words : [u'Can', u'you', u'suggest', u'phones', u'with', u'a', u'good', u'camera', u'?'] , tags: irrelevant
+words : [u'What', u'are', u'the', u'4G', u'enabled', u'phones', u'available', u'in', u'India', u'?'] , tags: irrelevant
+words : [u'Does', u'Samsung', u'Galaxy', u'trend', u'have', u'a', u'front', u'camera', u'?'] , tags: feature_query
+words : [u'What', u'are', u'the', u'phones', u'releasing', u'next', u'year', u'?'] , tags: irrelevant
+words : [u'Show', u'me', u'the', u'latest', u'xiaomi', u'.'] , tags: irrelevant
+words : [u'Does', u'This', u'Phone', u'run', u'Android', u'4.4', u'?'] , tags: irrelevant
+words : [u'what', u'phones', u'other', u'that', u'iPhone', u'use', u'nano', u'sims', u'?'] , tags: irrelevant
+words : [u'What', u'android', u'phones', u'use', u'a', u'nano-sized', u'sim', u'card', u'?'] , tags: irrelevant
+words : [u'Does', u'Samsung', u'Galaxy', u'Tab', u'use', u'a', u'micro', u'sim', u'?'] , tags: feature_query
+words : [u'How', u'much', u'expandable', u'memory', u'does', u'Sony', u'Xperia', u'M2', u'have', u'?'] , tags: feature_query
+words : [u'How', u'much', u'did', u'Samsung', u'Galaxy', u'Note', u'2', u'Cost', u'last', u'year', u'?'] , tags: feature_query
+words : [u'Does', u'WhatApp', u'still', u'work', u'on', u'7', u'inch', u'tablets', u'like', u'Samasung', u'Galaxy', u'tab', u'2', u'?'] , tags: irrelevant
+words : [u'Does', u'WhatApp', u'still', u'work', u'on', u'7', u'inch', u'tablets', u'like', u'Samasung', u'Galaxy', u'tab', u'2', u'?'] , tags: irrelevant
+words : [u'Does', u'WhatApp', u'still', u'work', u'on', u'7', u'inch', u'tablets', u'like', u'Samasung', u'Galaxy', u'tab', u'2', u'?'] , tags: irrelevant
+words : [u'Does', u'the', u'Samsung', u'Galaxy', u'Grand', u'sold', u'in', u'India', u'run', u'Android', u'4.4', u'?'] , tags: irrelevant
+words : [u'What', u'was', u'the', u'best', u'price', u'for', u'the', u'HTC', u'Desire', u'816', u'in', u'2013', u'?'] , tags: feature_query
+words : [u'What', u'is', u'the', u'price', u'of', u'the', u'Samsung', u'Galaxy', u'Tab', u'3', u'7', u'inch', u'tablet', u'?'] , tags: irrelevant
+words : [u'Does', u'the', u'iPhone', u'4S', u'support', u'iOS', u'8', u'?'] , tags: irrelevant
+words : [u'What', u'is', u'the', u'best', u'price', u'for', u'the', u'Samsung', u'Galaxy', u'Grand', u'?'] , tags: feature_query
+words : [u'Are', u'Samsung', u'phones', u'that', u'support', u'4G', u'available', u'in', u'India', u'?'] , tags: irrelevant
+words : [u'What', u'Nokia', u'phones', u'can', u'I', u'get', u'within', u'Rs', u'15000', u'?'] , tags: price_query
+words : [u'Does', u'the', u'Moto', u'X', u'support', u'Android', u'4.4', u'?'] , tags: irrelevant
+words : [u'Does', u'the', u'Nexus', u'7', u'7', u'inch', u'tablet', u'support', u'Android', u'L', u'?'] , tags: irrelevant
+words : [u'Keep', u'is', u'an', u'app', u'released', u'by', u'Google', u'located', u'at', u'California'] , tags: feature_query
+words : [u'iOS', u'8.1', u'update', u'is', u'1.8', u'GB', u'in', u'size'] , tags: irrelevant
+words : [u'Samsung', u'galaxy', u'alpha', u'is', u'sold', u'at', u'39000', u'INR'] , tags: feature_query
+words : [u'Inbox', u'is', u'a', u'beautiful', u'new', u'app', u'by', u'Google'] , tags: feature_query
+words : [u'Nexus', u'6', u'is', u'a', u'6', u"''", u'screen', u'phone'] , tags: irrelevant
+words : [u'Moto', u'E', u'is', u'best', u'phone', u'under', u'10k'] , tags: irrelevant
+words : [u'Keynote', u'is', u'an', u'iOS', u'exclusive', u'app'] , tags: irrelevant
+words : [u'Best', u'phones', u'are', u'between', u'10k', u'and', u'15k'] , tags: irrelevant
+words : [u'Motorola', u'nexus', u'6', u'is', u'released', u'at', u'44k'] , tags: feature_query
+words : [u'Moto', u'g', u'released', u'on', u'20/09/14', u'for', u'13000', u'INR'] , tags: feature_query
+words : [u'Timely', u'is', u'a', u'beautiful', u'app'] , tags: feature_query
+words : [u'Samsung', u'galaxy', u'Note', u'4', u'is', u'a', u'6', u"''", u'phone'] , tags: irrelevant
+words : [u'HTC', u'Desire', u'V', u'is', u'sold', u'at', u'Rs', u'20000'] , tags: feature_query
+words : [u'iPhone', u'6', u'is', u'a', u'5', u'inch', u'phone', u'sold', u'at', u'60k'] , tags: irrelevant
+words : [u'Smart', u'phone', u'is', u'the', u'future'] , tags: irrelevant
+words : [u'Sony', u'xperia', u'z3', u'released', u'during', u'May'] , tags: feature_query
+words : [u'Galaxy', u'series', u'by', u'samsung', u'is', u'pretty', u'famous'] , tags: irrelevant
+words : [u'Android', u'is', u'very', u'customizable'] , tags: irrelevant
+words : [u'Android', u'5.0', u'looks', u'beautiful'] , tags: irrelevant
+words : [u'OS', u'X', u'Yosemite', u'12.0', u'released', u'for', u'8k'] , tags: irrelevant
+words : [u'Play', u'Music', u'app', u'by', u'Google', u'is', u'currently', u'not', u'available', u'in', u'India'] , tags: feature_query
+words : [u'Android', u'5.0', u'runs', u'smoothly', u'on', u'7', u'inch', u'tablet'] , tags: irrelevant
+words : [u'Moto', u'G', u'has', u'android', u'5.0', u'with', u'dual', u'SIM', u'at', u'13k'] , tags: feature_query
+words : [u'HTC', u'One', u'has', u'front', u'camera'] , tags: feature_query
+words : [u'which', u'is', u'the', u'best', u'3G', u'android', u'mobile', u'under', u'rs', u'.', u'5000', u'?'] , tags: price_query
+words : [u'Nokia', u'X', u'Vs', u'Nokia', u'lumia', u'630', u'Which', u'is', u'the', u'best', u'mobile', u'to', u'buy', u'?'] , tags: irrelevant
+words : [u'can', u'you', u'suggest', u'me', u'a', u'android', u'phone', u'of', u'size', u'6', u"''", u'under', u'rs', u'15000', u'?'] , tags: price_query
+words : [u'should', u'i', u'opt', u'for', u'a', u'bigger', u'screen', u'size', u'or', u'better', u'display'] , tags: comparison
+words : [u'i', u'need', u'a', u'5', u"''", u'android', u'smartphone'] , tags: irrelevant
+words : [u'i', u'need', u'an', u'android', u'smartphone', u'with', u'720p', u'display', u'and', u'below', u'15000'] , tags: irrelevant
+words : [u'can', u'you', u'suggest', u'me', u'some', u'android', u'phone', u'under', u'20000'] , tags: irrelevant
+words : [u'a', u'smartphone', u'with', u'at', u'least', u'13mp', u'camera', u'but', u'less', u'than', u'20000'] , tags: irrelevant
+words : [u'moto', u'x2', u'or', u'xiomi', u'mi4'] , tags: feature_query
+words : [u'which', u'all', u'phones', u'have', u'a', u'ram', u'of', u'3gb'] , tags: irrelevant
+words : [u'where', u'is', u'motorolla', u'headquaters', u'located'] , tags: feature_query
+words : [u'nexus', u'5', u'or', u'xiomi', u'mi3'] , tags: feature_query
+words : [u'phone', u'with', u'a', u'minimum', u'of', u'20000'] , tags: irrelevant
+words : [u'does', u'moto', u'g', u'support', u'nfc'] , tags: feature_query
+words : [u'does', u'moto', u'g2', u'support', u'nfc'] , tags: feature_query
+words : [u'does', u'nexus', u'5', u'has', u'a', u'heart', u'rate', u'sensor'] , tags: feature_query
+words : [u'should', u'i', u'go', u'for', u'A', u'slim', u'phone', u'or', u'a', u'light', u'phone'] , tags: irrelevant
+words : [u'WINDOWS', u'or', u'mozilla', u'os'] , tags: feature_query
+words : [u'do', u'you', u'have', u'galaxy', u'note', u'3'] , tags: feature_query
+words : [u'can', u'i', u'get', u'moto', u'g', u'delivered', u'in', u'bangalore'] , tags: feature_query
+words : [u'can', u'you', u'suggest', u'a', u'good', u'smartphone', u'with', u'quad-core', u'processor', u'and', u'below', u'18000'] , tags: irrelevant
+words : [u'what', u'should', u'i', u'opt', u'for', u'a', u'good', u'front', u'camera', u'or', u'a', u'good', u'back', u'camera'] , tags: feature_query
+words : [u'when', u'will', u'xiomi', u'mi4', u'come', u'to', u'india'] , tags: feature_query
+words : [u'I', u"'m", u'planning', u'to', u'buy', u'Moto-X', u'2', u'by', u'the', u'end', u'of', u'this', u'month'] , tags: feature_query
+words : [u'Why', u'does', u'Apple', u'focus', u'on', u'making', u'phones', u'slimmer', u',', u'they', u'must', u'focus', u'on', u'improving', u'battery', u'life', u'!'] , tags: irrelevant
+words : [u'HTC', u'One', u'M8', u'is', u'my', u'daily', u'driver'] , tags: feature_query
+words : [u'Narendra', u'Modi', u'uses', u'iPhone', u'5S'] , tags: feature_query
+words : [u'Android', u'5.0', u'is', u'nick', u'named', u'Lollipop', u',', u'i', u'wonder', u'next', u'version', u'will', u'be', u'Mint'] , tags: irrelevant
+words : [u'This', u'time', u'Moto-X', u'2', u'got', u'the', u'first', u'Android', u'5.0', u'update', u'rather', u'than', u'Nexus', u'phones'] , tags: irrelevant
+words : [u'I', u'love', u'LG', u'G2', u',', u'it', u'has', u'such', u'a', u'nice', u'hardware', u'build', u'quality', u'but', u'a', u'bad', u'User', u'Interface'] , tags: feature_query
+words : [u'LG', u'G3', u'has', u'a', u'QHD/1440p', u'5.5', u'inch', u'display', u',', u'but', u'it', u'is', u'as', u'light', u'and', u'small', u'as', u'a', u'5', u"''", u'phone', u'.', u'And', u'it', u'has', u'3GB', u'of', u'RAM', u'and', u'the', u'latest', u'processor'] , tags: irrelevant
+words : [u'While', u'I', u'may', u'not', u'be', u'interested', u'in', u'buying', u'the', u'Samsung', u'Galaxy', u'Note', u'4', u',', u'I', u'am', u'interested', u'in', u'what', u'specs', u'it', u'will', u'have'] , tags: feature_query
+words : [u'I', u'just', u'got', u'world', u'of', u'goo', u'free', u'from', u'amazon', u'app', u'store'] , tags: feature_query
+words : [u'Aquos', u'Crystal', u'Smartphone', u'from', u'Sharp', u'is', u'a', u'5-inch', u',', u'bezel-less', u'Android', u'handheld', u'worth', u'just', u'$', u'149'] , tags: irrelevant
+words : [u'Moto', u'G', u'is', u'the', u'best', u'budget', u'phone', u'in', u'its', u'category'] , tags: irrelevant
+words : [u'I', u"'m", u'planning', u'to', u'put', u'custom', u'paranoid', u'android', u'rom', u'on', u'my', u'LG', u'G2'] , tags: feature_query
+words : [u'Mailbox', u'is', u'the', u'best', u'replacement', u'for', u'Gmail'] , tags: feature_query
+words : [u'Material', u'design', u'is', u'Google', u"'s", u'next', u'big', u'leap', u'in', u'its', u'Android', u'division', u'.'] , tags: irrelevant
+words : [u'I', u'hope', u'to', u'join', u'Apple', u"'s", u'WWDC', u'next', u'year', u'at', u'Cupertino', u'on', u'its', u'next', u'big', u'launch', u'!'] , tags: feature_query
+words : [u'OnePlus', u'One', u'is', u'the', u'best', u'Android', u'Smartphone', u',', u'especially', u'for', u'developers', u'like', u'us'] , tags: irrelevant
+words : [u'I', u'just', u'earned', u'Rs', u'10000', u'by', u'creating', u'apps', u'for', u'iOS', u',', u'Android', u'using', u'PhoneGap'] , tags: irrelevant
+words : [u'The', u'NFC', u'Chip', u'in', u'the', u'new', u'iPhone', u'is', u'only', u'good', u'for', u'apple', u'pay', u'for', u'now'] , tags: irrelevant
+words : [u'You', u'must', u'try', u'Amazon', u'app', u'store', u',', u'you', u'get', u'free', u'apps', u'everyday', u'but', u'it', u'is', u'not', u'available', u'on', u'Google', u'Play', u'Store'] , tags: feature_query
+words : [u'I', u'do', u"n't", u'have', u'PhotoSphere', u'on', u'my', u'Moto', u'G', u',', u'it', u'needs', u'Gyro', u'Sensor'] , tags: feature_query
+words : [u'Recently', u'purchased', u'the', u'new', u'iPhone', u'6', u'Plus', u',', u'scared', u'of', u'bendGate', u'problem'] , tags: feature_query
+words : [u'The', u'nexus', u'runs', u'android', u'L'] , tags: feature_query
+words : [u'Samsung', u'released', u'the', u'alpha', u'in', u'November'] , tags: feature_query
+words : [u'I', u'like', u'the', u'Nexus', u'5'] , tags: feature_query
+words : [u'Angry', u'birds', u',', u'released', u'in', u'2011', u',', u'runs', u'smoothly', u'on', u'nexus'] , tags: feature_query
+words : [u'The', u'Nokia', u'lumia', u'with', u'8.1', u'costs', u'less', u'than', u'10000'] , tags: feature_query
+words : [u'Nokia', u'released', u'a', u'phone', u'priced', u'at', u'5000', u'in', u'January'] , tags: irrelevant
+words : [u'I', u'like', u'the', u'android', u'4.4'] , tags: feature_query
+words : [u'Unblock', u'me', u'runs', u'in', u'the', u'lumia', u'phones', u'which', u'are', u'less', u'than', u'10000'] , tags: irrelevant
+words : [u'The', u'lumia', u'5', u'inch', u'phone', u'is', u'inconvenient'] , tags: irrelevant
+words : [u'In', u'December', u',', u'a', u'Nexus', u'with', u'Lollipop', u'will', u'be', u'released'] , tags: feature_query
+words : [u'Nokia', u'plans', u'to', u'bring', u'the', u'8.1', u'to', u'India'] , tags: feature_query
+words : [u'Android', u'phones', u'bigger', u'than', u'5', u'inches', u'are', u'priced', u'over', u'20000'] , tags: irrelevant
+words : [u'I', u'love', u'Bangalore'] , tags: feature_query
+words : [u'I', u'like', u'android'] , tags: feature_query
+words : [u'The', u'iPhone', u'was', u'released', u'in', u'2012'] , tags: feature_query
+words : [u'Android', u'is', u'the', u'best'] , tags: irrelevant
+words : [u'Smartphones', u'these', u'days', u'are', u'as', u'cheap', u'as', u'3000'] , tags: feature_query
+words : [u'The', u'6', u'inch', u'lollipop', u'phone', u'costs', u'more', u'than', u'40k'] , tags: irrelevant
+words : [u'Motorola', u'phones', u'are', u'priced', u'over', u'15000'] , tags: irrelevant
+words : [u'Android', u'4.0', u'is', u'superior', u'to', u'Android', u'2.3'] , tags: irrelevant
+words : [u'Is', u'android', u'L', u'Sony', u'phone', u'available', u'in', u'bangalore', u'?'] , tags: irrelevant
+words : [u'What', u'are', u'the', u'new', u'features', u'of', u'Android', u'L', u'?'] , tags: irrelevant
+words : [u'Is', u'Sony', u'Experia', u'with', u'screen', u'size', u'5', u"''", u'available', u'?'] , tags: irrelevant
+words : [u'Any', u'new', u'updates', u'by', u'Karbonn', u'Smartphone', u'?'] , tags: feature_query
+words : [u'Is', u'there', u'any', u'HTC', u'phone', u'that', u'runs', u'Temple', u'Run', u'within', u'Rs', u'10000'] , tags: irrelevant
+words : [u'Is', u'there', u'any', u'Sony', u'windows', u'phone', u'?'] , tags: irrelevant
+words : [u'Will', u'I', u'get', u'android', u'L', u'update', u'next', u'week', u'?'] , tags: feature_query
+words : [u'Will', u'Temple', u'Run', u'work', u'in', u'the', u'Sony', u'phone', u'being', u'released', u'next', u'week', u'?'] , tags: irrelevant
+words : [u'Android', u'or', u'Windows', u'?'] , tags: irrelevant
+words : [u'What', u'will', u'be', u'the', u'price', u'of', u'nexus', u'7', u'?'] , tags: feature_query
+words : [u'when', u'is', u'iphone', u'6', u'releasing', u'?'] , tags: feature_query
+words : [u'Is', u'Samsung', u'Galaxy', u'S2', u'6', u"''", u'?'] , tags: irrelevant
+words : [u'Update', u'of', u'whatsapp', u'on', u'new', u'Android', u'phone', u'is', u'cool', u'.'] , tags: irrelevant
+words : [u'Will', u'I', u'get', u'my', u'Android', u'phone', u'Samsung', u'S5', u'repaired', u'in', u'next', u'week'] , tags: irrelevant
+words : [u'Is', u'Samsung', u'Galaxy', u'S3', u'available', u'?'] , tags: feature_query
+words : [u'When', u'will', u'I', u'get', u'my', u'ios', u'8', u'update', u'?'] , tags: feature_query
+words : [u'Will', u'Apple', u'release', u'its', u'phone', u'in', u'India', u'next', u'week', u'?'] , tags: irrelevant
+words : [u'Is', u'Samsung', u'Galaxy', u'S3', u'available', u'?'] , tags: feature_query
+words : [u'Will', u'the', u'app', u'AutoID', u'work', u'in', u'bangalore', u'?'] , tags: feature_query
+words : [u'I', u'got', u'my', u'first', u'update', u'of', u'Whtaspp', u'for', u'Samsung', u'galaxy', u'S4', u'in', u'bangalore'] , tags: feature_query
+words : [u'How', u'much', u'does', u'a', u'Moto', u'X', u'phone', u'cost', u'in', u'India', u'?'] , tags: irrelevant
+words : [u'Does', u'Angry', u'Birds', u'app', u'run', u'on', u'Gingerbread', u'OS', u'in', u'Android', u'?'] , tags: irrelevant
+words : [u'What', u"'s", u'the', u'screen', u'size', u'of', u'Samsung', u'Galaxy', u'Note', u'2'] , tags: feature_query
+words : [u'Is', u'6', u"''", u'the', u'maximum', u'size', u'in', u'Samsung', u'smartphones', u'?'] , tags: irrelevant
+words : [u'Is', u'there', u'an', u'Apple', u'iPhone', u'which', u'costs', u'less', u'than', u'40K', u'?'] , tags: feature_query
+words : [u'Where', u'can', u'I', u'buy', u'the', u'latest', u'Apple', u'iPhone', u'5', u'in', u'India', u'?'] , tags: feature_query
+words : [u'Is', u'there', u'a', u'Samsung', u'phone', u'under', u'5K', u'?'] , tags: irrelevant
+words : [u'Does', u'Samsung', u'Galaxy', u'Y', u'run', u'ICS', u'?'] , tags: feature_query
+words : [u'I', u'love', u'phones', u'in', u'Samsung', u'Galaxy', u'series'] , tags: irrelevant
+words : [u'Does', u'facebook', u'work', u'in', u'android', u'nexus', u'6', u'released', u'in', u'october', u'running', u'kitkat', u'?'] , tags: feature_query
+words : [u'Is', u'the', u'samsung', u'translator', u'app', u'only', u'in', u'galaxy', u'series', u'?'] , tags: irrelevant
+words : [u'Has', u'iPhone', u'5', u'been', u'released', u'in', u'India', u'?'] , tags: feature_query
+words : [u'What', u'does', u'Flipboard', u'app', u'for', u'android', u'do', u'?'] , tags: feature_query
+words : [u'How', u'do', u'you', u'install', u'Google', u'inbox', u'app', u'?'] , tags: feature_query
+words : [u'Does', u'the', u'Temple', u'Run', u'app', u'cost', u'more', u'than', u'Rs.50', u'in', u'the', u'market', u'?'] , tags: feature_query
+words : [u'When', u'will', u'iOS', u'8', u'be', u'released', u'in', u'India', u'?'] , tags: irrelevant
+words : [u'Moto', u'X', u'is', u'one', u'of', u'the', u'best', u'smartphones', u'in', u'its', u'range', u'.'] , tags: irrelevant
+words : [u'How', u'do', u'i', u'buy', u'iPhone', u'6', u'in', u'India', u'?'] , tags: feature_query
+words : [u'The', u'new', u'Motorola', u'phone', u'runs', u'KitKat', u'and', u'is', u'under', u'15k', u'.'] , tags: irrelevant
+words : [u'My', u'Moto', u'E', u'runs', u'Android', u'KitKat', u'.'] , tags: irrelevant
+words : [u'Samsung', u'S5', u'runs', u'Jelly', u'Bean', u'.'] , tags: feature_query
+words : [u'I', u'want', u'an', u'iOS', u'8', u'phone', u'for', u'around', u'20k', u'.'] , tags: irrelevant
+words : [u'Which', u'are', u'the', u'phones', u'which', u'run', u'Android', u'KitKat', u'.'] , tags: irrelevant
+words : [u'I', u'want', u'to', u'gift', u'my', u'mother', u'an', u'Adroid', u'KitKat', u'phone', u'next', u'month', u'.'] , tags: irrelevant
+words : [u'Android', u'on', u'Samsung', u'S5', u'can', u'run', u'Temple', u'Run', u'.'] , tags: irrelevant
+words : [u'Many', u'android', u'smartphones', u'today', u'are', u'available', u'within', u'Rs', u'15,000', u'.'] , tags: irrelevant
+words : [u'I', u'bought', u'my', u'Motorola', u'Android', u'KitKat', u'at', u'Bangalore', u'.'] , tags: irrelevant
+words : [u'I', u'own', u'a', u'Samsung', u'S5', u'phone', u'.'] , tags: irrelevant
+words : [u'My', u'Samsung', u'phone', u'from', u'Delhi', u'is', u'around', u'5', u"''", u'in', u'size', u'.'] , tags: irrelevant
+words : [u'My', u'Android', u'phone', u'with', u'Whatsapp', u'is', u'priced', u'at', u'Rs', u'.', u'9,000', u'.'] , tags: irrelevant
+words : [u'My', u'smartphone', u'is', u'a', u'Samsung', u'Galaxy', u'.'] , tags: irrelevant
+words : [u'Moto', u'E', u'costs', u'Rs', u'7000', u'.'] , tags: feature_query
+words : [u'My', u'Samsung', u'phone', u'is', u'4.5', u"''", u'in', u'size', u'.'] , tags: irrelevant
+words : [u'My', u'Samsung', u'Galaxy', u'Note', u'runs', u'Temple', u'Run'] , tags: feature_query
+words : [u'I', u'own', u'two', u'smartphones', u'.'] , tags: irrelevant
+words : [u'My', u'phone', u'runs', u'Android', u'KitKat', u'.'] , tags: irrelevant
+words : [u'Samsung', u'S5', u'smartphone', u'costs', u'around', u'25k', u'.'] , tags: irrelevant
+words : [u'I', u'bought', u'an', u'Android', u'Jelly', u'Bean', u'phone', u'for', u'15k', u'last', u'week', u'.'] , tags: irrelevant
+words : [u'When', u'will', u'the', u'new', u'Nexus', u'be', u'available', u'?'] , tags: feature_query
+words : [u'What', u'are', u'the', u'latest', u'Micromax', u'devices', u'?'] , tags: feature_query
+words : [u'Do', u'you', u'have', u'an', u'Inbox', u'invite', u'for', u'your', u'Moto', u'G', u'?'] , tags: feature_query
+words : [u'Which', u'android', u'smartphones', u'have', u'a', u'quad', u'core', u'processor', u'?'] , tags: irrelevant
+words : [u'I', u'need', u'a', u'SD', u'card'] , tags: feature_query
+words : [u'I', u'got', u'the', u'the', u'update', u'for', u'gmail', u'this', u'week', u'.'] , tags: feature_query
+words : [u'Smartphones', u'are', u'generally', u'worth', u'5k', u'as', u'of', u'2014'] , tags: feature_query
+words : [u'Candy', u'Crush', u'works', u'well', u'on', u'the', u'nexus', u'5'] , tags: feature_query
+words : [u'IOS', u'is', u'more', u'robust', u'than', u'android'] , tags: feature_query
+words : [u'Bangalore', u'sells', u'the', u'most', u'smartphones'] , tags: irrelevant
+words : [u'Mumbai', u'sells', u'most', u'IOS', u'phones'] , tags: irrelevant
+words : [u'Clash', u'of', u'the', u'clans', u'works', u'well', u'on', u'andriod'] , tags: feature_query
+words : [u'Google', u"'s", u'feature', u'phone', u'is', u'the', u'nexus'] , tags: irrelevant
+words : [u'Android', u'5.0', u'will', u'release', u'in', u'November'] , tags: irrelevant
+words : [u'Moto', u'G', u'has', u'gmail', u'pre', u'installed'] , tags: feature_query
+words : [u'Sony', u'makes', u'smartphones'] , tags: irrelevant
+words : [u'Android', u'OS', u'is', u'very', u'user', u'friendly'] , tags: irrelevant
+words : [u'Nexus', u'6', u'will', u'be', u'unveiled', u'at', u'California', u'in', u'November', u'.'] , tags: feature_query
+words : [u'how', u'may', u'i', u'help', u'you', u'?'] , tags: feature_query
+words : [u'Android', u'is', u'much', u'cheaper', u'than', u'IOS'] , tags: irrelevant
+words : [u'The', u'new', u'smartphone', u'launch', u'date', u'at', u'bangalore', u'is', u'in', u'March'] , tags: irrelevant
+words : [u'Cricbuzz', u'is', u'common', u'among', u'cricket', u'lovers'] , tags: feature_query
